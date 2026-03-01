@@ -1,0 +1,21 @@
+# PDFs e materiais binários (não versionar)
+*.pdf
+*.PDF
+
+# Arquivos extraídos de PDFs (derivados — regeneráveis)
+Extracted/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Claude Code — worktrees temporários
+.claude/worktrees/
+
+# Pastas de sistema
+.DS_Store
+desktop.ini
+Thumbs.db
