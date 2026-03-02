@@ -147,13 +147,38 @@
 - Tabagismo
 - DIU, anticoncepção de emergência
 
-### 2.4 Diagnóstico
+### 2.4 Diagnóstico — Algoritmo β-hCG (PONTO CRÍTICO DE PROVA)
 
-- β-hCG quantitativo + **USG transvaginal**
-- β-hCG **≥ 3.500 mUI/mL** sem visualização de gestação intrauterina → gestação ectópica
-- β-hCG < 3.500 mUI/mL sem imagem → **repetir β-hCG em 48h**
-  - Gestação tópica viável: aumenta ≥ **50%** em 48h
-  - Gestação inviável ou ectópica: aumento < 50% ou queda
+**Limiar discriminatório:** ~2.000 mUI/mL (zona: 1.500–3.500 conforme referência)
+- Abaixo do limiar: ausência de imagem gestacional na USG TV é **NORMAL** → gestação incipiente
+- Acima do limiar: ausência de imagem intrauterina → suspeitar de GE
+
+```
+β-hCG + USG TV
+       ↓
+β-hCG < 2.000, sem imagem ────────────────────────────────────┐
+       │                                                       │
+  Com imagem paraovariana?                              Sem imagem paraovariana
+       │ SIM                                                   │
+       ↓                                                       ↓
+  Curva em 48h                                          USG em 15 dias
+  (suspeita de GE)                                     (gestação incipiente)
+
+β-hCG ≥ 2.000, sem imagem intrauterina → suspeita de GE → curva em 48h
+       ↓
+  Aumento ≥50%? → Gestação tópica viável → acompanhar
+  Aumento <50% + cavidade vazia + imagem paraovariana → DIAGNÓSTICO FECHADO → laparoscopia
+```
+
+**Regra dos 3 critérios para fechar o diagnóstico de GE:**
+1. Aumento β-hCG < 50% em 48h (ou queda)
+2. Cavidade endometrial vazia
+3. Imagem paraovariana sugestiva
+
+Quando os 3 estão presentes: **não há mais o que repetir — tratar**.
+
+> ⚠️ Gestação tópica viável dobra o β-hCG em ~72h (≥50% em 48h)
+> ⚠️ β-hCG < 2.000 COM imagem paraovariana → curva em 48h (não aguardar 15 dias)
 
 ### 2.5 Tratamento
 
@@ -175,6 +200,10 @@
 - Queda ≥ 15% entre 4º e 7º dia → sucesso; dosagens semanais até negativar
 - Queda < 15% → nova dose de MTX
 - Sem queda → cirurgia
+
+> ⚠️ **"Dor de separação" (D5-7 pós-MTX):** dor abdominal é ESPERADA entre o 5° e 7° dia — MTX causa necrose do trofoblasto com reação peritoneal transitória. NÃO indica cirurgia se paciente estável. Cirurgia apenas se: instabilidade + descompressão + queda de Ht + piora na USG.
+
+> ⚠️ **Principal preditor de sucesso do MTX:** β-hCG inicial (não o tamanho da massa). Falha ↑↑ com β-hCG > 5.000; muito alta com > 10.000. Tamanho da massa = critério de eligibilidade, não de sucesso.
 
 **Contraindicações ao MTX:**
 - Gravidez intrauterina concomitante (heterotópica)

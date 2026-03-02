@@ -633,6 +633,258 @@ O sopro em foco pulmonar aparece tanto na EP quanto na T4F. A CIANOSE separa as 
 
 ## Ginecologia e Obstetrícia
 
+### Obstetrícia — Sangramentos da Primeira Metade
+
+#### Dor no 5°-7° dia pós-MTX é esperada ("dor de separação") — conservar se estável
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 2 — Não sabia que dor no 5°-7° dia pós-MTX é esperada
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Paciente com GE tratada com MTX, 5° dia pós-dose, com dor abdominal difusa em FIE. Estável hemodinamicamente, abdome flácido, sem descompressão, USG sem piora, Ht estável. Conduta?
+
+**Habilidades sequenciais:**
+1. Reconhecer o contexto: pós-MTX 5° dia, dor é o sintoma principal
+2. Saber que dor no 5°-7° dia pós-MTX é esperada (MTX causa necrose do trofoblasto → reação peritoneal transitória = "dor de separação")
+3. Avaliar sinais de alarme: estável + abdome flácido + sem descompressão + USG sem piora + Ht estável → sem sinais de rotura
+4. Conduta: analgesia + observação rigorosa (não cirurgia)
+
+**O que faltou:**
+Não sabia que a dor no D5-7 pós-MTX é fisiológica. Interpretou qualquer dor como emergência cirúrgica.
+
+**Explicação correta:**
+O MTX causa necrose do trofoblasto, que provoca reação peritoneal transitória entre o 5° e 7° dia — chamada de "dor de separação". Essa dor é esperada e não indica falha do tratamento nem rotura. A cirurgia é indicada apenas se houver instabilidade hemodinâmica, descompressão positiva ou queda de hematócrito.
+
+**Armadilha / nuance:**
+A dor abdominal na paciente em tratamento de GE com MTX é um dos distratores mais usados. O examinador descreve a dor como "difusa" para aumentar a impressão de gravidade. A ausência de sinais de rotura (instabilidade, descompressão, queda de Ht, piora na USG) é o elemento que descarta cirurgia.
+
+**Informações-chave para revisão:**
+- Dor D5-7 pós-MTX = "dor de separação" = fisiológica = analgesia + observação
+- Cirurgia pós-MTX indicada se: instabilidade hemodinâmica OU descompressão positiva OU queda de Ht OU piora da USG
+- Falha do MTX: queda <15% entre D4 e D7 → 2ª dose; sem queda → cirurgia
+- Dose única: MTX 50 mg/m² IM; controlar D4 e D7
+
+---
+
+#### β-hCG < 2.000 mUI/mL: não se espera imagem gestacional — limiar discriminatório
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Não sabia do limiar de 2.000 mUI/mL para visualização de imagem gestacional
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Mulher com β-hCG = 750 mUI/mL e USG mostrando cisto anecoico em ovário esquerdo + líquido em fundo de saco. Diagnóstico e conduta?
+
+**Habilidades sequenciais:**
+1. Saber que β-hCG < 2.000 mUI/mL = zona abaixo do limiar discriminatório → imagem gestacional NÃO deve ser vista na USG TV (gestação muito precoce)
+2. Concluir: todos os achados são compatíveis com gestação tópica incipiente normal
+3. Conduta: repetir USG em 15 dias (aguardar β-hCG crescer para imagem ser detectável)
+
+**O que faltou:**
+Não conhecia o limiar de 2.000 mUI/mL. Interpretou a imagem paraovariana e o líquido em FDS como sinais de GE e foi para laparoscopia — conduta completamente excessiva com β-hCG tão baixo sem critérios de GE.
+
+**Explicação correta:**
+O limiar discriminatório é o valor mínimo de β-hCG acima do qual a gestação intrauterina normalmente é visível na USG TV. Abaixo de 2.000 mUI/mL (algumas fontes: 1.500–3.500), a ausência de imagem é NORMAL e não indica GE. Com β-hCG = 750, o correto é aguardar: USG em 15 dias para reavaliar quando o β-hCG tiver crescido.
+
+**Armadilha / nuance:**
+A questão descreve achados "suspeitos" (cisto, líquido em FDS) justamente para induzi-lo a GE. Com β-hCG tão baixo, esses achados são incidentais ou fisiológicos — o limiar de 2.000 descarta GE como diagnóstico seguro.
+
+**Informações-chave para revisão:**
+- Limiar discriminatório β-hCG: ~2.000 mUI/mL (zona: 1.500-3.500 conforme a referência)
+- Abaixo do limiar: ausência de imagem na USG é NORMAL → gestação incipiente → USG em 15 dias
+- Acima do limiar: ausência de imagem intrauterina → suspeitar GE → curva em 48h
+- β-hCG = 750 → cisto ováriano e líquido em FDS são achados incidentais
+
+---
+
+#### Imagem paraovariana + β-hCG < 2.000: curva em 48h — não "incipiente em 1 semana"
+
+**Complexidade:** Alta
+**Elo quebrado:** Habilidades 2-3 — Pensou em repetir o β-hCG mas pela razão errada e no intervalo errado
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Mulher com β-hCG = 1.250 UI/L, sangramento, imagem paraovariana de 15x13mm na USG, eco endometrial de 13,5mm. Conduta?
+
+**Habilidades sequenciais:**
+1. Calcular: β-hCG = 1.250 < 2.000 → por si só seria gestação incipiente
+2. Identificar o elemento que muda tudo: imagem paraovariana → suspeita de GE, mesmo com β-hCG < 2.000
+3. Reconhecer: imagem paraovariana + zona cinzenta do β-hCG = curva em 48h (urgente), não aguardar 1 semana
+4. Eco endometrial 13,5mm < 15mm → não é abortamento incompleto (exige EE > 15mm)
+
+**O que faltou:**
+Pensou em repetir o β-hCG mas como gestação incipiente (β-hCG baixo, sem imagem) e propôs 1 semana de intervalo. O correto: a imagem paraovariana converte "incipiente" em "suspeita de GE" → curva em 48h.
+
+**Explicação correta:**
+O algoritmo tem 2 caminhos com β-hCG < 2.000: (1) sem imagem paraovariana = gestação incipiente → USG em 15 dias; (2) com imagem paraovariana = suspeita de GE → curva em 48h. A presença de imagem paraovariana é o divisor. O eco endometrial de 13,5mm também afasta abortamento incompleto (critério: EE > 15mm).
+
+**Armadilha / nuance:**
+O examinador coloca β-hCG < 2.000 para induzir o candidato a escolher "gestação incipiente + USG em 15 dias" ou "nova dosagem em 1 semana" — ambas as condutas inaceitáveis quando há imagem paraovariana. A imagem é o dado que muda tudo.
+
+**Informações-chave para revisão:**
+- β-hCG < 2.000 + SEM imagem paraovariana → gestação incipiente → USG 15 dias
+- β-hCG < 2.000 + COM imagem paraovariana → suspeita GE → curva em 48h
+- Curva em 48h: aumento ≥50% = tópica viável; <50% + imagem + cav. vazia = GE confirmada
+- Eco endometrial >15mm = abortamento incompleto; <15mm afasta essa hipótese
+
+---
+
+#### Diagnóstico de GE fechado por curva = laparoscopia, não nova dosagem
+
+**Complexidade:** Alta
+**Elo quebrado:** Habilidade 2 — Não sabia o critério que fecha o diagnóstico de GE pela curva
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** β-hCG 1200 → 1600 em 48h (+33%); imagem paraovariana heterogênea com fluxo Doppler; cavidade endometrial vazia. Conduta?
+
+**Habilidades sequenciais:**
+1. Calcular variação: 1.200 → 1.600 = +33% em 48h (< 50%) → não compatível com gestação tópica viável
+2. Verificar os 3 critérios que fecham diagnóstico: (a) aumento <50% em 48h + (b) cavidade vazia + (c) imagem paraovariana sugestiva → DIAGNÓSTICO FECHADO de GE
+3. Com diagnóstico fechado + paciente estável: videolaparoscopia (nova dosagem = redundante e retarda tratamento)
+
+**O que faltou:**
+Não sabia o ponto de "fechamento do diagnóstico". Julgou que nova curva seria necessária quando na verdade os 3 critérios já estavam satisfeitos.
+
+**Explicação correta:**
+O diagnóstico de GE é confirmado quando: aumento <50% em 48h (ou queda), cavidade endometrial vazia e imagem sugestiva de GE. Os 3 critérios estavam presentes. Nova dosagem de β-hCG seria redundante — o diagnóstico está estabelecido e o tratamento não deve ser adiado. Paciente estável com GE confirmada = videolaparoscopia (preferida à laparotomia quando sem rotura).
+
+**Armadilha / nuance:**
+A alternativa "nova curva em 48h" é a armadilha para quem não tem claro o ponto de fechamento do diagnóstico. A regra: quando os 3 critérios estão presentes, não há mais o que esperar — tratar.
+
+**Informações-chave para revisão:**
+- Fechamento do diagnóstico de GE: aumento β-hCG <50% em 48h + cavidade vazia + imagem paraovariana
+- Gestação tópica viável: aumento ≥50% em 48h (dobra em ~72h)
+- GE confirmada + estável: videolaparoscopia
+- GE confirmada + instável: laparotomia de emergência
+- β-hCG inicial é o melhor preditor de sucesso do MTX (falha ↑ com β-hCG > 5.000)
+
+---
+
+#### Gestação heterotópica: saco intrauterino + imagem anexial — ausência de Doppler não exclui GE
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 3 — Não conhecia gestação heterotópica; confundiu massa ectópica sem fluxo com teratoma
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** 1° USG: sem imagem intrauterina, β-hCG = 2.300. 2° USG: saco gestacional intrauterino com embrião (CCN 3mm) + tumor em anexo direito sem fluxo ao Doppler. β-hCG com elevação significativa. Diagnóstico?
+
+**Habilidades sequenciais:**
+1. Reconhecer: saco intrauterino com embrião = gestação tópica confirmada
+2. Reconhecer: imagem em anexo = estrutura extrauterina suspeita
+3. Definir gestação heterotópica: coexistência de gestação intra e extrauterina simultâneas
+4. Saber: ausência de fluxo ao Doppler NÃO exclui GE — "ring of fire" é clássico mas não obrigatório
+
+**O que faltou:**
+Não conhecia o conceito de gestação heterotópica. Pensou que "teratoma" explicaria a massa anexial porque ela não tinha fluxo Doppler, achando que GE sempre teria vascularização. O β-hCG com "elevação significativa" (não compatível com evolução de gestação simples + massa benigna) era pista adicional.
+
+**Explicação correta:**
+Gestação heterotópica = gestação intra + extrauterina simultâneas (incidência 1:30.000 espontânea; muito maior com FIV). O "ring of fire" ao Doppler é um achado clássico de GE tubária vascularizada, mas não é obrigatório — GE pode não ter fluxo detectável. Nesse caso, dois sítios gestacionais + β-hCG com aumento expressivo = heterotópica. Tratamento: cirurgia (MTX é contraindicado pois há gestação intrauterina viável).
+
+**Armadilha / nuance:**
+A ausência de fluxo ao Doppler induz o candidato a pensar em tumor benigno (teratoma). A evolução sequencial dos exames (1° sem imagem → 2° com dois sítios) e o β-hCG com aumento significativo são pistas que apontam para gestação ectópica coexistente.
+
+**Informações-chave para revisão:**
+- Gestação heterotópica = intra + extrauterina simultâneas
+- Tratamento: cirurgia — MTX CONTRAINDICADO (afetaria gestação intrauterina viável)
+- Ring of fire ao Doppler = clássico de GE, MAS não obrigatório; ausência não exclui
+- FIV aumenta muito o risco de gestação heterotópica
+- Teratoma: massa ováriana pré-existente estática; GE: massa nova + β-hCG crescente
+
+---
+
+#### DTG: hipertireoidismo (não hipotireoidismo) — hCG age nos receptores do TSH
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 2 — Sabia o mecanismo de cross-signalling mas inverteu o efeito
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Asserção sobre DTG diz que é complicação possível o "hipotireoidismo". A asserção está correta ou incorreta?
+
+**Habilidades sequenciais:**
+1. Lembrar as complicações da DTG: pré-eclâmpsia <20sem, hiperemese, anemia, hipertireoidismo
+2. Saber o mecanismo: hCG tem estrutura similar ao TSH → estimula receptores do TSH na tireoide → produção excessiva de T3/T4 → HIPERTIREOIDISMO (TSH sérico fica baixo por feedback negativo)
+
+**O que faltou:**
+Sabia do cross-signalling hCG → receptor TSH, mas inverteu a direção: pensou que o hCG "bloquearia" o TSH → hipotireoidismo. Na verdade, o hCG age como TSH, estimulando diretamente a tireoide — o resultado é hipertireoidismo, com TSH sérico baixo.
+
+**Explicação correta:**
+O hCG e o TSH compartilham subunidade alfa e têm receptores com estrutura homóloga. Em gestações com hCG muito elevado (como na mola), o hCG estimula diretamente o receptor do TSH na tireoide → aumento de T3/T4 → feedback negativo suprime o TSH sérico. O resultado clínico é hipertireoidismo, não hipotireoidismo. Regra mnemônica: DTG = tudo é HIPER.
+
+**Armadilha / nuance:**
+O raciocínio "hCG estimula receptor TSH → TSH ficaria inibido → hipotireoidismo" confunde estimulação do receptor com supressão do TSH sérico. O TSH sérico fica baixo por feedback SECUNDÁRIO ao hipertireoidismo, não como efeito primário do hCG.
+
+**Informações-chave para revisão:**
+- DTG: hipertireoidismo (não hipotireoidismo) — hCG age como TSH agonista
+- TSH sérico baixo = consequência secundária do hipertireoidismo por feedback negativo
+- Regra HIPER: HIPERemese, HIPERtireoidismo, HIPERtensão (<20sem), HIPER-hCG, HIPERcistos tecaluteínicos, HIPERaltura uterina
+- Controlar hipertireoidismo ANTES do esvaziamento molar (risco de crise tireotóxica)
+
+---
+
+#### AP do abortamento ≠ mola: vilosidades necróticas + cariótipo 47XXY = abortamento
+
+**Complexidade:** Alta
+**Elo quebrado:** Habilidades 1-2 — Confundiu o AP e o cariótipo do abortamento com o da mola parcial
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Material de AMIU por suspeita de abortamento retido. AP: vilosidades coriônicas + tecido trofoblástico com áreas necróticas. Cariótipo 47XXY. β-hCG = 5 mU/mL após 1 semana. Diagnóstico?
+
+**Habilidades sequenciais:**
+1. Interpretar o AP: vilosidades coriônicas com áreas necróticas = morfologia NORMAL do abortamento (não mola); mola tem vilosidades hidrópicas/edematosas com formação de cisterna central
+2. Interpretar o cariótipo: 47XXY = trissomia → causa mais comum de abortamento espontâneo; NÃO confundir com 69XXY (triploide = mola parcial)
+3. Interpretar β-hCG = 5 mU/mL após 1 semana: negativo → afasta mola (mola mantém β-hCG positivo por semanas/meses em curva decrescente)
+
+**O que faltou:**
+Confundiu as vilosidades com áreas necróticas com achado de mola. E confundiu 47XXY (trissomia = aneuploidia simples = abortamento) com 69XXY (triploide = mola parcial). O β-hCG negativo em 1 semana era a pista mais forte contra mola.
+
+**Explicação correta:**
+O abortamento espontâneo apresenta histologia com vilosidades normais e áreas necróticas — resultado da morte do concepto. A mola apresenta vilosidades edematosas/hidrópicas com cisterna central repleta de líquido. O cariótipo 47XXY é trissomia (aneuploidia), a causa mais comum de abortamento. A mola parcial tem cariótipo triploide (69XXY/XXX/XYY) — um "X" a mais não é a mesma coisa.
+
+**Armadilha / nuance:**
+O 47XXY parece próximo do 69XXY, mas são completamente diferentes: 47 = trissomia (um cromossomo extra) = abortamento; 69 = triploide (conjunto haploide extra) = mola parcial. O β-hCG de 5 mU/mL (negativo) em 1 semana fecha o diagnóstico de abortamento — em mola, o β-hCG leva semanas/meses para negativar.
+
+**Informações-chave para revisão:**
+
+| Achado | Abortamento | Mola Parcial | Mola Completa |
+|---|---|---|---|
+| AP (vilosidades) | Normais/necróticas | Hidrópicas focais + normais | Hidrópicas difusas + cisterna |
+| Cariótipo | **47XXY** (trissomia) | **69XXY/XXX** (triploide) | **46XX** (diploide paterno) |
+| β-hCG pós-curetagem | Zera em dias | Queda gradual (semanas) | Queda gradual (semanas) |
+| Embrião | Pode ter | Presente (malformado) | Ausente |
+
+- 47XXY = trissomia simples = aneuploidia = abortamento
+- 69XXY = triploide = conjunto haploide extra = mola parcial
+- β-hCG negativo em 1 semana = abortamento (mola levaria muito mais tempo)
+
+---
+
+#### β-hCG inicial é o principal preditor de sucesso do MTX — não o tamanho da massa
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 2 — Confundiu critério de elegibilidade (tamanho da massa) com preditor de sucesso
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Questão teórica sobre qual parâmetro é o melhor preditor isolado de sucesso do tratamento com MTX para GE.
+
+**Habilidades sequenciais:**
+1. Separar "critérios de elegibilidade para MTX" de "preditores de sucesso"
+2. Saber que o β-hCG inicial reflete diretamente a carga trofoblástica — principal preditor de sucesso; falha substancialmente aumentada quando β-hCG > 5.000 mUI/mL
+
+**O que faltou:**
+Marcou tamanho da massa como preditor de sucesso. O tamanho é critério de elegibilidade (massa < 4cm para usar MTX), mas não é o principal preditor de sucesso. O β-hCG inicial é o melhor parâmetro isolado.
+
+**Explicação correta:**
+O β-hCG inicial reflete a carga de tecido trofoblástico vivo. Quanto maior o β-hCG, maior a carga → maior a resistência ao MTX → maior a taxa de falha. Acima de 5.000 mUI/mL a taxa de falha aumenta significativamente; acima de 10.000 é muito alta. O tamanho da massa importa para elegibilidade (< 4cm), mas isoladamente é menos preditivo de sucesso que o β-hCG.
+
+**Armadilha / nuance:**
+A questão usa "isoladamente" — pista importante. O tamanho da massa é um critério, não o melhor preditor isolado. β-hCG inicial > tamanho da massa como preditor independente de sucesso.
+
+**Informações-chave para revisão:**
+- Principal preditor de sucesso do MTX: β-hCG inicial (quanto menor, maior o sucesso)
+- Falha do MTX ↑↑ com β-hCG > 5.000 mUI/mL; muito alta com > 10.000
+- Critérios de elegibilidade (abordam o "posso usar?"): β-hCG < 5.000, massa <4cm (Zugaib) / <3,5cm (FEBRASGO), sem BCF, GE íntegra, estável
+- Preditores de sucesso (abordam o "vai funcionar?"): β-hCG inicial é o principal
+
+---
+
 ### Obstetrícia — Pré-natal e Complicações da Gestação
 
 <!-- ENTRADAS AQUI -->
@@ -660,6 +912,166 @@ O sopro em foco pulmonar aparece tanto na EP quanto na T4F. A CIANOSE separa as 
 ### Ginecologia — Endocrinologia Reprodutiva e Planejamento Familiar
 
 <!-- ENTRADAS AQUI -->
+
+### Ginecologia — Climatério e Terapia Hormonal
+
+#### FSH é o exame padrão para diagnóstico de transição menopausal — não a inibina
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 3 — Diferenciar FSH (exame de rotina clínico) de inibina (marcador de reserva ovariana)
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Mulher de 50 anos com fogachos e irregularidade menstrual há 3 meses. Qual hormônio e respectivo nível sérico para confirmar diagnóstico de transição menopausal?
+
+**Habilidades sequenciais:**
+1. Reconhecer o quadro clínico como transição menopausal (fogachos + irregularidade)
+2. Saber que o diagnóstico do climatério é clínico, mas o exame laboratorial de escolha quando solicitado é o FSH
+3. Diferenciar FSH (padrão para diagnóstico de transição) de inibina B (cai no climatério, mas não é exame de rotina clínica — uso restrito a reprodução assistida) e AMH (reserva ovariana, reprodução assistida)
+
+**O que faltou:**
+Sabia que inibina B cai no climatério (fisiopatologia correta) e que FSH sobe (também correto), mas priorizou a inibina como "o marcador" em vez do FSH como exame clínico de rotina.
+
+**Explicação correta:**
+A queda da inibina B é a causa fisiopatológica do aumento do FSH — é ela que remove o feedback negativo sobre a hipófise. Porém, clinicamente, o exame solicitado é o FSH (valor >25 UI/L em 2 dosagens com intervalo confirma transição). A inibina B e o AMH ficam restritos à investigação de reprodução assistida e reserva ovariana.
+
+**Armadilha / nuance:**
+A inibina estar "envolvida" no processo é um fato fisiopatológico verdadeiro, o que cria a ilusão de ser a resposta. O examinador cobra o exame clínico de rotina, não o marcador da cascata fisiopatológica.
+
+**Informações-chave para revisão:**
+- FSH >25 UI/L (2 dosagens) = confirma transição menopausal laboratorialmente
+- Inibina B baixa → causa do FSH alto (fisiopatologia), não o exame de diagnóstico
+- AMH baixo (<1,0 ng/mL) = reserva ovariana baixa — para reprodução assistida, não diagnóstico de climatério
+- Diagnóstico do climatério é CLÍNICO; FSH só se dúvida, <45 anos ou histerectomizada
+
+---
+
+#### Estrogênio isolado (WHI) não aumenta risco de CA mama — E+P ≥5 anos é que aumenta
+
+**Complexidade:** Alta
+**Elo quebrado:** Habilidade 3 — Risco de CA mama é diferente entre E isolado e E+P
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Paciente de 56 anos com fogachos intensos, BIRADS 2, menopausa aos 50, sem comorbidades. Médico recomenda TH. Qual afirmativa sobre TH e segurança é correta?
+
+**Habilidades sequenciais:**
+1. Reconhecer que a paciente está dentro da janela de oportunidade e tem indicação de TH (fogachos com impacto na qualidade de vida)
+2. Saber os 2 grandes regimes: E isolado (histerectomizadas) vs E + P (com útero)
+3. Saber o perfil de risco diferenciado por regime: E+P ≥5 anos → ↑ CA mama; E isolado (WHI) → redução não significativa de CA mama
+4. Avaliar a alternativa sobre trombose: risco tromboembólico aumenta com a idade e com a via oral (não é independente de idade)
+
+**O que faltou:**
+Generalizou que "TH = risco de CA mama" sem diferenciar o regime. O aumento de CA mama é do E+P ≥5 anos, não do estrogênio isolado.
+
+**Explicação correta:**
+O estudo WHI (maior RCT sobre TH) mostrou que mulheres histerectomizadas usando apenas estrogênio tiveram redução (não significativa) no risco de CA mama. O aumento de CA mama é observado com a combinação E+P, especialmente após 5 anos de uso. O raciocínio "estrogênio estimula receptor → mais CA mama" funciona para o E+P mas não se confirma para o E isolado nos dados do WHI.
+
+**Armadilha / nuance:**
+O raciocínio fisiopatológico (estrogênio → ativa receptores mamários → proliferação) induz ao erro. Os dados do WHI contradizem esse raciocínio para o E isolado. A alternativa sobre trombose e idade (marcada) está errada porque o risco tromboembólico SIM aumenta com a idade e SIM depende da via (oral > transdérmica).
+
+**Informações-chave para revisão:**
+- WHI: E isolado → redução não significativa de CA mama (em histerectomizadas)
+- WHI: E + P ≥5 anos → aumento de CA mama (~0,1%/ano acima do basal)
+- Risco de trombose com TH: aumenta com a idade e com a via oral (1ª passagem hepática → ↑ fatores II, VII, IX, X, XII)
+- Via transdérmica → sem efeito trombogênico (sem 1ª passagem hepática)
+- CA colorretal: TH combinada → DIMINUI o risco (benefício secundário)
+
+---
+
+#### Sangramento vaginal de causa desconhecida = contraindicação absoluta à TH
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 3 — Reconhecer sangramento vaginal como contraindicação absoluta
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Mulher de 49 anos com sintomas vasomotores intensos, DUM há 14 meses, HAS em tratamento, corrimento avermelhado por 1 semana há 3 meses. Indicação de TH estroprogestativa?
+
+**Habilidades sequenciais:**
+1. Confirmar janela de oportunidade (49 anos, <10 anos de menopausa) e indicação (fogachos)
+2. Verificar se HAS em tratamento contraindica: HAS controlada → NÃO contraindica (apenas orienta via transdérmica)
+3. Reconhecer que corrimento avermelhado = sangramento vaginal de causa desconhecida → contraindicação absoluta à TH até investigação
+
+**O que faltou:**
+Não incluiu sangramento vaginal de causa desconhecida na lista de contraindicações absolutas. Considerou que um sangramento clinicamente "inocente" ou já resolvido poderia ser ignorado.
+
+**Explicação correta:**
+O sangramento vaginal de causa desconhecida contraindica a TH porque pode representar neoplasia endometrial ou outras patologias que seriam estimuladas pelo estrogênio exógeno. É imprescindível investigar a causa (USG transvaginal com endométrio ± histeroscopia ± biópsia) antes de iniciar qualquer terapia hormonal.
+
+**Armadilha / nuance:**
+O examinador descreve o sangramento como episódio único há 3 meses, já resolvido, criando a ilusão de irrelevância clínica. A contraindicação persiste enquanto a causa não for esclarecida.
+
+**Informações-chave para revisão:**
+- Sangramento vaginal de causa desconhecida = contraindicação absoluta à TH (antes de investigar)
+- Investigação: USG transvaginal (espessura endometrial >4mm em pós-menopáusica = patológico) → histeroscopia ± biópsia
+- HAS controlada NÃO contraindica TH; HAS descontrolada sim
+- DM controlado, mioma pequeno, hipotireoidismo controlado também NÃO contraindicam
+
+---
+
+#### Tamoxifeno + fogachos → venlafaxina; paroxetina/fluoxetina contraindicadas (CYP2D6)
+
+**Complexidade:** Alta
+**Elo quebrado:** Habilidades 3-4 — Não sabia quais antidepressivos inibem CYP2D6 e qual é seguro com tamoxifeno
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Mulher de 50 anos com fogachos intensos (>10/noite), menopausa há 1 ano. CA ductal invasivo há 2 anos em uso de tamoxifeno. Qual conduta medicamentosa para os fogachos?
+
+**Habilidades sequenciais:**
+1. Reconhecer CA mama prévio em tratamento com tamoxifeno = contraindicação absoluta à TH (inclusive tópica)
+2. Decidir pelo tratamento não hormonal dos fogachos → antidepressivos (ISRS/IRSN) são 1ª linha
+3. Reconhecer que paroxetina, fluoxetina e bupropiona inibem CYP2D6 fortemente; sertralina inibe moderadamente → todos reduzem eficácia do tamoxifeno → contraindicados
+4. Saber que venlafaxina (IRSN) NÃO inibe CYP2D6 → segura com tamoxifeno + boa eficácia (~61%) para fogachos
+5. Saber que clonidina tem eficácia baixa e não é 1ª linha quando há alternativa melhor
+
+**O que faltou:**
+Sabia que havia interação ISRS-tamoxifeno via CYP, mas não tinha claro quais drogas inibem CYP2D6 e qual é segura. Optou por clonidina como "alternativa neutra", ignorando sua eficácia inferior.
+
+**Explicação correta:**
+O tamoxifeno é ativado pela CYP2D6 a endoxifeno (metabólito ativo). Inibidores de CYP2D6 reduzem essa ativação e diminuem a eficácia antineoplásica do tamoxifeno. A venlafaxina (IRSN) não inibe CYP2D6 e tem eficácia demonstrada nos fogachos (~61%). A clonidina tem efeito discreto e não é 1ª linha.
+
+**Armadilha / nuance:**
+A questão cobra dois conhecimentos simultâneos: (1) qual ISRS é seguro com tamoxifeno; (2) qual não-antidepressivo (clonidina) tem eficácia inferior. Quem sabe apenas um dos dois pode errar por escolher a clonidina "por segurança".
+
+**Informações-chave para revisão:**
+- Tamoxifeno ativado por CYP2D6 → endoxifeno (metabólito ativo)
+- Inibem CYP2D6 (EVITAR com tamoxifeno): paroxetina (forte), fluoxetina (forte), bupropiona (forte), sertralina (moderado)
+- NÃO inibem CYP2D6 (SEGUROS com tamoxifeno): **venlafaxina, desvenlafaxina, citalopram, escitalopram**
+- Venlafaxina ~61% de redução de fogachos | Desvenlafaxina ~66% (mais eficaz)
+- Clonidina: eficácia baixa/discreta → não é 1ª linha quando há opção melhor
+- CA mama (atual, prévio ou in situ) = contraindicação absoluta à TH, inclusive estrogênio tópico vaginal (SOBRAC)
+
+---
+
+#### ACO combinado prolongado aumenta risco de CA mama; E+P tem risco similar (não menor) ao E isolado
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 1 — Não sabia da relação ACO prolongado → ↑ risco de CA mama
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Questão sobre afirmativas corretas quanto ao uso de tratamentos hormonais (ACO, DIU-LNG, TH pós-menopausa).
+
+**Habilidades sequenciais:**
+1. Saber que ACO combinado por tempo prolongado (>5 anos) aumenta risco de CA mama (~20% RR — estudo dinamarquês NEJM 2017, 1,8 milhão de mulheres)
+2. Saber que DIU-LNG reduz risco de CA endométrio (ação progestagênica local)
+3. Saber que E+P pós-menopausa tem risco de CA mama similar ao E isolado (ou maior, não menor)
+4. Saber que E isolado pós-menopausa aumenta discretamente CA ovário e CA endométrio (sem progestágeno)
+
+**O que faltou:**
+Não conhecia a relação entre ACO combinado e aumento do risco de CA mama. Também tinha o conceito errado de que E+P teria risco menor que E isolado para CA mama — na verdade é o oposto: E+P ≥5 anos tem risco maior que E isolado.
+
+**Explicação correta:**
+Estudo dinamarquês (NEJM 2017): mulheres em uso de ACO hormonal combinado têm ~20% maior risco de CA mama vs não usuárias; sem aumento significativo se uso <5 anos. O DIU com levonorgestrel também aumentou risco. E+P pós-menopausa tem risco de CA mama maior que E isolado (WHI), não menor.
+
+**Armadilha / nuance:**
+A alternativa C (marcada) afirma que E+P tem risco MENOR que E isolado para CA mama — a formulação sutil (menor vs similar/maior) é exatamente a armadilha. E+P ≥5 anos tem maior risco que E isolado, não menor. A alternativa E (ACOs aumentam CA ovário/endométrio) também é armadilha clássica — ACOs REDUZEM esses cânceres.
+
+**Informações-chave para revisão:**
+- ACO combinado prolongado (>5 anos): ↑ ~20% RR para CA mama (estudo dinamarquês, NEJM 2017)
+- ACO combinado: ↓ risco CA ovário e CA endométrio (benefício com uso prolongado)
+- DIU-LNG: ↓ risco CA endométrio | pode ↑ modestamente CA mama (estudo dinamarquês)
+- E+P pós-menopausa ≥5 anos: ↑ CA mama (mais que E isolado, não menos)
+- E isolado pós-menopausa: sem ↑ CA mama (WHI) | ↑ discretamente CA ovário e CA endométrio
+
+---
 
 ---
 

@@ -81,6 +81,13 @@
 - Hipertensas: ACO combinado = categoria 3 (evitar)
 - O diagnóstico do climatério **não exige FSH** para iniciar anticoncepção
 
+**ACO combinado e câncer — efeitos opostos por sítio:**
+- ↓ risco CA ovário e CA endométrio (uso prolongado — benefício bem estabelecido)
+- ↑ risco CA mama: ~20% RR com uso prolongado (>5 anos) — estudo dinamarquês (NEJM 2017, 1,8 mi mulheres); sem aumento significativo se uso <5 anos
+- DIU-LNG (levonorgestrel): ↓ CA endométrio | pode ↑ modestamente CA mama
+
+> ⚠️ Padrão de prova: "ACO prolongado diminui CA ovário e endométrio — verdadeiro; porém aumenta CA mama — armadilha frequente nas alternativas"
+
 ---
 
 ### 3.5 Alterações Cardiovasculares
@@ -229,8 +236,21 @@ Indicado para pacientes com contraindicação à TH (ex: CA de mama, coronariopa
 - Sertralina: resultados conflitantes
 - **Fluoxetina: não demonstra efeito significativo**
 
-> ⚠️ Paroxetina, fluoxetina, bupropiona, sertralina inibem CYP2D6 → **não usar com tamoxifeno** (reduzem sua eficácia)
 > ⚠️ ISRS reduzem o desejo sexual → evitar se houver queixa de disfunção sexual concomitante
+
+**Tabela de interação com tamoxifeno (via CYP2D6):**
+
+| Fármaco | Inibe CYP2D6? | Usar com tamoxifeno? |
+|---|---|---|
+| Paroxetina | Forte | ❌ Contraindicado |
+| Fluoxetina | Forte | ❌ Contraindicado |
+| Bupropiona | Forte | ❌ Contraindicado |
+| Sertralina | Moderado | ❌ Evitar |
+| **Venlafaxina** | **Não** | **✅ Escolha** |
+| **Desvenlafaxina** | **Não** | **✅ Mais eficaz** |
+| Citalopram/Escitalopram | Fraco | ✅ Aceitável |
+
+> ⚠️ Tamoxifeno ativado por CYP2D6 → endoxifeno (metabólito ativo). Inibidores de CYP2D6 reduzem sua eficácia antineoplásica.
 
 **Outros:** gabapentina ~50% | clonidina (redução discreta) | fitomedicamentos (Cimicifuga, soja — sem comprovação robusta)
 
@@ -291,9 +311,12 @@ Indicado para pacientes com contraindicação à TH (ex: CA de mama, coronariopa
 - 🔴 Ooforectomia bilateral → ↑ risco **CV** (não CA mama, não trombose — ambos caem)
 - 🔴 TVP prévia → TH contraindicada; clonidina é alternativa para fogachos
 - 🔴 Histerectomizada + endometriose → estroprogestativo, nunca E isolado
-- 🔴 E isolado (WHI) → sem aumento de CA mama; E+P ≥5 anos → ↑ risco
+- 🔴 E isolado (WHI) → sem aumento de CA mama (houve redução não significativa); E+P ≥5 anos → ↑ risco; E+P tem risco MAIOR que E isolado (não menor)
+- 🔴 ACO combinado prolongado (>5 anos) → ↑ CA mama ~20% RR (estudo dinamarquês NEJM 2017); ACO ↓ CA ovário e endométrio (efeitos opostos por sítio)
 - 🔴 Vaginite atrófica (pH >5, células basais, sem clue cells) → estriol tópico, não metronidazol
 - 🔴 Tamoxifeno + fogachos → venlafaxina; paroxetina/fluoxetina proibidas (CYP2D6)
 - 🔴 Risco de trombose aumenta com a **idade** e com a **via oral**; transdérmica = risco basal
 - 🔴 Atrofia urogenital piora com o tempo; fogachos tendem a melhorar
 - 🔴 Testosterona transdérmica → desejo sexual hipoativo (não suspender TH base)
+- 🔴 Sangramento vaginal de causa desconhecida = contraindicação absoluta à TH (mesmo episódio único, mesmo resolvido — investigar causa antes de iniciar)
+- 🔴 FSH é o exame clínico de rotina para diagnóstico de transição menopausal; inibina B é o marcador fisiopatológico (explica o ↑ FSH), não o exame de escolha clínico
