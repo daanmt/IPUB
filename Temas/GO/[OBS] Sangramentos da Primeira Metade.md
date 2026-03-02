@@ -220,7 +220,7 @@ Quando os 3 estão presentes: **não há mais o que repetir — tratar**.
 ⭐ Imunoglobulina anti-D em todas as gestantes **Rh negativo** com gestação ectópica
 
 **Gestações atípicas:**
-- **Heterotópica:** cirurgia — MTX **contraindicado** pois há gestação intrauterina viável
+- **Heterotópica:** gestação intra + extrauterina simultâneas | cirurgia — MTX **contraindicado** (afetaria gestação viável intrauterina) | FIV ↑ muito o risco | "ring of fire" ao Doppler = clássico de GE mas NÃO obrigatório — ausência de fluxo não exclui GE
 - **Cervical:** MTX local por punção guiada por USG
 - **Cicatriz de cesárea:** mais rara e agressiva; MTX ou cirurgia
 - **Intersticial/cornual:** MTX local + cloreto de potássio se BCF; ressecção em emergência
@@ -288,7 +288,7 @@ Quando os 3 estão presentes: **não há mais o que repetir — tratar**.
 
 ⭐ **Pré-eclâmpsia antes de 20 semanas → sempre pensar em mola!**
 ⭐ **hCG > 200.000 mUI/mL → sempre pensar em mola!**
-⭐ **Hipertireoidismo** (não hipotireoidismo!) — cuidado com a pegadinha
+⭐ **Hipertireoidismo** (não hipotireoidismo!) — mecanismo: hCG age como TSH agonista → estimula tireoide → ↑ T3/T4 → TSH sérico baixo por feedback. Controlar ANTES do esvaziamento (risco de crise tireotóxica).
 
 ### 3.4 Diagnóstico
 
@@ -320,6 +320,18 @@ Imunoglobulina anti-D: todas as pacientes **Rh negativo**
 - **Semanal** até negativar
 - **Mensal** por 6 meses após negativação
 - Após 6 meses com hCG negativo → liberada para nova gestação
+
+**Diferencial anatomopatológico — abortamento vs mola (PONTO CRÍTICO):**
+
+| Achado | Abortamento | Mola Parcial | Mola Completa |
+|---|---|---|---|
+| Vilosidades | Normais/necróticas | Hidrópicas focais + normais | Hidrópicas difusas + cisterna central |
+| Cariótipo | **47XXY** (trissomia) | **69XXY/XXX** (triploide) | **46XX** (diploide paterno) |
+| β-hCG pós-procedimento | Zera em dias | Queda gradual semanas | Queda gradual semanas |
+| Embrião | Pode ter | Presente (malformado) | Ausente |
+
+> ⚠️ 47XXY ≠ 69XXY: 47 = trissomia simples = abortamento | 69 = triploide (conjunto haploide extra) = mola parcial
+> ⚠️ β-hCG negativo em 1 semana = abortamento (mola levaria muito mais tempo para negativar)
 
 **Critérios diagnósticos de NTG (qualquer um é suficiente para diagnóstico):**
 - Platô do hCG por 3 semanas consecutivas (sem queda nem subida)
@@ -359,3 +371,20 @@ Imunoglobulina anti-D: todas as pacientes **Rh negativo**
 **NTG baixo risco:** MTX monoterapia
 
 **NTG alto risco:** EMA/CO (quimioterapia combinada)
+
+---
+
+## 5. Armadilhas de Prova
+
+- 🔴 β-hCG < 2.000 sem imagem → **gestação incipiente** (não GE) — USG em 15 dias; com imagem paraovariana → curva em 48h
+- 🔴 β-hCG < 2.000 com imagem paraovariana ≠ "incipiente em 1 semana" → **curva urgente em 48h**
+- 🔴 Dor no D5-7 pós-MTX = "dor de separação" = **esperada** → analgesia + observação (não cirurgia)
+- 🔴 Diagnóstico fechado de GE (aumento <50% + cav. vazia + imagem) → **não repetir curva** → laparoscopia
+- 🔴 Gestação heterotópica: saco intrauterino + imagem anexial → **cirurgia** (MTX contraindicado)
+- 🔴 Ring of fire ao Doppler é clássico de GE mas não obrigatório — **ausência não exclui GE**
+- 🔴 DTG: **hipertireoidismo** (não hipotireoidismo) — hCG age como TSH agonista → HIPER
+- 🔴 47XXY = trissomia = abortamento | 69XXY = triploide = **mola parcial** — não confundir
+- 🔴 Principal preditor de sucesso do MTX: **β-hCG inicial** (não tamanho da massa; massa é critério de elegibilidade)
+- 🔴 Eco endometrial > 15mm = abortamento incompleto; < 15mm = completo ou incipiente
+- 🔴 Abortamento completo: colo fecha DEPOIS que sangramento para e produto é expulso — colo fechado com sangramento ativo ≠ completo
+- 🔴 Mola: NÃO usar misoprostol para esvaziamento → aspiração a vácuo (AMIU)
