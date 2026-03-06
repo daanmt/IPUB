@@ -66,6 +66,198 @@ perfil A servem exatamente para afastar essa hipótese e direcionar para efeito 
 
 <!-- ENTRADAS AQUI -->
 
+#### Asma Q1 — Tórax silente + hipercapnia = IOT imediata (O2 isolado é insuficiente)
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 3 — Reconhecer que O2 isolado é apenas adjunto; conduta principal é IOT
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Paciente asmática, frases incompletas, agitada, taquicárdica, cianótica, tórax silente, já em uso de SABA em doses elevadas + corticoide IV. Gasometria: PaO2 58, PaCO2 42. Qual a conduta?
+
+**Habilidades sequenciais:**
+1. Classificar como exacerbação muito grave (tórax silente + cianose + frases incompletas)
+2. Reconhecer PaCO2 42 mmHg como ALARME em asmático grave (esperado: PaCO2 baixo por hiperventilação; PaCO2 normal = fadiga respiratória)
+3. Saber que com falência ao tratamento máximo + tórax silente → IOT imediata, não O2 isolado
+4. Entender que O2 é adjunto durante o preparo para IOT, não a conduta principal
+
+**O que faltou:**
+Interpretou a ausência de O2 prévio como indicação de ofertar O2 antes de intubar. Mas o contexto clínico (tórax silente + cianose + PaCO2 normalizado com tratamento máximo) já fecha a indicação de IOT; O2 é medida de suporte durante o preparo.
+
+**Explicação correta:**
+GINA: paciente sonolento/confuso/tórax silente → preparar IOT imediatamente. O2 suplementar é administrado durante o processo, não como conduta definitiva. PaCO2 42 em asmático grave = hipercapnia funcional (paradoxo do N2 normalizado = exaustão muscular iminente).
+
+**Armadilha / nuance:**
+O examinador omite O2 prévio para induzir o candidato a pensar que "falta O2 antes de intubar". O dado decisivo é o conjunto: tórax silente + cianose + PaCO2 normal com tratamento máximo = IOT, não O2.
+
+**Informações-chave para revisão:**
+- PaCO2 normal ou ↑ em crise de asma = ALARME (normalmente ↓ pela hiperventilação)
+- PaCO2 ≥ 45 mmHg = fadiga respiratória = iminência de parada
+- Tórax silente + cianose + sonolência/confusão = IOT imediata, independentemente de O2 anterior
+- O2 administrado durante o preparo para IOT (adjunto, não conduta definitiva)
+- Indução: quetamina + propofol (propriedades broncodilatadoras)
+
+---
+
+#### Asma Q2 — Corticoide sistêmico: VO = EV em eficácia; cautela com β2-agonistas é mito para a via inalatória
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Diferenciar via oral vs EV de corticoide e efeitos da via inalatória vs sistêmica do β2
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Questão conceitual sobre manejo da asma aguda. Alternativa C afirma que VO é preferível ao EV para corticoide sistêmico. Alternativa D afirma que β2-agonistas devem ser usados com "extrema cautela" pelas alterações cardíacas.
+
+**Habilidades sequenciais:**
+1. Saber que corticoide oral tem eficácia equivalente ao EV nas exacerbações
+2. Diferenciar efeitos cardíacos do β2 inalatório (mínimos) vs β2 sistêmico/EV (significativos)
+3. Excluir alternativa D: SABA inalatório = terapia de escolha inicial, sem cautela excessiva
+
+**O que faltou:**
+Confundiu "ICS" (corticoide inalatório) com o assunto da alternativa C (corticoide sistêmico VO vs EV). Também conhecia os efeitos cardíacos dos β2, mas não distinguia via inalatória (segura) de via sistêmica/IV (efeitos CV significativos).
+
+**Explicação correta:**
+Prednisolona VO 1 mg/kg/dia (máx 50 mg) = equivalente ao EV em eficácia nas exacerbações; preferir VO pela menor taxa de efeitos adversos e pela praticidade. SABA inalatório: efeitos cardíacos mínimos; β2 EV/sistêmico: efeitos significativos (taquicardia, hipopotassemia, arritmias).
+
+**Armadilha / nuance:**
+Questão que testa a distinção via inalatória vs sistêmica para o β2-agonista. Alternativa D usaria linguagem correta apenas para β2 sistêmico; para o inalatório, "extrema cautela" é incorreto.
+
+**Informações-chave para revisão:**
+- Corticoide sistêmico na crise: VO = EV em eficácia → preferir VO
+- Prednisolona 1 mg/kg/dia (ou 50 mg/dia) por 5–7 dias
+- SABA inalatório = terapia de escolha inicial; efeitos cardíacos desprezíveis vs β2 IV
+- β2 IV/sistêmico: reservado para casos graves sem resposta ao inalatório
+
+---
+
+#### Asma Q3 — Classificação de gravidade por parâmetros objetivos (FR, FC, SpO2, PFE)
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 1 — Classificar corretamente a gravidade da exacerbação pelos parâmetros
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Homem 22 anos, pedreiro, antecedente de rinite/eczema, episódios 3×/mês melhora com salbutamol. Piora nas últimas semanas desde tratamento para dorsalgia (AINEs!). Há 2 dias: dificuldade para falar palavras (frases monossilábicas). EF: sibilos, FR 32, FC 122, SO2 88%.
+
+**Habilidades sequenciais:**
+1. Reconhecer GRAVE pelos parâmetros: FR>30, FC>120, SO2<90%, frases monossilábicas
+2. Saber que PFE esperado em grave = <50% do predito (não 50-70% como na moderada)
+3. Identificar AINE como gatilho da piora (inibidor COX-1 → broncoespasmo em asmáticos)
+4. Aplicar tratamento correto: prednisolona VO 1 mg/kg/dia por 5-7 dias
+
+**O que faltou:**
+Não consolidou os critérios numéricos de gravidade. Marcou "moderada" (PFE 50-70%) sem checar que os parâmetros clínicos (FR 32, FC 122, SO2 88%, monossilábico) todos apontam para GRAVE.
+
+**Explicação correta:**
+Grave = FR>30 + FC>110-120 + SO2 91-95% (aqui 88% = muito grave para SpO2) + frases incompletas/monossilábicas. PFE esperado <50%. Tratamento: SABA + ipratrópio + O2 meta 93-95% + corticoide sistêmico (VO preferível, 1mg/kg/dia por 5-7d) ± MgSO4.
+
+**Armadilha / nuance:**
+AINE como gatilho: pedreiro + dorsalgia = AINE → broncoespasmo. Pista clínica do examinador que contextualiza a piora progressiva.
+
+**Informações-chave para revisão:**
+- GRAVE: FR>30, FC>110-120, SpO2 91-95%, PFE 30-50%, frases incompletas, musculatura acessória
+- MUITO GRAVE: SpO2 ≤90%, PFE <30%, confusão/sonolência, bradicardia ou FC>140
+- PFE <50% = grave; PFE <30% = muito grave
+- AINEs (inibidores COX-1) = gatilho clássico de broncoespasmo em asmáticos (↓ PGE2, ↑ leucotrienos)
+- Alta com PFE >60-80% + SpO2 >94% + sem need de SABA
+
+---
+
+#### Asma Q4 — Excesso de O2 causa atelectasia por absorção (lavagem de nitrogênio)
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Compreender por que O2 a 100% é prejudicial mesmo na asma
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Questão conceitual sobre oxigenoterapia na asma. Mecanismo do excesso de O2.
+
+**Habilidades sequenciais:**
+1. Saber que N2 atua como "tala alveolar" (mantém a estrutura do alvéolo aberto)
+2. Entender que O2 a 100% "lava" o N2 alveolar → N2 absorvido → microatelectasias
+3. Distinguir do mecanismo da DPOC (carbonarcose por ↓ drive hipóxico) — na asma não há drive hipóxico, mas excesso de O2 ainda causa atelectasia por absorção
+4. Saber a meta correta: SpO2 93-95% (não 100%)
+
+**O que faltou:**
+Desconhecia o mecanismo de atelectasia de absorção por lavagem de N2. Sabia a meta de SpO2 mas não o fundamento fisiopatológico.
+
+**Explicação correta:**
+Nitrogênio (≈78% do ar) mantém a estabilidade dos alvéolos. Com O2 a 100%, o N2 alveolar é absorvido pelo sangue → alvéolo colapsa (atelectasia de absorção). Além disso, alto fluxo de O2 causa vasodilatação intrapulmonar → piora da relação V/Q. Meta: 93-95%. O2 não deve ser administrado sem oxímetro disponível.
+
+**Armadilha / nuance:**
+A limitação do O2 na DPOC é pela carbonarcose (drive hipóxico); na asma, o mecanismo é diferente (atelectasia de absorção + V/Q), mas o princípio prático é o mesmo: evitar hiperoxia.
+
+**Informações-chave para revisão:**
+- Meta SpO₂ na crise de asma: 93-95% (não ultrapassar 96%)
+- O2 a 100% → lavagem de N2 alveolar → atelectasia por absorção
+- N2 = "tala alveolar" — mantém estrutura do alvéolo aberto
+- O2 a 100% em crise grave: piores desfechos fisiológicos vs meta titulada (evidência B)
+- Não administrar O2 sem oxímetro disponível
+
+---
+
+#### Asma Q5 — Rx tórax é o menos útil na crise aguda de asma
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Hierarquizar utilidade dos exames complementares na crise aguda
+**Tipo de erro:** Erro de leitura
+
+**Caso:** Questão pede o exame que fornece MENOS informação na avaliação de severidade de crise asmática aguda. Opções: VEF1, oximetria, Rx tórax, gasometria, PFE.
+
+**Habilidades sequenciais:**
+1. Saber que VEF1 e PFE são padrão-ouro para gravidade objetiva da obstrução
+2. Saber que oximetria e gasometria são fundamentais para avaliar hipoxemia e hipercapnia
+3. Reconhecer que Rx tórax não é de rotina na crise — útil apenas para DDx ou complicações
+
+**O que faltou:**
+Erro de desatenção: sabia o conteúdo, mas interpretou como contexto ambulatorial e escolheu gasometria. A gasometria É muito útil na crise (PFE/VEF1 <50% ou sem resposta ao tratamento).
+
+**Explicação correta:**
+Rx tórax: não é rotina na crise asmática; geralmente não é reveladora (pode mostrar hiperinsuflação inespecífica). Indicações selecionadas: suspeita de pneumotórax, pneumonia, DDx, pacientes idosos, sem resposta ao tratamento. Gasometria: essencial em casos graves.
+
+**Armadilha / nuance:**
+A armadilha é confundir o contexto: a questão é de emergência, não ambulatorial. Em emergência, gasometria tem alta utilidade; Rx é o menos útil dos listados.
+
+**Informações-chave para revisão:**
+- Rx tórax na crise = NÃO é rotina; indicações selecionadas (complicações, DDx, idoso, sem resposta)
+- PFE/VEF1 = melhor parâmetro objetivo de gravidade (medir antes do tratamento, sem atrasar)
+- Gasometria: indicada se PFE/VEF1 <50% ou piora/sem resposta
+- SpO2 <92% = preditor de necessidade de internação
+
+---
+
+#### Asma Q6 — MART com ICS-formoterol não elimina SABA para todo paciente em CI + LABA
+
+**Complexidade:** Alta
+**Elo quebrado:** Habilidade 3 — Distinguir quando SABA permanece como resgate vs quando MART o substitui
+**Tipo de erro:** Armadilha do examinador
+
+**Caso:** Questão sobre uso de salbutamol como resgate. Alternativa D afirma que "em pacientes em uso contínuo de CI + LABA, o salbutamol deixou de ser opção de resgate recentemente". Alternativa C: >3 canisters/ano = risco ↑ exacerbações; >1/mês = risco ↑ morte.
+
+**Habilidades sequenciais:**
+1. Saber que SABA em monoterapia é proibido desde GINA 2019
+2. Saber que MART (ICS-formoterol como manutenção + resgate) substitui o SABA no Track 1
+3. Reconhecer que SABA permanece como resgate no Track 2 e quando o LABA de manutenção NÃO é formoterol
+4. Identificar que a alternativa D é absoluta demais — "deixou de ser opção" não é verdade para todos os cenários
+5. Confirmar C como correta: limiares de uso excessivo de SABA com evidência
+
+**O que faltou:**
+Conhecia a lógica do MART e extrapolou: "se o GINA 2025 prefere ICS-formoterol, SABA não é mais resgate para quem usa CI + LABA". Mas SABA mantém-se quando o LABA não é formoterol (outros LABAs não podem ser usados como resgate).
+
+**Explicação correta (filtrada pelo GINA 2025):**
+GINA 2025 Track 1: ICS-formoterol como manutenção + resgate (MART) → SABA desnecessário para esses pacientes. Porém: Track 2 (CI + outro LABA, ex: salmeterol, vilanterol) → SABA permanece como resgate. A alternativa D generaliza indevidamente ("todo paciente em CI + LABA"). O comentário do professor no fórum está correto: letra D é absoluta demais → incorreta.
+
+**Armadilha / nuance:**
+Examinador usa o conhecimento parcial do GINA 2025 (MART substitui SABA) para induzir à generalização incorreta. A regra é: SABA pode ser dispensado apenas quando o LABA de manutenção é o formoterol (que permite uso como resgate). Com qualquer outro LABA, SABA permanece.
+
+**Informações-chave para revisão:**
+- MART = ICS-formoterol como manutenção + resgate → SABA dispensável nesses pacientes
+- Track 2 (CI + LABA ≠ formoterol): SABA permanece como resgate obrigatório
+- SABA > 3 canisters/ano = risco ↑ exacerbações e hospitalizações
+- SABA > 1 canister/mês = risco substancialmente ↑ de óbito
+- SABA em monoterapia: proibido desde GINA 2019 (todo asmático recebe CI)
+- Combinação ICS + salbutamol (beclometasona + salbutamol) existe no Brasil mas não na farmácia popular
+
+---
+
+
+
 ### Gastroenterologia e Hepatologia
 
 <!-- ENTRADAS AQUI -->
@@ -76,7 +268,409 @@ perfil A servem exatamente para afastar essa hipótese e direcionar para efeito 
 
 ### Endocrinologia
 
-<!-- ENTRADAS AQUI -->
+#### DM2 — Concordância em gêmeos MZ é 90%, não 30–40%
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Não sabia o percentual correto de concordância em gêmeos MZ
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Questão sobre DM2 pedindo alternativa INCORRETA. A alternativa dizia "concordância em gêmeos idênticos é entre 30 e 40%."
+
+**Habilidades sequenciais:**
+1. Saber a genética do DM2: poligênica, alta penetrância familiar
+2. Saber os dados de concordância: pais afetados → 20–30% de risco; gêmeos MZ → ~90%
+
+**O que faltou:**
+Não sabia que a concordância em gêmeos MZ no DM2 é de ~90% (dado das fontes mais recentes e questões de prova). O valor de 30–40% é incorreto e é exatamente o que a questão pede para identificar.
+
+**Explicação correta:**
+DM2 é poligênico com alta penetrância familiar: 1 pai afetado → ~20% de risco no filho adulto; ambos os pais → ~30%; gêmeos MZ → ~90%. Esse dado demonstra o componente genético forte da doença, mas o ambiente é essencial (gêmeos MZ não têm concordância de 100%, diferente do DM1 monogênico).
+
+**Armadilha / nuance:**
+O valor "30–40%" está errado para MZ, mas pode lembrar o risco com ambos os pais afetados (~30%). O examinador usa justamente esse número para confundir.
+
+**Informações-chave para revisão:**
+- Gêmeos MZ e DM2: concordância ~**90%**
+- 1 pai afetado: ~20% | ambos os pais: ~30%
+- DM2 ≠ DM1 (monogênico — ligado ao HLA)
+- Concordância 90% indica forte componente genético, mas não é 100% (ambiente importa)
+
+---
+
+#### DM2 — Sensibilizadores de insulina: Metformina (hepática) + Pioglitazona (periférica)
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 2 — Classificou arGLP-1 e Metformina como sensibilizadores, quando arGLP-1 atua na secreção (não na sensibilidade)
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Paciente com síndrome metabólica, DM2 com resistência insulínica marcada (acantose + acrocórdons), em uso de insulina NPH + alogliptina. Fora da meta. Pergunta: quais drogas teriam efeito DIRETO na melhora da sensibilidade insulínica?
+
+**Habilidades sequenciais:**
+1. Identificar que a questão pede drogas com ação direta na resistência insulínica (não apenas hipoglicemiantes)
+2. Classificar cada classe por mecanismo: Metformina = sensibilizadora hepática | Pioglitazona = sensibilizadora periférica | arGLP-1 = secretagogo dependente da glicemia | iSGLT-2 = glicosúrico | iDPP-4 = incretínico
+3. Resposta: Metformina + Pioglitazona (as duas únicas que agem diretamente na resistência)
+
+**O que faltou:**
+Confundiu redução da glicemia com melhora da sensibilidade insulínica. O arGLP-1 reduz a glicemia por estimular secreção de insulina e inibir glucagon — não age diretamente nos receptores de insulina. A Metformina age no fígado reduzindo gliconeogênese; a pioglitazona age nos tecidos periféricos via PPAR-γ.
+
+**Explicação correta:**
+Sensibilizadores de insulina = drogas que aumentam a sensibilidade dos tecidos à ação da insulina: (1) **Metformina**: ação principalmente hepática (↓ gliconeogênese, ↓ glicogenólise); (2) **Pioglitazona**: ação periférica (músculo, adiposo, fígado) via PPAR-γ → ↑ expressão de GLUT e captação de glicose. As demais classes não atuam diretamente na resistência.
+
+**Armadilha / nuance:**
+A questão é contextualizada (paciente com DM2 que precisa "melhorar o controle"), por isso as alternativas com arGLP-1 e iSGLT-2 parecem boa resposta. O filtro é "efeito DIRETO na sensibilidade insulínica" — que elimina secretagogos e glicosúricos.
+
+⚠️ **Padrão de prova:** O comentário da equipe no fórum reconheceu ambiguidade: o melhor tratamento CLÍNICO seria outra combinação (D), mas o que a questão pede (sensibilizadores diretos) é a letra A. Leia o enunciado com precisão antes de responder.
+
+**Informações-chave para revisão:**
+- Sensibilizadores diretos = **Metformina** (hepática) + **Pioglitazona** (periférica)
+- arGLP-1: secretagogo incretínico — não sensibilizador direto
+- iSGLT-2: glicosúrico — não sensibilizador direto
+- iDPP-4: incretínico — não sensibilizador direto
+- Insulina: secretagoga endógena não se aplica aqui
+
+---
+
+#### DM2 — Pioglitazona causa IC por retenção hídrica (EA), não insuficiência renal
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Não sabia o principal efeito adverso grave da pioglitazona
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Questão "INCORRETO sobre medicamento e efeito colateral". Marcou Metformina/insuficiência renal como incorreta, mas o gabarito era Pioglitazona/insuficiência cardíaca (a associação CORRETA — pioglitazona causa IC, não é um par incorreto).
+
+**Habilidades sequenciais:**
+1. Ler com atenção: a questão pede o par INCORRETO (medicamento + efeito colateral que NÃO existe)
+2. Avaliar cada par: Canagliflozina/IC (incorreto — iSGLT-2 PROTEGE a IC); Metformina/IR (correto — CI em IR grave [TFG<30]); Pioglitazona/IC (correto — causa descompensação); Pioglitazona/IR (incorreto — não causa IR)
+3. Gabarito E (Pioglitazona/insuficiência cardíaca) é CORRETO como associação, logo não é o par incorreto
+
+**O que faltou:**
+Confusão na leitura estratégica: marcou Metformina/insuficiência renal como par incorreto porque pensou que metformina não causa IR (verdade — ela é contraindicada EM IR, não causa IR). Mas a questão perguntava qual par é ERRADO como associação existente. Pioglitazona/IC é a associação que EXISTE e que NÃO é a incorreta.
+
+**Explicação correta:**
+Pioglitazona ativa PPAR-γ nos ductos coletores renais → ↑ reabsorção de Na e água → edema + descompensação de IC. É contraindicada em IC NYHA III-IV. A associação pioglitazona/IC é CORRETA. A canagliflozina (iSGLT-2), ao contrário, PROTEGE contra IC. A questão pedia alternativa onde o par fosse falso.
+
+**Armadilha / nuance:**
+Metformina é contraindicada em IR, mas não a CAUSA. O par "Metformina/IR" pode parecer incorreto, mas a relação existe (ela é contraindicada nessa situação). O par "Canagliflozina/IC" seria o verdadeiramente incorreto — mas era alternativa A, não E.
+
+**Informações-chave para revisão:**
+- Pioglitazona: EA = edema + ganho de peso + descompensação de IC → CI em NYHA III/IV
+- Metformina: CI em TFG < 30 (risco de acidose láctica); ajuste em TFG 30–60
+- iSGLT-2 (canagliflozina): PROTEGE contra IC — reduz mortalidade e hospitalização
+- Pioglitazona/IR: não é uma associação clássica de EA
+
+---
+
+#### DM2 — HbA1c ≥ 7,5% com diagnóstico = iniciar Metformina logo (não esperar MEV)
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 2 — Pensou que deve iniciar sempre com período exclusivo de MEV antes do farmacológico
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Paciente assintomático, HbA1c 8,0%, glicemia de jejum 160 mg/dL (2 exames). Sem DRC, sem DCV. A questão pede a conduta terapêutica inicial mais adequada.
+
+**Habilidades sequenciais:**
+1. Confirmar diagnóstico (2 exames alterados em assintomático = DM2 confirmado)
+2. Classificar a HbA1c: 8% → entre 7,5–9% → indicação de Metformina + MEV + considerar 2º agente
+3. Saber que a espera por MEV exclusiva não é recomendada quando HbA1c ≥ 7,5%
+
+**O que faltou:**
+Entendeu que o tratamento farmacológico deveria vir apenas após um período exclusivo de MEV. Esse conceito se aplica ao pré-diabetes ou ao DM2 com HbA1c ≤ 7,5%. Com HbA1c = 8%, a diretriz recomenda iniciar Metformina junto com MEV desde o diagnóstico.
+
+**Explicação correta:**
+A SBD recomenda: HbA1c < 7,5% → Metformina em monoterapia; HbA1c 7,5–9% → Metformina + AD2 (com possibilidade de ajuste individualizado); HbA1c > 9% + sintomas → insulina. MEV é um pilar invariável, mas não substitui Metformina quando HbA1c ≥ 7,5%. Esperar 6 meses de MEV com HbA1c = 8% = conduta defasada.
+
+**Armadilha / nuance:**
+A lógica "primeiro MEV, depois fármaco" é válida no pré-diabetes e em contextos de HbA1c modestamente elevada. A questão usa HbA1c = 8% justamente para testar se o candidato sabe o corte de quando não se pode esperar.
+
+**Informações-chave para revisão:**
+- HbA1c < 7,5%: Metformina monoterapia + MEV
+- HbA1c 7,5–9% (assintomático): Metformina + considerar 2º agente + MEV
+- HbA1c > 9% + sintomas: insulinoterapia (± metformina)
+- MEV: nunca dispensa fármaco com HbA1c ≥ 7,5%
+
+---
+
+#### DM2 — iSGLT-2 age no TÚBULO PROXIMAL (não no glomérulo); reduz hiperfiltração
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Localizou erroneamente a ação do iSGLT-2 no glomérulo
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Questão sobre mecanismos de ação dos antidiabéticos. Alternativa A dizia: "iSGLT-2 atuam bloqueando a reabsorção de glicose no glomérulo, aumentando a hiperfiltração".
+
+**Habilidades sequenciais:**
+1. Saber onde o SGLT-2 está localizado: túbulo proximal (não glomérulo)
+2. Saber o efeito renal: glicosúria + natriurese → ↓ pressão intraglomerular (não ↑ hiperfiltração)
+
+**O que faltou:**
+Confundiu o local do SGLT-2: ele fica no túbulo proximal, não no glomérulo. Além disso, o efeito renal é a REDUÇÃO da hiperfiltração (os iSGLT-2 são nefroprotetores), não o aumento.
+
+**Explicação correta:**
+O SGLT-2 é um cotransportador Na-glicose presente no **túbulo proximal**. Sua inibição causa glicosúria + natriurese. A natriurese aumenta o aporte de Na para a mácula densa → ativação do feedback tubuloglomerular (TGF) → constrição da arteríola aferente → ↓ pressão intraglomerular → **redução da hiperfiltração** (nefroproteção).
+
+**Armadilha / nuance:**
+"Glomérulo" é o sítio de filtração, não de reabsorção. Qualquer droga que diz "bloquear reabsorção no glomérulo" está errada por natureza. A reabsorção acontece nos túbulos.
+
+**Informações-chave para revisão:**
+- SGLT-2: localizado no **túbulo proximal** (reabsorve ~90% da glicose filtrada)
+- Efeito renal: ↓ reabsorção de glicose + natriurese → ↓ pressão intraglomerular
+- Resultado: **↓ hiperfiltração** (proteção renal) — não aumento
+- iSGLT-2 reduzem progressão de DRC com TFG 30–60 + albumin > 300 mg/g
+- arGLP-1: aumenta secreção de insulina (glicemia-dependente) + inibe glucagon; iDPP-4: inibe degradação do GLP-1 endógeno
+
+---
+
+#### DM2 — HIV é critério de rastreamento pela ADA; ≥ 35 anos (ADA) / ≥ 45 anos (SBD)
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Não sabia que HIV é critério de rastreamento; confundiu a idade limiar ADA vs SBD
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Questão sobre critérios de rastreamento de DM2 em assintomáticos. Pedindo alternativa INCORRETA. A alternativa marcada (B = "Pacientes portadores do vírus HIV") era correta. A alternativa incorreta era E = "Adultos com idade ≥ 40 anos".
+
+**Habilidades sequenciais:**
+1. Saber os critérios ADA de rastreamento: ≥ 35 anos; sobrepeso/obesidade + fator de risco; pré-diabetes; DMG; HIV
+2. Identificar que "≥ 40 anos" não é o critério correto (seria ≥ 35 pela ADA ou ≥ 45 pela SBD)
+3. Identificar que HIV SIM é critério de rastreamento pela ADA
+
+**O que faltou:**
+Duas lacunas: (1) não sabia que HIV é critério de rastreamento (TARV → adipogênese alterada → resistência insulínica); (2) pensou que ≥ 40 anos seria "próximo o suficiente" do critério de ≥ 35 para ser correto.
+
+**Explicação correta:**
+A ADA inclui **pessoas vivendo com HIV** nos critérios de rastreamento de DM2, pois a TARV e a infecção crônica causam redistribuição adiposa e resistência insulínica. O limiar de idade é **≥ 35 anos** pela ADA (≥ 45 pela SBD). "≥ 40 anos" é incorreto porque não corresponde ao critério de nenhuma das duas diretrizes.
+
+**Armadilha / nuance:**
+"≥ 40 anos" parece razoável, mas 40 não é o critério de nenhuma guideline. O examinador usa isso para testar precisão. HIV como critério é pouco intuitivo e muito cobrado.
+
+**Informações-chave para revisão:**
+- Rastreamento ADA: ≥ **35** anos (SBD: ≥ **45** anos)
+- HIV = critério de rastreamento pela ADA (TARV → resistência insulínica)
+- Demais critérios: sobrepeso/obesidade + fator de risco; pré-diabetes; DMG prévia
+- Asiáticos: rastrear com IMC ≥ 23 (não ≥ 25)
+- Periodicidade: a cada 3 anos se normal; anual se pré-diabetes
+
+---
+
+#### DM2 — Metformina tem dose máxima variável conforme TFG; não suspender em TFG 30–60
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Pensou que DRC = suspender Metformina (sem considerar os limiares de ajuste)
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Paciente com DM2 + HAS + TFG 38 mL/min (DRC grau 3b). Em uso de Metformina XR 2g/dia + Gliclazida 60mg/dia. Fora da meta (HbA1c 8,4%). Conduta para o diabetes?
+
+**Habilidades sequenciais:**
+1. Calcular TFG = 38 mL/min → DRC grau 3b (estágio 3: TFG 30–59)
+2. Saber os limiares da Metformina: CI apenas se TFG < 30; TFG 30–45 → dose máx 1g/dia; TFG 45–60 → dose máx 2g/dia (sem ajuste nesse caso seria reduzida de 2g→1g)
+3. Saber o limiar da Gliclazida: CI apenas se TFG < 30 → manter dose atual
+4. Conduta: manter Gliclazida 60mg + reduzir Metformina para 1g/dia
+
+**O que faltou:**
+Memorizou "DRC = suspender Metformina" sem os limiares. A Metformina é CI apenas com TFG < 30. Entre 30–45, usa-se com dose reduzida (máx 1g/dia). A suspensão com TFG de 38 é desnecessária.
+
+**Explicação correta:**
+Metformina: CI (TFG < 30); dose máx 1g/dia (TFG 30–45); dose máx 2g/dia (TFG 45–60). Gliclazida: CI apenas se TFG < 30, sem ajuste de dose no restante. Com TFG = 38, a conduta é manter a gliclazida + reduzir a metformina de 2g para 1g/dia.
+
+**Armadilha / nuance:**
+"DRC → suspender Metformina" é o erro clássico. O limiar de suspensão é TFG < 30, não qualquer grau de DRC. O examinador usa TFG = 38 para pegar quem não sabe os cortes específicos.
+
+**Informações-chave para revisão:**
+- Metformina: CI = TFG < 30 | dose máx 1g = TFG 30–45 | dose máx 2g = TFG > 45
+- Gliclazida (sulfonilureia): CI = TFG < 30 | sem ajuste no restante
+- Glibenclamida: CI com TFG < 30 (risco ↑ por acúmulo e metabolismo hepático)
+- Linagliptina (iDPP-4): sem ajuste em qualquer TFG — opção segura em DRC avançada
+
+---
+
+#### DM2 na Gestante — Qualquer antidiabético oral é trocado por insulina (regime basal + bolus)
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Não sabia a conduta padrão de DM2 pré-gestacional que deseja engravidar
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Mulher com DM2, em uso de glibenclamida 7,5mg/dia, deseja engravidar. HbA1c 7,6%, glicemias acima da meta. Conduta para controle metabólico?
+
+**Habilidades sequenciais:**
+1. Reconhecer: paciente com DM2 que DESEJA engravidar = planejamento pré-gestacional
+2. Saber: glibenclamida (sulfonilureia) é contraindicada na gestação (estudos de segurança insuficientes vs insulina)
+3. Saber: a metformina tem estudos com alguma segurança, mas ainda atravessa a barreira placentária e não tem desfechos de longo prazo completamente estabelecidos — insulina é a droga soberana na gestação
+4. Conduta: substituir glibenclamida por insulina em regime **basal + bolus** (NPH + regular/asparte/lispro)
+
+**O que faltou:**
+Não sabia que o padrão para DM2 na gestação é insulina em regime basal + bolus. Pensou em acrescentar metformina ou apenas insulina basal. O regime correto é basal (NPH 2x/dia ou detemir) + prandial (regular, asparte ou lispro).
+
+**Explicação correta:**
+Todo antidiabético oral deve ser substituído por insulina na gestação. A insulinoterapia na gestação exige regime basal + bolus: basal controla glicemia de jejum e pré-prandial; prandial controla pós-prandial. Dose inicial ~0,5 UI/kg/dia. Metformina pode ser coadjuvante em casos excepcionais com consentimento, mas não é a conduta padrão.
+
+**Armadilha / nuance:**
+"Acrescentar insulina basal" (B) parece razoável — o erro é não incluir o componente prandial. A glicemia pós-prandial na gestante é tão importante quanto a de jejum para prevenção de macrossomia e complicações.
+
+**Informações-chave para revisão:**
+- Gestação + DM2: **substituir ADO por insulina** (basal + bolus)
+- Dose inicial: ~0,5 UI/kg/dia
+- Basal: NPH ou detemir (controla jejum + pré-prandial)
+- Prandial: regular, asparte ou lispro (controla pós-prandial)
+- Metformina: pode ser coadjuvante em casos selecionados (não é 1ª escolha)
+- Metas glicêmicas na gestação: GJ < 95 mg/dL; 1h pós < 140; 2h pós < 120
+
+---
+
+#### Rastreamento — Tireoidopatias NÃO são rastreadas em adultos saudáveis assintomáticos
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 2 — Não sabia que rastreamento de tireoidopatia não é recomendado
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Mulher de 58 anos, assintomática, sem medicamentos. Em check-up de rotina. Afirmativa: "Faz parte do rastreio de rotina a mensuração de glicemia, colesteróis e **hormônios tireoidianos**." Correto ou incorreto?
+
+**Habilidades sequenciais:**
+1. Saber os rastreamentos metabólicos recomendados: glicemia (ADA ≥ 35 anos), lípides (USPSTF 40–75 anos para cálculo de risco CV), densitometria, USG de aorta
+2. Saber que **tireoidopatia NÃO é rastreada** em adultos saudáveis assintomáticos (nem TSH, nem USG de tireoide)
+
+**O que faltou:**
+Confundiu rastreamento de DM + dislipidemia (recomendados) com rastreamento de tireoidopatia (não recomendado). O TSH de rotina só é indicado em populações específicas (gestantes, recém-nascidos, sintomáticas).
+
+**Explicação correta:**
+Não existe recomendação de rastreamento de tireoidopatia em adultos assintomáticos de nenhuma guideline de referência (USPSTF, SBE, ATA). O TSH de rotina capta hipotireoidismo subclínico em muitos casos, cujo tratamento em assintomáticos tem benefício incerto. A afirmativa mistura rastreamentos corretos (glicemia + lípides) com incorreto (TSH), tornando-a falsa.
+
+**Armadilha / nuance:**
+Rastreamento de tireoidopatia é muito comum na prática clínica (especialmente no Brasil), mas não tem recomendação baseada em evidências para a população geral assintomática. A frequência da solicitação na prática não equivale a evidência.
+
+**Informações-chave para revisão:**
+- 4 rastreamentos metabólicos recomendados: glicemia | lípides | densitometria | USG aorta abdominal (homens fumantes 65–75a)
+- Tireoidopatia: **NÃO rastrear** em assintomáticos — sem evidência de benefício
+- Glicemia: ADA ≥ 35a (SBD ≥ 45a) ou sobrepeso + fator de risco
+- Lípides: USPSTF 40-75a para cálculo de risco CV (estatinas em prevenção primária)
+- USG de tireoide de rotina: também não recomendado (↑ sobrediagnóstico de incidentalomas)
+
+---
+
+#### DM2 — HbA1c alvo em ≥ 60 anos: 7–8%; hiperuricemia ≥ 8 mg/dL (não 5,8)
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 2 (hiperuricemia) + Habilidade 3 (meta HbA1c por faixa etária)
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Mulher de 61 anos, HAS, DM2, tabagista, IC com FE 46%, TFG 60, microalbuminúria, HbA1c 7,6%, ácido úrico 5,8 mg/dL, HDL 35, TG 230, cintura 90 cm. Qual afirmativa é correta?
+
+**Habilidades sequenciais:**
+1. Classificar a IC: FE 46% → ICFEi (40–49%) — não ICFEr (< 40%) nem ICFEp (≥ 50%)
+2. Avaliar se há hiperuricemia: ácido úrico = 5,8 mg/dL → **normal** (hiperuricemia ≥ 8,0 mg/dL)
+3. Avaliar se HbA1c está na meta para a faixa etária: 61 anos → meta 7–8% → HbA1c 7,6% = **dentro da meta**
+4. Avaliar DRC: TFG 60 + microalbuminúria → preenche critério estrutural de DRC, mas falta duração > 3 meses para fechar o diagnóstico
+
+**O que faltou:**
+Duas falhas simultâneas: (1) Acreditou que AU = 5,8 era hiperuricemia — o limite é 8,0 mg/dL; (2) Não sabia que para > 60 anos a meta de HbA1c é 7–8% (e não < 7%), portanto 7,6% = dentro da meta para essa paciente.
+
+**Explicação correta:**
+- **Hiperuricemia**: AU sérico > 8,0 mg/dL. AU = 5,8 mg/dL está dentro da normalidade — sem hiperuricemia.
+- **Meta HbA1c por faixa etária**: adultos não fragilizados < 60a → < 7%; 60–75a → 7–8%; > 75a ou fragilizados → 7,5–8,5%.
+- **DRC**: exige alteração em TFG ou estrutural por > 3 meses — sem essa informação, não se fecha o diagnóstico de DRC.
+- **ICFEi** (FE 40–49%): não é ICFEr (< 40%); não é ICFEp (≥ 50%).
+
+**Armadilha / nuance:**
+O examinador usa valores "borderline" de AU e HbA1c para testar se o candidato sabe os limiares exatos. "5,8 mg/dL" parece elevado para quem não sabe que o corte é 8,0; "7,6% de HbA1c" parece "fora da meta" para quem usa o corte de < 7% sem considerar a faixa etária.
+
+**Informações-chave para revisão:**
+- Hiperuricemia: AU sérico > **8,0 mg/dL** (não 5,8!)
+- Meta HbA1c: ≤ 60a → < **7%** | 60–75a → **7–8%** | ≥ 75a/fragilizados → **7,5–8,5%**
+- ICFEi: FE **40–49%** | ICFEr: < 40% | ICFEp: ≥ 50%
+- DRC: alteração de TFG < 60 **ou** dano estrutural por **> 3 meses** — duração é mandatória
+- Síndrome metabólica (NCEP/ATP III): ≥ 3 de 5 critérios: cintura (♀ > 88 cm / ♂ > 102 cm), TG ≥ 150, HDL (♀ < 50 / ♂ < 40), HAS, GJ ≥ 100
+
+---
+
+#### DM2 — iSGLT-2: amputação prévia = CI; albuminúria > 300 mg/g + TFG > 30 = indicação renal
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 2 — Não sabia que amputação prévia é contraindicação dos iSGLT-2; e confundiu o limiar de albuminúria para indicação renal
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Três pacientes com DM2 fora da meta. João (obeso, albuminúria 20 mg/g); Maria (amputação prévia de hálux, albuminúria 25 mg/g); José (albuminúria 310 mg/g, TFG normal). Quem se beneficia de iSGLT-2?
+
+**Habilidades sequenciais:**
+1. João: obeso + fora da meta → iSGLT-2 indicado (↓ peso + controle glicêmico)
+2. Maria: **amputação prévia** → contraindicação à canagliflozina (e por extensão toda a classe quando há pé em risco) → **excluir**
+3. José: albuminúria **310 mg/g** (> 300 mg/g) + TFG > 30 → indicação de iSGLT-2 para nefroproteção
+4. Resposta: João e José (I e III)
+
+**O que faltou:**
+Escolheu João, Maria e José (todos). Não sabia que amputação prévia é contraindicação dos iSGLT-2. Também não tinha claro o limiar exato de albuminúria para indicação renal (> 300 mg/g de creatinina).
+
+**Explicação correta:**
+A canagliflozina dobrou o risco de amputações no estudo CANVAS, especialmente em portadores de histórico de amputação ou úlcera em membros inferiores. A classe é contraindicada em "pé em risco" ou amputação prévia. Para indicação renal, o critério é: albuminúria > **300 mg/g** de creatinina + TFG > 30 mL/min. Albuminúria de 20–25 mg/g (microalbuminúria leve) não é indicação renal isolada.
+
+**Armadilha / nuance:**
+A questão coloca Maria com sobrepeso (possível indicação pelo peso) para induzir quem não sabe a contraindicação de amputação. O examinador usa valores de albuminúria 20 e 25 mg/g para testar se o candidato sabe o corte de 300 mg/g.
+
+**Informações-chave para revisão:**
+- iSGLT-2 — indicação renal: TFG > 30 + albumin. > **300 mg/g** (> 200–300 conforme guideline mais recente)
+- iSGLT-2 — **CI**: amputação prévia / pé em risco, DM1, cetoacidose prévia, TFG < 30, ITU de repetição
+- Benefício CV: DCV estabelecida (infarto, AVC) → ↓ mortalidade CV
+- Benefício IC: ICFEr — ↓ hospitalização E mortalidade (mesmo sem DM — estudo DAPA-HF)
+- Benefício renal: TFG 30–60 + albumin. > 300 → ↓ progressão DRC (mesmo sem DM — estudo DAPA-CKD)
+
+---
+
+#### DM2 — iSGLT-2 AUMENTA (não reduz) o risco de cetoacidose euglicêmica
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Confundiu o efeito colateral (cetoacidose) com efeito benéfico
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Questão pedindo qual NÃO é benefício dos iSGLT-2. Alternativa A dizia "redução do risco de cetoacidose em DM2."
+
+**Habilidades sequenciais:**
+1. Listar os benefícios dos iSGLT-2: ↓ mortalidade CV, ↓ hospitalização IC (diabéticos e não diabéticos), ↓ progressão DRC (diabéticos e não diabéticos), ↓ peso, sem hipoglicemia
+2. Saber que cetoacidose euglicêmica é um **efeito adverso** (não benefício) — portanto "reduzir risco de cetoacidose" NÃO é benefício dos iSGLT-2
+
+**O que faltou:**
+Sabia que iSGLT-2 não causa hipoglicemia e associou isso erroneamente a "proteção contra cetoacidose". Na verdade, os iSGLT-2 **aumentam** o risco de cetoacidose euglicêmica.
+
+**Explicação correta:**
+iSGLT-2 causa glicosúria → ↓ glicemia → ↓ secreção de insulina (glicemia-dependente) → em insulinopênicos, qualquer estresse (infecção, cirurgia, jejum) desencadeia cetogênese sem hiperglicemia marcante → **cetoacidose euglicêmica** (glicemia < 250 mg/dL). É um efeito adverso, não benéfico. O benefício dos iSGLT-2 é cardiovascular, renal e metabólico — não proteção contra CAD.
+
+**Armadilha / nuance:**
+"Sem hipoglicemia" é benefício real dos iSGLT-2. O examinador usa isso como gancho para testar se o candidato diferencia "sem hipoglicemia" de "sem acidose". São mecanismos completamente distintos.
+
+**Informações-chave para revisão:**
+- iSGLT-2 e cetoacidose: **AUMENTA** o risco (euglicêmica) — não reduz
+- Cetoacidose euglicêmica: glicemia < 250 + acidose + cetonas → investigar em todo usuário de iSGLT-2 com dor abdominal
+- Benefícios REAIS do iSGLT-2 (mesmo sem DM): ↓ mortalidade IC (DAPA-HF, EMPEROR), ↓ progressão DRC (DAPA-CKD), ↓ mortalidade CV
+- Dapagliflozina: benefício em IC e DRC **independente de DM**
+- Empagliflozina: benefício em DCV (EMPA-REG) e IC
+
+---
+
+#### Sulfonilureias — Hipoglicemia aumenta com deslocamento de proteínas (1ª geração), não com Metformina
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 2 — Não conhecia a ligação iônica proteica das SUF de 1ª geração como mecanismo de interação
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Questão: em qual situação o uso de sulfonilureias aumenta o risco de hipoglicemia? Alternativas: A (com Metformina), B (medicamentos que interferem na ligação com proteínas), C (sem salicilatos), D (com glicocorticóides + B2-agonistas).
+
+**Habilidades sequenciais:**
+1. Saber o mecanismo pró-hipoglicêmico das sulfonilureias: estimulam secreção de insulina independente da glicemia
+2. Saber que o risco AUMENTA com: competição por proteínas plasmáticas (↑ fração livre), ↓ TFG (↓ clearance), inibidores do CYP450 (↓ metabolismo hepático)
+3. Eliminar alternativas: Metformina (sensibilizadora, não causa hipoglicemia) | glicocorticóides + B2 = HIPERGLICÊMICOS (antagonistas da insulina)
+
+**O que faltou:**
+Pensou que Metformina potencializaria a sulfonilureia por aumentar a sensibilidade à insulina. Mas a Metformina não causa hipoglicemia nem aumenta o risco de hipoglicemia das sulfonilureias quando associada — são mecanismos independentes.
+
+**Explicação correta:**
+Sulfonilureias de **1ª geração** (clorpropamida, tolbutamida) se ligam **ionicamente** a proteínas plasmáticas. Drogas que concorrem por essas proteínas (warfarina, salicilatos, fenilbutazona) deslocam a sulfonilureia → ↑ fração livre → ↑ hipoglicemia. Glicocorticóides e B2-agonistas causam hiperglicemia (agonistas de resistência insulínica e glicogenólise) → não aumentam hipoglicemia.
+
+**Armadilha / nuance:**
+"Metformina + sulfonilureia" parece uma combinação perigosa (dois hipoglicemiantes), mas a Metformina não estimula secreção de insulina — não potencializa a hipoglicemia. O erro clássico é assumir que "qualquer combinação de antidiabéticos aumenta o risco de hipoglicemia."
+
+**Informações-chave para revisão:**
+- SUF 1ª geração (clorpropamida, tolbutamida): ligação iônica a proteínas → competição com warfarina, salicilatos, fenilbutazona → ↑ hipoglicemia
+- SUF 2ª geração (glibenclamida, gliclazida, glimepirida, glipizida): ligação não iônica → menor risco de interação proteica
+- Inibidores CYP450 ↑ hipoglicemia por reduzir metabolismo hepático da sulfonilureia
+- ↓ TFG → ↓ clearance → ↑ hipoglicemia com sulfonilureias
+- Metformina: **não aumenta** risco de hipoglicemia quando associada a sulfonilureia
+- Glicocorticóides: causam hiperglicemia; B2-agonistas: causam glicogenólise → hiperglicemia
 
 ### Reumatologia
 
@@ -84,7 +678,161 @@ perfil A servem exatamente para afastar essa hipótese e direcionar para efeito 
 
 ### Neurologia
 
-<!-- ENTRADAS AQUI -->
+#### TCE Pediátrico / PECARN — Fratura linear no RX → TC obrigatória + observação 24–48h
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 3 — Não aplicou a regra "RX com fratura → TC obrigatória"
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Escolar de 5 anos, queda de 1,5 m, Glasgow 15, um episódio de vômito, hematoma subgaleal parietal. RX de crânio mostra fratura linear parietal. Condutor: alta ambulatorial vs. observação hospitalar 24–48h.
+
+**Habilidades sequenciais:**
+1. Identificar que fratura à radiografia = TC de crânio obrigatória (mesmo em TCE leve com ECG 15)
+2. Reconhecer que vômito + queda de 1,5 m + fratura = risco intermediário-alto
+3. Saber que após TC (mesmo que normal), risco de HED tardio por expansão → observação 24–48h hospitalar
+4. Não confundir "fratura linear = tratamento expectante" (s/TC) com a conduta quando o diagnóstico de fratura foi feito
+
+**O que faltou:**
+Associou "fratura linear = benigna" à alta ambulatorial. A regra é: fratura linear sem complicações NÃO exige cirurgia, mas EXIGE TC de crânio e observação hospitalar (risco de HED por ruptura da artéria meníngea média, especialmente em fraturas temporoparietais).
+
+**Explicação correta:**
+Fratura no RX → TC obrigatória (afastar hematoma extra-axial, especialmente HED em fratura temporal). Após TC com resultado normal, manter observação 24–48h pelo risco de intervalo lúcido tardio — o HED pode demorar horas para causar efeito de massa sintomático.
+
+**Armadilha / nuance:**
+O examinador coloca Glasgow 15 + fratura linear para induzir a ideia de "é leve, alta ambulatorial". A fratura no RX inverte essa lógica: é exatamente o que manda fazer TC + internar.
+
+**Informações-chave para revisão:**
+- Fratura ao RX (qualquer tipo) → TC de crânio obrigatória
+- Fratura temporoparietal + TCE → maior risco de HED (artéria meníngea média)
+- Após TC normal: observação hospitalar 24–48h (por risco de HED tardio/intervalo lúcido)
+- Fratura linear = tratamento expectante se NÃO há lesão intracraniana, mas NUNCA dispensa a investigação
+
+---
+
+#### TCE Grave com Tríade de Cushing — Sequência correta: IOT → hiperventilação ativa → salina hipertônica → TC depois
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 3 — Priorizou TC de crânio antes de estabilizar; não reconheceu hiperventilação como indicada na HIC descompensada aguda
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Criança de 6 anos, Glasgow 6, FC 60 bpm, PA 140×80 mmHg (tríade de Cushing), hematoma parietal. Conduta inicial mais indicada?
+
+**Habilidades sequenciais:**
+1. Reconhecer tríade de Cushing (HAS + bradicardia + irregularidade respiratória) = HIC descompensada
+2. ECG ≤ 8 → intubação orotraqueal imediata (SRI)
+3. HIC descompensada ativa → hiperventilação terapêutica (PaCO₂ 30–35 mmHg) + salina hipertônica 3% (6 mL/kg)
+4. Estabilizar primeiro → TC de crânio depois (não o inverso)
+5. Não usar nitroprussiato (não baixar PA bruscamente — a hipertensão é compensatória da HIC)
+
+**O que faltou:**
+Priorizou TC + avaliação neurológica antes de estabilizar via aérea + controlar PIC. A HIC descompensada ativa (com tríade de Cushing) exige intervenções imediatas de redução da PIC ANTES de qualquer imagem.
+
+**Explicação correta:**
+Tríade de Cushing + ECG ≤ 8 → emergência neurocirúrgica: (1) intubar (SRI), (2) hiperventilar ativamente (PaCO₂ 30–35 mmHg — não profilático, mas terapêutico), (3) salina hipertônica 3% 6 mL/kg, (4) cabeceira 30°, (5) TC DEPOIS de estabilizar. Nitroprussiato é contraindicado — a HAS é reflexo da HIC (Cushing), e baixar a PA piora a perfusão cerebral.
+
+**Armadilha / nuance:**
+Hiperventilação ativa aparece na alternativa correta — parece errada porque "hiperventilação profilática é contraindicada". A distinção é crucial: profilática (sem sinal de HIC) = CI; terapêutica (com HIC descompensada ativa) = indicada.
+
+**Informações-chave para revisão:**
+- Tríade de Cushing = HIC descompensada → emergência
+- Hiperventilação PROFILÁTICA = contraindicada | TERAPÊUTICA (HIC ativa) = indicada (PaCO₂ 30–35 mmHg)
+- Sequência: IOT → hiperventilação + salina hipertônica → TC depois
+- Nitroprussiato: contraindicado no TCE (PA alta é compensatória)
+- Salina hipertônica 3%: 6 mL/kg em criança com HIC
+
+---
+
+#### TCE Leve em < 2 anos — Sonolência pós-trauma = alteração de NC = TC obrigatória
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 2 — Não reconheceu sonolência transitória pós-trauma como alteração do nível de consciência
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Lactente de 9 meses, queda da cama (~0,5 m), Glasgow 15 no momento da consulta (2h depois), hematoma subgaleal occipital. Mãe refere choro intenso + sonolência logo após o trauma. Conduta?
+
+**Habilidades sequenciais:**
+1. Reconhecer que sonolência pós-trauma = alteração transitória do nível de consciência
+2. Pelo PECARN: ECG ≠ 15 OU outra alteração de consciência → TC obrigatória (independente da faixa etária)
+3. EC no momento da consulta = 15 não cancela a sonolência que houve anteriormente
+4. Hematoma occipital em < 2 anos = sinal de alerta intermediário (TC ou observação)
+5. Conduta correta = TC de crânio
+
+**O que faltou:**
+Interpretou ECG 15 no momento da consulta como "sem alteração neurológica", desconsiderando a sonolência transitória relatada. A avaliação do PECARN considera qualquer alteração de consciência DESDE o trauma, não apenas a do momento do exame.
+
+**Explicação correta:**
+Sonolência logo após o trauma = alteração transitória do nível de consciência = critério absoluto de TC pelo PECARN, independente da faixa etária. O ECG 15 ao exame não apaga o episódio de sonolência. Observe a lógica: se houve alteração de NC, por menor que seja, a investigação com TC é mandatória.
+
+**Armadilha / nuance:**
+"Está bem agora (Glasgow 15)" induz a pensar que não há mais risco. O PECARN olha para o histórico desde o trauma, não só para o momento atual.
+
+**Informações-chave para revisão:**
+- Sonolência pós-trauma em qualquer faixa etária = alteração de NC = TC obrigatória
+- ECG 15 no momento não cancela alteração anterior ao exame
+- Queda de cama em < 2 anos + hematoma occipital = sinal intermediário (TC ou observação)
+- Queda < 0,9 m em < 2 anos pode ainda ser "mecanismo não grave", mas sonolência eleva para TC obrigatória
+- PECARN: avaliação abrange o período inteiro pós-trauma, não só o momento do exame
+
+---
+
+#### TCE Grave em VM — Hiperventilação profilática é contraindicada
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Não sabia que hiperventilação profilática é medida contraindicada em TCE grave
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** TCE grave com necessidade de ventilação mecânica. Questão: qual NÃO está indicado? Opções incluem: cabeceira 30°, hiperventilação profilática, sedação + analgesia, controle de temperatura.
+
+**Habilidades sequenciais:**
+1. Reconhecer as medidas universais de neuroproteção no TCE grave em VM
+2. Identificar que hiperventilação PROFILÁTICA é contraindicada (gera isquemia cerebral sem benefício)
+3. Distinguir: profilática (sem HIC) = CI | terapêutica (HIC descompensada ativa) = indicada por curto período
+
+**O que faltou:**
+Não sabia que hiperventilação profilática é contraindicada. Pensou que ventilar para manter PaCO₂ baixa seria benéfico preventivamente. Na verdade, manter PaCO₂ < 35 cronicamente causa vasoconstrição cerebral → isquemia → piora neurológica.
+
+**Explicação correta:**
+A VM no TCE grave deve manter normocapnia (PaCO₂ 35–45 mmHg). Hiperventilar profilaticamente (sem HIC ativa) causa vasoconstrição cerebral → ↓ fluxo cerebral → isquemia. A hiperventilação SÓ é indicada quando há HIC descompensada ativa, como medida de curto prazo (PaCO₂ 30–35 mmHg), nunca de forma contínua.
+
+**Armadilha / nuance:**
+"Hiperventilar para prevenir HIC" parece lógica intuitiva. O examinador usa essa lógica equivocada para formular o distrator errado.
+
+**Informações-chave para revisão:**
+- TCE grave em VM: manter PaCO₂ 35–45 mmHg (normocapnia)
+- Hiperventilação profilática = CONTRAINDICADA (isquemia)
+- Hiperventilação terapêutica = indicada na HIC descompensada ativa (curto prazo, PaCO₂ 30–35)
+- Medidas universais no TCE grave: cabeceira 30°, sedação + analgesia, controle térmico, PAS > 110, fenitoína 7 dias
+
+---
+
+#### TCE Pediátrico Leve / PECARN — Vômito em > 2 anos: TC ou observação 6h (questão controversa)
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 2 — Não sabia que vômito = critério de observação/TC em ≥ 2 anos pelo PECARN
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Pré-escolar de 5 anos, queda de 1 m, 2 episódios de vômitos, Glasgow 15, sem outros sinais de alarme. Conduta?
+
+**Habilidades sequenciais:**
+1. Identificar critérios PECARN para ≥ 2 anos: vômito = fator de risco intermediário → TC OU observação 6h
+2. Distinguir vômito em < 2 anos (não é critério) de ≥ 2 anos (é critério)
+3. Saber que o gabarito de algumas bancas diverge do PECARN (liberam com analgesia apenas em casos de mecanismo leve + vômito único)
+4. Na dúvida em prova: preferir TC ou observação vs. alta imediata
+
+**O que faltou:**
+Não sabia que vômito em ≥ 2 anos é critério PECARN de observação ou imagem. Associou Glasgow 15 + exame normal à alta imediata, desconsiderando o vômito como sinal de alerta.
+
+**Explicação correta:**
+Pelo PECARN: em ≥ 2 anos, vômito = fator de risco intermediário → TC de crânio OU observação 6h no PS. Esta questão é controversa: o gabarito oficial liberou com analgesia, mas o comentário reconhece que o PECARN indicaria observação. Em situações como essa na prova: preferir a alternativa que mantém o paciente em observação ou indica TC, nunca alta imediata sem avaliação.
+
+**Armadilha / nuance:**
+O examinador pode usar o vômito como único sinal em ECG 15 para testar se o candidato sabe que, mesmo assim, a alta imediata não é a conduta correta pelo PECARN. Questões controversas — seguir PECARN (observação 6h ou TC).
+
+**Informações-chave para revisão:**
+- PECARN ≥ 2 anos: vômito = critério intermediário (TC ou observação 6h)
+- PECARN < 2 anos: vômito NÃO é critério (diferente dos > 2 anos)
+- Queda ≤ 1 m (< limiar grave de 1,5 m) + vômito em > 2 anos = observação 6h (não alta)
+- Questão controversa: seguir PECARN quando em dúvida; nunca alta imediata com vômito
 
 ### Hematologia e Oncologia Clínica
 

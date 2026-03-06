@@ -1,20 +1,22 @@
 # CLAUDE.md — Agente de Estudo para Residência Médica
 
-> Para Claude Code: este arquivo é lido automaticamente a cada sessão.
-> Para outros modelos: copie o conteúdo de `INSTRUCOES_AGENTE.md` como contexto/system prompt.
+## INICIO OBRIGATÓRIO DE SESSÃO
 
-## Instrução única
+**Leia `ESTADO.md` antes de qualquer ação.** Contém estado atual, mapa de artefatos, sessões anteriores e próximos passos.
 
-Antes de qualquer interação, leia e aplique integralmente:
+## Workflows disponíveis
 
-1. `INSTRUCOES_AGENTE.md` — identidade, regras e workflow do agente
-2. `comando de análise de questão.md` — protocolo de análise de questões
+| Tarefa | Workflow |
+|---|---|
+| Criar resumo de tema | `.agents/workflows/criar-resumo.md` |
+| Analisar questões erradas | `.agents/workflows/analisar-questoes.md` |
+| Registrar sessão no history | `.agents/workflows/registrar-sessao.md` |
 
-## Arquivos do Sistema
+## Arquivos críticos em Tools/
 
 | Arquivo | Função |
 |---|---|
-| `INSTRUCOES_AGENTE.md` | Documento mestre. Identidade + regras + workflow. Portável para qualquer modelo. |
-| `comando de análise de questão.md` | Protocolo de análise por habilidades sequenciais. |
-| `caderno_erros.md` | Banco de erros organizados por área e tema. |
-| `progresso.md` | Visão consolidada de progresso. |
+| `Tools/estilo-resumo.md` | Padrão de formatação **obrigatório** para resumos |
+| `Tools/comando de analise de questao.md` | Protocolo de análise de questão (9 etapas) |
+| `Tools/extract_pdfs.py` | Script de extração de PDFs (CLI genérica) |
+| `caderno_erros.md` | Banco de erros acumulado |

@@ -6,56 +6,56 @@
 
 ## Entradas por Área
 
-| Área | Temas com entrada | Total de entradas |
-|---|---|---|
-| Clínica Médica | Cardiologia | 1 |
-| Cirurgia | Trauma | 4 |
-| Pediatria | Cardiologia Pediátrica e Cardiopatias Congênitas | 11 |
-| Ginecologia e Obstetrícia | Climatério e TH; Sangramentos da Primeira Metade | 13 |
-| Medicina Preventiva e Saúde Pública | Epidemiologia e Bioestatística; Vigilância Epidemiológica | 7 |
-| **TOTAL** | | **36** |
+- **Clínica Médica** — Cardiologia; Pneumologia (Asma): **7 entradas**
+- **Cirurgia** — Trauma: **4 entradas**
+- **Pediatria** — Cardiologia Pediátrica e Cardiopatias Congênitas: **11 entradas**
+- **Ginecologia e Obstetrícia** — Climatério e TH; Sangramentos da Primeira Metade: **13 entradas**
+- **Medicina Preventiva e Saúde Pública** — Epidemiologia e Bioestatística; Vigilância Epidemiológica: **7 entradas**
+- **Total: 42 entradas**
 
 ---
 
 ## Padrões de Erro Identificados
 
-| Padrão | Frequência |
-|---|---|
-| Confusão de idade de apresentação (canal-dependentes vs T4F vs CIA) | 3x (Ped Q3, Q4, Q9) |
-| Confusão cianogênica vs acianogênica (CoAo, EP valvar) | 3x (Ped Q1, Q6, Q10) |
-| Confusão hipofluxo vs hiperfluxo (T4F vs HCE/TGA) | 2x (Ped Q3, Q5) |
-| Não reconhecer sinais patognomônicos (desdobramento fixo B2 = CIA) | 1x (Ped Q8) |
-| Confusão taxa vs proporção vs coeficiente (ISU, mortalidade específica) | 2x (Prev Q7, Q9) |
-| Denominador errado na mortalidade específica de gênero | 1x (Prev Q7) |
-| Causa básica vs causa imediata/terminal da morte | 1x (Prev Q5) |
-| Confusão entre indicadores de mortalidade (APVP vs mortalidade proporcional) | 1x (Prev Q1) |
-| Confusão drenagem de tórax vs toracotomia | 1x (Cir Q2) |
-| Classificou choque corretamente mas aplicou tratamento do grau errado (II → III) | 1x (Cir Q3) |
-| Sabia a resposta mas duvidou e escolheu errado (controle da fonte) | 1x (Cir Q4) |
-| Confusão velocidade de infusão do TXA com janela temporal + limiar FC borderline | 1x (Cir Q1) |
-| Confusão entre exame de rotina clínica (FSH) e marcador fisiopatológico (inibina) no climatério | 1x (GIN Clim Q1) |
-| Generalização "TH = risco de CA mama" sem diferenciar E isolado (sem ↑) de E+P (↑ ≥5 anos) | 1x (GIN Clim Q3) |
-| Não conhecia ACO prolongado como fator de risco para CA mama | 1x (GIN Clim Q6) |
-| Não reconheceu sangramento vaginal de causa desconhecida como contraindicação absoluta à TH | 1x (GIN Clim Q4) |
-| Não sabia quais antidepressivos inibem CYP2D6 (evitar com tamoxifeno) vs venlafaxina (segura) | 1x (GIN Clim Q5) |
-| Não sabia que dor D5-7 pós-MTX é esperada ("dor de separação") — indicação de conservar, não cirurgia | 1x (OBS Sang Q1) |
-| Não sabia do limiar discriminatório de β-hCG (~2.000 mUI/mL) para visualização de imagem gestacional | 1x (OBS Sang Q2) |
-| Algoritmo GE: imagem paraovariana + beta <2.000 → curva em 48h (não incipiente em 1 semana) | 1x (OBS Sang Q3) |
-| Algoritmo GE: aumento <50% em 48h + cavidade vazia + imagem = diagnóstico fechado → laparoscopia | 1x (OBS Sang Q8) |
-| Não conhecia gestação heterotópica; ausência de fluxo Doppler não exclui GE | 1x (OBS Sang Q4) |
-| Cross-signalling hCG→TSH: hCG age como TSH agonista → hipertireoidismo (não hipotireoidismo) | 1x (OBS Sang Q5) |
-| Confundiu cariótipo 47XXY (trissomia = abortamento) com 69XXY (triploide = mola parcial) | 1x (OBS Sang Q6) |
-| Preditor de sucesso do MTX: β-hCG inicial (não tamanho da massa) | 1x (OBS Sang Q9) |
+- **[PED]** Confusão de idade de apresentação (canal-dependentes vs T4F vs CIA) — 3x (Ped Q3, Q4, Q9)
+- **[PED]** Confusão cianogênica vs acianogênica (CoAo, EP valvar) — 3x (Ped Q1, Q6, Q10)
+- **[PED]** Confusão hipofluxo vs hiperfluxo (T4F vs HCE/TGA) — 2x (Ped Q3, Q5)
+- **[PED]** Não reconhecer sinais patognomônicos (desdobramento fixo B2 = CIA) — 1x (Ped Q8)
+- **[PREV]** Confusão taxa vs proporção vs coeficiente (ISU, mortalidade específica) — 2x (Prev Q7, Q9)
+- **[PREV]** Denominador errado na mortalidade específica de gênero — 1x (Prev Q7)
+- **[PREV]** Causa básica vs causa imediata/terminal da morte — 1x (Prev Q5)
+- **[PREV]** Confusão entre indicadores de mortalidade (APVP vs mortalidade proporcional) — 1x (Prev Q1)
+- **[CIR]** Confusão drenagem de tórax vs toracotomia — 1x (Cir Q2)
+- **[CIR]** Classificou choque corretamente mas aplicou tratamento do grau errado (II → III) — 1x (Cir Q3)
+- **[CIR]** Sabia a resposta mas duvidou e escolheu errado (controle da fonte) — 1x (Cir Q4)
+- **[CIR]** Confusão velocidade de infusão do TXA com janela temporal + limiar FC borderline — 1x (Cir Q1)
+- **[GIN]** Confusão entre exame de rotina clínica (FSH) e marcador fisiopatológico (inibina) no climatério — 1x (GIN Clim Q1)
+- **[GIN]** Generalização "TH = risco de CA mama" sem diferenciar E isolado (sem ↑) de E+P (↑ ≥5 anos) — 1x (GIN Clim Q3)
+- **[GIN]** Não conhecia ACO prolongado como fator de risco para CA mama — 1x (GIN Clim Q6)
+- **[GIN]** Não reconheceu sangramento vaginal de causa desconhecida como contraindicação absoluta à TH — 1x (GIN Clim Q4)
+- **[GIN]** Não sabia quais antidepressivos inibem CYP2D6 (evitar com tamoxifeno) vs venlafaxina (segura) — 1x (GIN Clim Q5)
+- **[OBS]** Não sabia que dor D5-7 pós-MTX é esperada ("dor de separação") — indicação de conservar, não cirurgia — 1x (OBS Sang Q1)
+- **[OBS]** Não sabia do limiar discriminatório de β-hCG (~2.000 mUI/mL) para visualização de imagem gestacional — 1x (OBS Sang Q2)
+- **[OBS]** Algoritmo GE: imagem paraovariana + beta <2.000 → curva em 48h (não incipiente em 1 semana) — 1x (OBS Sang Q3)
+- **[OBS]** Algoritmo GE: aumento <50% em 48h + cavidade vazia + imagem = diagnóstico fechado → laparoscopia — 1x (OBS Sang Q8)
+- **[OBS]** Não conhecia gestação heterotópica; ausência de fluxo Doppler não exclui GE — 1x (OBS Sang Q4)
+- **[OBS]** Cross-signalling hCG→TSH: hCG age como TSH agonista → hipertireoidismo (não hipotireoidismo) — 1x (OBS Sang Q5)
+- **[OBS]** Confundiu cariótipo 47XXY (trissomia = abortamento) com 69XXY (triploide = mola parcial) — 1x (OBS Sang Q6)
+- **[OBS]** Preditor de sucesso do MTX: β-hCG inicial (não tamanho da massa) — 1x (OBS Sang Q9)
+- **[ASMA]** PaCO2 normal em crise = alarme; tórax silente + tratamento máximo = IOT (não O2 isolado) — 1x (Asma Q1)
+- **[ASMA]** Não diferenciou via inalatória (segura) vs sistêmica (efeitos CV) para β2-agonistas — 1x (Asma Q2)
+- **[ASMA]** Critérios numéricos de gravidade da crise (FR, FC, SpO2, PFE) — confusão moderada × grave — 1x (Asma Q3)
+- **[ASMA]** Desconhecia atelectasia por absorção como mecanismo do excesso de O2 — 1x (Asma Q4)
+- **[ASMA]** Confundiu contexto de emergência com ambulatorial ao hierarquizar exames complementares — 1x (Asma Q5)
+- **[ASMA]** Generalizou MART/SABA: SABA permanece resgate quando LABA ≠ formoterol — 1x (Asma Q6)
 
 ---
 
 ## Distribuição por Tipo de Erro
 
-| Tipo de Erro | Quantidade |
-|---|---|
-| Lacuna de conhecimento | 16 |
-| Conhecimento parcial | 8 |
-| Erro de aplicação | 11 |
-| Erro de leitura | 0 |
-| Armadilha do examinador | 0 |
-| Incerteza sem erro de base | 2 |
+- Lacuna de conhecimento: **17**
+- Conhecimento parcial: **10**
+- Erro de aplicação: **12**
+- Erro de leitura: **1**
+- Armadilha do examinador: **1**
+- Incerteza sem erro de base: **2**

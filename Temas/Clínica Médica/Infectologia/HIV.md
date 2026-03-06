@@ -1,119 +1,246 @@
-### Introdução
-- Infecção viral crônica pelo HIV, que leva à redução dos LTCD4 (T helper) e à imunossupressão
-- Logo, o followup é baseado na contagem de LTCD4 (VN: 500~1400) e na carga viral (CV: <400)
-- Transmissão: sexual (sêmen, fluidos vaginais), por contato com sangue, líquor, etc; e vertical (materno-fetal; líquido amniótico, leite materno)
-- Não transmite: suor, lágrima, fezes, urina, vômitos e saliva
-- Epidemiologia / Tendências:
-    - Aumento: detecção em homens, razão entre os sexos, casos novos em HSH, decterção em gestantes
-    - Queda: detecção em mulheres, mortalidade geral
+# HIV / AIDS
 
-### História natural e Clínica
-- História natural: 3 fases
-    - Infecção aguda / fase sintomática inicial / sd. retroviral aguda (SRA): mono-like autolimitada, ↑ carga viral e ↓ LTCD4
-    - Latência clínica: ↓ carga viral e ↑ LTCD4 (com o tempo, LTCD4 cai de novo)
-    Sd. da imunodeficiência adquirida (AIDS): ↓ LTCD4 (<200 e ↑ carga viral) OU doença definidora de AIDS (pneumocistose, candidiase esofagica ou traqueia, TB, Kaposi, neurotoxo, linfoma Hodgkin B, carcinoma cervical)
+## 1. Aspectos Gerais
 
-### Diagnóstico laboratorial
-- Anti-HIV para todos com vida sexual ativa em consulta de rotina, mesmo assintomático
+- Agente: HIV — retrovírus (família Retroviridae, subfamília lentivírus), genoma RNA + transcriptase reversa → transforma RNA em DNA → integra-se ao genoma da célula hospedeira
+- Infecta **linfócitos T CD4+** (T helper) — papel central na imunidade adaptativa
+- Monitoramento: contagem de CD4 (VN: 500–1400 células/µL) + carga viral (CV)
 
-- Quatro tipos de testes:
-    - Teste rápido (TR)
-    - Imunoensaio (ELISA 4º geração)
-    - Western blot.
-    - Detecção da carga viral (CV)
+**Transmissão** — materiais biológicos com risco:
+- Sangue, sêmen, secreções vaginais, líquidos de serosas, amniótico, líquor, articular, leite materno
+- **Não transmitem:** suor, lágrimas, fezes, urina, vômitos, saliva
+- Maior risco por ato sexual: sexo anal receptivo (1,38%) > insertivo (0,11%) > vaginal receptivo (0,08%) > vaginal insertivo (0,04%)
+- ⭐ Outras ISTs (ex.: úlcera genital por HSV/sífilis) aumentam ~4× a transmissibilidade
 
-- Confirmação: 2 testes consecutivos com resultado reagente
-    - Dois testes rápidos de fabricantes diferentes
-    - Um teste rápido usando fluido oral e outro teste rápido no sangue
-    - Um imunoensaio de 3ª/4ª geração e um teste molecular (carga viral)
-    - Um imunoensaio de 3ª/4ª geração e um western blot ou imunoblot rápido
+**Epidemiologia (tendências no Brasil):**
+- ↑ Detecção em homens e razão entre os sexos; ↑ casos em HSH (>50% dos novos); ↑ detecção em gestantes (maiores taxas: RS e SC)
+- ↓ Detecção em mulheres; ↓ mortalidade geral (exceto Norte e Nordeste — aumento regional)
+- Principal causa de óbito em PVHIV: TB (lidera); em seguida: linfoma não-Hodgkin
 
-### Tratamento
-- Confirmada a infecção, o tratamento é feito com antirretrovirais e independe da contagem de LTCD4 e CV, com esquema atual de três drogas
+---
 
-- Drogas: tenofovir (TDF), Lamivudina (3TC) e Dolutegravir (DTG) | paciente toma 2 comprimidos por dia (TDF + 3TC) e 1 comprimido por dia (DTG)
+## 2. História Natural
 
-- Classificação dos antiretrovirais:
-    - Inibidores da transcriptase reversa análogos de nucleosídeos e nucleotídeos (ITRN): Tenofovir (TDF), Zidovudina (AZT) e Lamivudina (3TC)
-        - Tenofovir (TDF): esquema básico, também trata hepatite B | Efeitos adversos: disfunção renal e perda óssea.
-        - Zidovudina (AZT): profilaxia da transmissão vertical | Efeitos adversos: anemia, supressão medular.
-        - Lamivudina (3TC): esquema básico, bem tolerada com poucos adversos, também trata hepatite B.
-    - Inibidores da transcriptase reversa não análogos de nucleosídeos e nucleótidos (ITRNN): Efavirenz (EFV)
-        - Efavirenz (EFV): 'efavironha' | Efeitos adversos: terror noturno, sonhos vívidos, ansiedade e depressão.
-    - Inibidores de protease: Atazanavir (ATV), Ritonavir (RTV), Lopinavir (LPV) e Darunavir (DRV)
-        - Todos interagem com a rifampicina (TB), logo trocar uma das duas medicações (preferir manter rifampicina ou trocar ela pela rifabutina) | Efeitos adversos: TGI.
-    - Inibidores da integrase: Dolutegravir (DTG) e Raltegravir (RAL)
-        - Dolutegravir (DTG): esquema básico, bem tolerada com poucos efeitos adversos.
-        - Raltegravir (RAL): indicada apenas quando não puder utilizar o dolutegravir.
+**Fase 1 — Infecção aguda / Síndrome Retroviral Aguda (SRA):**
+- 3–4 semanas após o contágio
+- Síndrome **mono-like** (febre, cefaleia, mialgia, faringite, linfadenopatia, exantema, astenia)
+- CV muito elevada + CD4 cai abruptamente → depois se recupera parcialmente
+- DD: mononucleose por CMV/EBV, toxoplasmose, rubéola, sífilis, hepatite viral
 
-- Gestantes: não podemos utilizar dolutegravir no 1º trimestre por risco de defeito no tubo neural
-    - Até 12 semanas: genotipagem para verificar se o vírus é resistente ao efavirenz - Tenofovir (TDF) + Lamivudina (3TC) + Efavirenz (EFV) | sem, troca por ATV/RTV
-    - A partir de 12 semanas: Tenofovir (TDF) + Lamivudina (3TC) + Dolutegravir (DTG)
+**Fase 2 — Latência clínica:**
+- CV cai, CD4 começa a subir e depois cai progressivamente
+- Assintomático (exceto linfadenopatia persistente)
+- Candidíase oral = marcador precoce de imunossupressão (**não é doença definidora de AIDS**)
+- Pode durar meses a anos; surgem infecções bacterianas recorrentes (sinusites, pneumonias)
 
-- Tuberculose: esquema básico, dose dobrada do DTG | nunca associar rifampicina com IP's (ATV, RTV, LPV e DRV) | Impossível: troca rifampicina por rifabutina
+**Fase 3 — AIDS:**
+- CD4 < 200 células/mm³ **OU** presença de doença definidora de AIDS
 
-### Infecções oportunistas
-- Pneumocistose: 
-    - P. jiroveci | TCD4 < 200 | tosse seca, febre, dispneia e hipoxemia | candidiase oral, LDH aumentado | RX: ok / infiltrado bilat., PNMTX, TC: vidro fosco
-    - Tratamento: Bactrim por 21 dias em dose terapêutica + dose profilática 3x/semana, por 3 meses após TCD4 > 200 | Alergia à sulfa: clindamicina + primaquina
-    - Corticoides se doença grave/moderada (PaO2 < 70mmHg) ou gradiente alvéolo-capilar > 35mmHg | redução da mortalidade
+**Doenças definidoras de AIDS (destaque para provas):**
+- Pneumocistose (PCP), candidíase esofágica/traqueobrônquica, TB (pulmonar e extrapulmonar)
+- Neurotoxoplasmose, neurocriptococose extrapulmonar, LEMP
+- Sarcoma de Kaposi, linfoma não-Hodgkin de células B ou primário do SNC
+- Carcinoma cervical invasivo, doença por CMV (exceto fígado/baço/linfonodos)
+- Síndrome consumptiva pelo HIV, encefalopatia pelo HIV
+- Reativação de doença de Chagas, leishmaniose atípica disseminada
+- ⚠️ **Candidíase oral, herpes-zóster, febre de origem obscura e pneumonia bacteriana isolada = NÃO definem AIDS**
+    - Exceção: pneumonia bacteriana recorrente (≥2 episódios/ano) = define AIDS
 
-- Neurotoxoplasmose:
-    - T. gondii | TCD4 < 100 | lesões expansivas, curso subagudo, febre + alterações neurológicas (convulsões, crise focal, etc.) | TC: realce anelar + edema perilesional
-    - Diagnóstico é presuntivo, com clínica + exame de imagem | Diagnóstico definitivo precisaria de biópsia da lesão cerebral | Não fazer punção lombar (risco herniação)
-    - Tratamento: sulfadiazina + pirimetamina + ácido folínico por 6 semanas | alergia à sulfa: trocar sulfadiazina pela clindamicina e suspender ácido folínico.
-    - Seguimento: se TC não apresentar melhora dentro de 10 ~ 14 dias, investigar linfoma primário do SNC
+---
 
-- Neurocriptococose:
-    - C. neoformans | TCD4 < 100 | doença fúngica invasiva | sintomas de meningite e HIC (cefaleia, náuseas e vômitos, rigidez de nuca, edema de papila, paralisia do VI)
-    - Punção lombar: aumento da pressão de abertura (> 20 cmH2O), quimiocitologia normal ou com ↑ celularidade, PTN pouco alta e glicose pouco baixa | tinta nanquim
-    - Tratamento: 3 fases (indução, consolidação e manutenção): pacientes que não estavam em uso de TARV devem aguardar de 2 a 10 semanas para iniciar medicações.
-        - Indução: anfotericina B + (5-flucitosina ou fluconazol) por 2 semanas
-        - Consolidação: fluconazol em doses altas por 8 semanas
-        - Manutenção: fluconazol em doses terapêuticas por 12 meses
+## 3. Diagnóstico Laboratorial
 
-- Candidiase oral e esofagica ou esofagite por CMV:
-    - Placas esbranquiçadas, removíveis com espátula | dx dif: leucoplasia pilosa oral (causada pelo EBV, não removível) | disfagia = candidíase esofágica | fluconazol.
+- Oferecer testagem a todos com vida sexual ativa em consulta de rotina, mesmo assintomático
+- Todo paciente com TB deve ser testado para HIV
+- Confirmação: **2 testes consecutivos reagentes**
 
-- Úlceras esofágicas: 
-    - CMV: úlceras confluentes e linares ou longitudinais | células epiteliais com inclusões basófilas (citoplasma) e eosinófilas (núcleo) = olho de coruja | ganciclovir.
-    - HSV-1: rompimento de vesículas coalescentes, formam úlceras pequenas, geralmente < 2mm, bem circunscritas, parecendo um "vulcão" | aciclovir.
+**Combinações válidas:**
+- 2 testes rápidos com amostras de sangue (fabricantes diferentes)
+- 1 TR fluido oral + 1 TR sangue
+- 1 imunoensaio (3ª ou 4ª geração) + 1 teste molecular (CV)
+- 1 imunoensaio (3ª ou 4ª geração) + 1 western blot / imunoblot rápido
 
-### Profilaxia
-- Quando os LTCD4 estão baixos, devemos fazer profilaxia para TB, pneumocistose, toxoplasmose, MAC
-    - TCD4 < 350, independente do PPD: Tuberculose, com isoniazida
-    - TCD4 > 350, com PPD > 5mm: Tuberculose, com isoniazida
-    - TCD4 < 200: Pneumocistose, com bactrim
-    - TCD4 < 100: Toxoplasmose, com bactrim
-    - TCD < 50: MAC, com azitromicina
+**Janela imunológica por teste:**
+- Carga viral (RNA): positiva em ~10–15 dias
+- ELISA 4ª geração (antígeno p24 + anticorpos): ~15–20 dias
+- ELISA 3ª geração: ~20–30 dias
+- Testes rápidos (anticorpos): janela 1–3 meses
+- ⚠️ Testes rápidos **não são indicados para infecção aguda** (janela longa)
 
-- Profilaxia pós-exposição (PEP): responder 5 perguntas | esquema básico (TDF + 3TC + DTG) por 28 dias
-    - O tipo de exposição foi percutânea, através de mucosas ou pele não íntegra?
-    - O material biológico envolvido foi sangue, sêmen, secreções, líquidos (serosa, amniótico, articular, líquor ou leite materno)?
-    - Paciente fonte tem sorologia positiva ou desconhecida para HIV?
-    - Paciente exposto tem sorologia não reagente para HIV?
-    - O acidente foi a menos de 72h?
+---
 
-- Profilaxia pré-exposição (PREP): uso diário e profilático de tenofovir (TDF) + entricitabina
-    - Pessoas acima de 15 anos, com peso >= 35kg, sexualmente ativas, com risco aumentado (desproteção), com ou sem consentimento
-    - As duas drogas são combinadas em um único comprimido, que deve ser tomado diariamente, sem prazo mínimo ou máximo (profilaxia)
-    - Antes de iniciar o uso, devemos garantir que não exista infecção ativa pelo HIV, testar e tratar outras ISTs e orientar uso de preservativo
-    - Sorodiscordância: parceiro soro+ em uso adequado de TARV + CV indetectável > 6 meses, sem outras ISTs e sem trepar com estranhos = não precisa de PREP
+## 4. Tratamento Antirretroviral
 
-- Profilaxia de transmissão vertical: ATENÇÃO, QUE ESTE ASSUNTO DESPENCA NAS PROVAS | LEMBRAR DO MANEJO DO RN E DA GESTANTE
-    - Gestante: valor da CV na 34ª semana
-        - Indetectável: manter TARV e a via de parto é conforme indicação obstétrica
-        - Detectável, < 1000 cópias/mL: AZT injetável EV, > 3h antes da cirurgia até o clampeamento do cordão umbilical e a via de parto conforme indicação obstétrica
-        - Detectável, >= 1000 cópias/mL: AZT injetável EV, > 3h antes da cirurgia até o clampeamento do cordão umbilical e a via de parto é a cesárea
-    - RN: mesmo com uso regular de TARV pela mãe, devem receber profilaxia com AZT (zidovudina), com dose ajustada para o peso, 12/12h | RN alto risco = AZT + 3TC + RAL
-        - Medicações devem ser administratas preferencialmente na sala de parto ou em até 4h do nascimento, mantidas por 4 semanas
-        - Baixo risco: uso de TARV na gestação, CV indetectável a partir da 28ª semana e sem falha na adesão à TARV
-        - Alto risco: devem fazer profilaxia com AZT (<34wk); ou com AZT + 3TC + NVP por 28 dias se > 37wk, ou 28 dias, exceto NVP por 14, se entre 34 e 37 semanas
-            - Mães sem pré-natal
-            - Mães sem TARV durante a gestação
-            - Mães que tinham indicação de profilaxia no parto e não a receberam
-            - Mães com início de TARV após a 2ª metade da gestação
-            - Mães com infecção aguda pelo HIV durante a gestação ou aleitamento
-            - Mães com CV detectável no 3º trimestre, usando ou não TARV
-            - Mães com CV desconhecida
-            - Mães com teste rápido + no momento do parto, sem diagnóstico prévio de infecção pelo HIV
+### 4.1 Princípios
+
+- Tratamento indicado **para todo PVHIV**, independente de CD4 ou CV
+- Esquema: 3 drogas
+
+**Esquema básico padrão:**
+- Tenofovir (TDF) + Lamivudina (3TC) + Dolutegravir (DTG) — 2 comprimidos/dia
+
+### 4.2 Principais Antirretrovirais
+
+**ITRN (Inibidores da transcriptase reversa análogos de nucleosídeos/nucleotídeos):**
+- **Tenofovir (TDF):** esquema básico; trata hepatite B; efeitos adversos: disfunção renal e perda óssea
+- **Zidovudina (AZT):** profilaxia da transmissão vertical; efeitos adversos: anemia, supressão medular
+- **Lamivudina (3TC):** esquema básico; bem tolerada; trata hepatite B
+
+**ITRNN (Não-análogos):**
+- **Efavirenz (EFV):** efeitos adversos: terror noturno, sonhos vívidos, ansiedade, depressão ("EFAvironha")
+
+**Inibidores de Protease (IP):**
+- Atazanavir (ATV), Ritonavir (RTV), Lopinavir (LPV), Darunavir (DRV)
+- ⚠️ **Todos os IP interagem com rifampicina** → preferir trocar o IP (por DTG ou EFV); se impossível: substituir rifampicina por **rifabutina**
+- Efeitos adversos: gastrointestinais
+
+**Inibidores de Integrase:**
+- **Dolutegravir (DTG):** esquema básico; poucos efeitos adversos; 🔴 **contraindicado no 1º trimestre de gestação** (risco de defeito no tubo neural)
+- **Raltegravir (RAL):** alternativa quando DTG não pode ser usado
+
+### 4.3 Esquemas Especiais
+
+**Gestantes:**
+- < 12 semanas: TDF + 3TC + EFV (se genotipagem prévia sem mutação a ITRNN); sem genotipagem ou com mutação: TDF + 3TC + ATV/RTV
+- ≥ 13 semanas: TDF + 3TC + DTG
+
+**Coinfectados HIV-TB:**
+- Manter RIPE + esquema básico; **dobrar dose do DTG** (50 mg 2×/dia — interação com rifampicina)
+- Rifampicina + qualquer IP = contraindicado (trocar o IP ou rifampicina por rifabutina)
+- Início da TARV em virgem de tratamento:
+    - CD4 < 50: iniciar em até **2 semanas** do RIPE
+    - CD4 ≥ 50: iniciar no **início da fase de manutenção (8ª semana)**
+
+---
+
+## 5. Infecções Oportunistas
+
+### 5.1 Pneumocistose (PCP)
+
+- Agente: *Pneumocystis jirovecii* | CD4 < 200
+- Clínica: tosse seca, febre, dispneia, hipoxemia — curso subagudo
+- ⭐ Contexto clínico: HIV + dispneia subaguda + candidíase oral + ↑ LDH
+- Imagem: Rx normal ou infiltrado intersticial bilateral ou pneumotórax; TC: **vidro fosco bilateral**
+- ⚠️ Derrame pleural = fala contra PCP
+- Diagnóstico: geralmente presuntivo (clínica + imagem + LDH); pode confirmar por pesquisa direta/PCR em escarro ou LBA
+- Tratamento: **SMX-TMP** (bactrim) por **21 dias** (dose terapêutica) → após: dose profilática 3×/semana → manter por pelo menos **3 meses após CD4 > 200**
+    - Alergia à sulfa: clindamicina + primaquina
+- **Corticoide:** indicado se PaO2 < 70 mmHg em ar ambiente **ou** gradiente alvéolo-capilar > 35 mmHg → reduz mortalidade
+
+### 5.2 Neurotoxoplasmose
+
+- Agente: *Toxoplasma gondii* | CD4 < 100
+- Doença com lesões expansivas cerebrais mais comum em HIV+
+- Clínica: curso subagudo, febre + alterações neurológicas (convulsão, alteração mental, sinais focais — hemiparesia, disfasia)
+- Sorologia: IgG geralmente positivo, IgM negativo (reativação, não primoinfecção)
+- TC de crânio: lesões hipodensas com **realce anelar** + edema perilesional — gânglios da base mais comuns
+- ⚠️ **Não fazer punção lombar de rotina** — risco de herniação (desvio de linha média)
+- Diagnóstico: **presuntivo** (clínica + TC); definitivo = biópsia (não indicada de rotina)
+- Tratamento: **sulfadiazina + pirimetamina + ácido folínico** por **42 dias (6 semanas)**
+    - Alergia à sulfa: trocar sulfadiazina por clindamicina e suspender ácido folínico
+    - Alternativa: SMX-TMP
+- Seguimento: repetir TC em 10–14 dias → sem melhora → investigar **linfoma primário do SNC (LPSNC)**
+- Corticoide: se efeito de massa importante ou edema cerebral difuso
+
+### 5.3 Neurocriptococose
+
+- Agente: *Cryptococcus neoformans* | CD4 < 100
+- Doença fúngica invasiva mais grave em HIV+ (maior mortalidade)
+- Clínica: sinais de meningite + HIC (cefaleia, náuseas, vômitos, rigidez de nuca, edema de papila, paralisia do VI par)
+- LCR: ↑ pressão de abertura (> 20 cmH₂O), quimiocitologia normal ou linfóides leve, proteínas levemente ↑, glicose levemente ↓
+- ⭐ Diagnóstico: **tinta da China positiva** no LCR
+- Tratamento em 3 fases:
+    - Indução: anfotericina B + 5-flucitosina (ou fluconazol) × **2 semanas**
+    - Consolidação: fluconazol em doses altas × **8 semanas**
+    - Manutenção: fluconazol em dose menor × **12 meses**
+- ⚠️ Pacientes virgens de TARV → aguardar **2–10 semanas** antes de iniciar TARV (evitar IRIS)
+
+### 5.4 Candidíase Oral e Esofágica
+
+- Placas esbranquiçadas removíveis com espátula
+- Candidíase oral = marcador de imunossupressão (**não define AIDS**)
+- Candidíase esofágica = **define AIDS**
+- DD importante: **leucoplasia pilosa oral** (causada pelo EBV, placas **não removíveis** com espátula)
+- Candidíase oral + disfagia → pensar em candidíase esofágica (causa mais comum de disfagia em HIV+)
+- Tratamento: fluconazol
+
+### 5.5 Úlceras Esofágicas por Herpesvírus
+
+**CMV:**
+- Úlceras confluentes, lineares ou longitudinais
+- Anatomopatológico: inclusões basófilas no citoplasma e eosinófilas no núcleo → **"olho de coruja"**
+- Tratamento: ganciclovir
+
+**HSV-1:**
+- Úlceras pequenas (<2 mm), múltiplas, bem circunscritas, aspecto em **"vulcão"** — ruptura de vesículas coalescentes
+- Tratamento: aciclovir
+
+---
+
+## 6. Profilaxia das Doenças Oportunistas
+
+- **CD4 ≤ 350** (independente do PPD): TB → isoniazida
+- **CD4 > 350 com PPD ≥ 5mm**: TB → isoniazida
+- **CD4 ≤ 200**: Pneumocistose → SMX-TMP
+- **CD4 ≤ 100**: Toxoplasmose → SMX-TMP (mesma dose e droga da PCP — cobre as duas)
+- **CD4 ≤ 50**: MAC (*Mycobacterium avium complex*) → azitromicina
+
+---
+
+## 7. Prevenção
+
+### 7.1 PEP (Profilaxia Pós-Exposição)
+
+5 perguntas afirmativas para indicar:
+1. Exposição percutânea, mucosa ou pele não íntegra?
+2. Material biológico de risco (sangue, sêmen, líquidos de serosas, amniótico, líquor, articular, leite materno)?
+3. Paciente fonte com sorologia positiva ou desconhecida?
+4. Paciente exposto com sorologia não reagente?
+5. Acidente há < 72 horas?
+
+- Esquema: TDF + 3TC + DTG por **28 dias**
+
+### 7.2 PrEP (Profilaxia Pré-Exposição)
+
+- Indicação: ≥ 15 anos, peso ≥ 35 kg, sexualmente ativos com risco aumentado (sem necessidade de consentimento dos pais para adolescentes)
+- Esquema: tenofovir + entricitabina (1 comprimido ao dia, sem prazo mínimo ou máximo)
+- Antes de iniciar: garantir sorologia negativa, tratar outras ISTs, orientar preservativo
+- **Sorodiscordância:** parceiro soropositivo com TARV regular + CV indetectável ≥ 6 meses + sem outras ISTs + sem outras parcerias = **não precisa de PrEP** (*Indetectável = Intransmissível*)
+
+### 7.3 Profilaxia da Transmissão Vertical
+
+⭐ **Decisão-chave: valor da CV na 34ª semana**
+
+**Gestante:**
+- CV indetectável: manter TARV; via de parto conforme indicação obstétrica
+- CV detectável < 1.000 cópias/mL: AZT injetável EV (≥ 3h antes → até clampeamento do cordão); via obstétrica
+- CV desconhecida ou ≥ 1.000 cópias/mL: AZT injetável EV; **via de parto = cesárea**
+
+**RN:** todo RN de mãe HIV+, mesmo com TARV regular materna, recebe profilaxia → iniciar preferencialmente na sala de parto ou **em até 4h do nascimento** → manter por **4 semanas**
+
+**Baixo risco** (mãe com TARV + CV indetectável ≥ 28ª semana + sem falha de adesão):
+- AZT por 28 dias
+
+**Alto risco** (mãe sem pré-natal, sem TARV, com TARV tardia [>2ª metade], CV detectável no 3º trimestre, TR+ no parto ou infecção aguda durante gestação/aleitamento):
+- > 37 semanas: AZT + 3TC + RAL × 28 dias
+- 34–37 semanas: AZT + 3TC + NVP × 28 dias (NVP apenas por 14 dias)
+- < 34 semanas: AZT
+
+⚠️ RN **não deve ser amamentado** (leite materno transmite HIV)
+
+---
+
+## Armadilhas de Prova
+
+- ⭐ Candidíase oral = marcador de imunossupressão, **não define AIDS**; candidíase esofágica = **define AIDS**
+- ⭐ Pneumonia bacteriana **isolada** não define AIDS — precisa ser recorrente (≥ 2 episódios/ano)
+- ⭐ Neurotoxoplasmose: diagnóstico **presuntivo** — biópsia só se TC não melhorar em 10–14 dias (pensar LPSNC)
+- ⭐ Corticoide na PCP: indicado pela gasometria (PaO2 < 70 ou gradiente > 35), não pelo Rx
+- ⭐ CV na 34ª semana = decisão da via de parto; ≥ 1.000 → cesárea obrigatória
+- ⚠️ DTG contraindicado no 1º trimestre (< 12 semanas) → usar EFV ou ATV/RTV
+- ⚠️ Rifampicina + IP = contraindicado; trocar IP por DTG/EFV, ou rifampicina por rifabutina
+- ⚠️ TARV em HIV-TB: CD4 < 50 → iniciar em 2 semanas; CD4 ≥ 50 → iniciar na 8ª semana (manutenção)
+- ⚠️ Neurocriptococose: aguardar 2–10 semanas para iniciar TARV em virgens → evitar IRIS
+- ⚠️ Testes rápidos: janela 1–3 meses — não indicados para diagnóstico de infecção aguda
+- 🔴 IgM positivo no HIV **não** indica infecção aguda (pode reaparecer de forma intermitente ao longo da infecção)
+- 🔴 Não fazer punção lombar de rotina na neurotoxoplasmose (risco de herniação — desvio de linha média)

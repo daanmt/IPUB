@@ -2,9 +2,6 @@
 *.pdf
 *.PDF
 
-# Arquivos extraídos de PDFs (derivados — regeneráveis)
-Extracted/
-
 # Python
 __pycache__/
 *.pyc
