@@ -1,5 +1,5 @@
 # ESTADO — IPUB (Preparação para Residência Médica)
-*Atualizado: 2026-03-06 (sessão 007) | Ferramenta: Antigravity*
+*Atualizado: 2026-03-06 (sessão 008) | Ferramenta: Antigravity*
 
 ---
 
@@ -14,7 +14,7 @@ Ambiente de estudo para residência médica. Processa questões de prova, regist
 **Operação contínua** — cada sessão processa questões e/ou cria resumos.
 
 - **45 entradas** no caderno de erros (5 áreas)
-- **21 resumos** em `Temas/` — incluindo `Infectologia/TB.md` e `HIV.md` (consolidados)
+- **22 resumos** em `Temas/` — incluindo `Infectologia/TB.md`, `HIV.md` e `Hematologia/Hemostasia.md`
 - **3 workflows** operacionais em `.agents/workflows/`
 
 ---
@@ -60,6 +60,8 @@ Ambiente de estudo para residência médica. Processa questões de prova, regist
 ---
 
 ## Últimas sessões
+
+**2026-03-06 | Antigravity (sessão 008):** Criação do resumo de `Hemostasia.md` a partir das apostilas `Hemost.pdf` e `Hemostasia_I__Co.pdf`. Consolidação de hemostasia normal, plaquetopatias, hemofilias, vW e trombofilias (SAF e hereditárias). Limpeza de arquivos temporários e PDFs da pasta do tema realizada.
 
 **2026-03-06 | Antigravity (sessão 007):** Expansão massiva de Infectologia (`Tuberculose.md` e `HIV.md`) a partir de 6 apostilas/flashcards. Refinamentos baseados em erros de prova (transmissão vertical, neuro-semiologia, rastreio de TB). Deletados PDFs de infectologia após consolidação.
 
