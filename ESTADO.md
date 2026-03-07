@@ -1,5 +1,5 @@
 # ESTADO — IPUB (Preparação para Residência Médica)
-*Atualizado: 2026-03-06 (sessão 008) | Ferramenta: Antigravity*
+*Atualizado: 2026-03-06 (sessão 009) | Ferramenta: Antigravity*
 
 ---
 
@@ -60,6 +60,8 @@ Ambiente de estudo para residência médica. Processa questões de prova, regist
 ---
 
 ## Últimas sessões
+
+**2026-03-06 | Antigravity (sessão 009):** Refatoração massiva de `Hemostasia.md` a partir de `Hemost.pdf` (apostila Estratégia MED). Expansão dos capítulos de PTI (fisiopatologia, Síndrome de Evans, diagnóstico de exclusão, critérios de tratamento, linhas terapêuticas, esplenectomia e 2ª linha), plaquetopatias qualitativas (Glanzmann vs Bernard-Soulier), DVW (tipos, cofator de ristocetina, DDAVP, DVW adquirida por uremia/TE), Hemofilias (classificação por gravidade, artropatia, inibidores) e Trombofilias (SAF catastrófica, critérios diagnósticos SAF, trombofilias hereditárias com ranking de frequência e gravidade). Arquivo de text temporário mantido em %TEMP%.
 
 **2026-03-06 | Antigravity (sessão 008):** Criação do resumo de `Hemostasia.md` a partir das apostilas `Hemost.pdf` e `Hemostasia_I__Co.pdf`. Consolidação de hemostasia normal, plaquetopatias, hemofilias, vW e trombofilias (SAF e hereditárias). Limpeza de arquivos temporários e PDFs da pasta do tema realizada.
 
