@@ -18,6 +18,66 @@
 
 ## Clínica Médica
 
+### Hematologia
+
+#### PTI Pediátrica — Conduta expectante vs. Tratamento (limiar 20.000)
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 3 — Indicar a conduta correta para a contagem de plaquetas identificada
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** João, 7 anos, petéquias e equimoses após IVAS. Bom estado geral, sem sangramento ativo. Plaquetas 25.000. Marcou tratamento (B), mas o gabarito era conduta expectante (A).
+
+**Habilidades sequenciais:**
+1. Identificar o diagnóstico de Púrpura Trombocitopênica Imunológica (PTI) pós-viral em criança.
+2. Reconhecer a ausência de sangramentos graves/mucosos (apenas pele).
+3. Saber o ponto de corte para tratamento medicamentoso na PTI pediátrica (plaquetas < 20.000).
+
+**O que faltou:**
+Equívoco ao indicar tratamento imediato para uma contagem de 25.000 em paciente em bom estado geral e apenas sangramento cutâneo. Não considerou o corte de 20.000 para intervenção.
+
+**Explicação correta:**
+Na PTI pediátrica, pacientes com sangramento apenas cutâneo (petéquias/equimoses) e plaquetas ≥ 20.000 devem ser mantidos em observação clínica (conduta expectante). O tratamento (Imunoglobulina ou Corticoide) é reservado para plaquetas < 20.000 ou sangramento mucoso significativo.
+
+**Armadilha / nuance:**
+O examinador fornece um estado geral bom e plaquetas acima do limiar crítico para testar se o candidato "se assusta" com o valor absoluto e trata precocemente.
+
+**Informações-chave para revisão:**
+- PTI Pediátrica: Limiar para tratamento = Plaquetas < 20.000 ou sangramento mucoso.
+- Plaquetas ≥ 20.000 + apenas pele = Observação.
+- Primeira linha: Imunoglobulina Humana (IVIG) ou Corticosteroides (Prednisona/Metilprednisolona).
+
+---
+
+#### PTI — Gravidade baseada em sangramento mucoso (Púrpura Úmida)
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 1 — Diferenciar clinicamente PTI leve/moderada de grave
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Questão sobre classificação de gravidade da PTI. Marcou que a gravidade depende apenas do valor de plaquetas. O gabarito enfatizava o sangramento de mucosas (púrpura úmida).
+
+**Habilidades sequenciais:**
+1. Entender que a correlação entre valor de plaquetas e risco de sangramento não é linear na PTI.
+2. Identificar "Púrpura Úmida" (sangramento de mucosas: gengivorragia, epistaxe, hematúria, menorragia) como sinal de gravidade.
+3. Saber que sangramento mucoso obriga tratamento independente do valor de plaquetas.
+
+**O que faltou:**
+Focou excessivamente no número absoluto de plaquetas e ignorou que a clínica (sangramento de mucosa/púrpura úmida) é o principal guia de gravidade e urgência terapêutica.
+
+**Explicação correta:**
+A gravidade da PTI é definida pela clínica, não apenas pelo número. A "Púrpura Úmida" (mucosas) indica alto risco de sangramento do Sistema Nervoso Central (SNC). Nesses casos, o tratamento é mandatório mesmo que as plaquetas estejam acima de 20.000-30.000.
+
+**Armadilha / nuance:**
+O examinador usa a distinção entre "Púrpura Seca" (pele) e "Púrpura Úmida" (mucosa) para definir a agressividade da conduta.
+
+**Informações-chave para revisão:**
+- Púrpura Seca: Petéquias e equimoses (pele) -> Menor gravidade.
+- Púrpura Úmida: Sangramento de mucosas (boca, nariz, TGI, GU) -> Urgência terapêutica.
+- Sangramento mucoso = Risco iminente de Hemorragia Intracraniana.
+
+---
+
 ### Cardiologia
 
 #### Tosse seca por IECA em paciente com IC compensada — trocar por BRA
@@ -708,7 +768,7 @@ iSGLT-2 causa glicosúria → ↓ glicemia → ↓ secreção de insulina (glice
 
 **Complexidade:** Média
 **Elo quebrado:** Habilidade 2 — Não conhecia a ligação iônica proteica das SUF de 1ª geração como mecanismo de interação
-**Tipo de erro:** Lacuna de conhecimento
+**Tipo de erro:** Conhecimento parcial
 
 **Caso:** Questão: em qual situação o uso de sulfonilureias aumenta o risco de hipoglicemia? Alternativas: A (com Metformina), B (medicamentos que interferem na ligação com proteínas), C (sem salicilatos), D (com glicocorticóides + B2-agonistas).
 
@@ -873,7 +933,7 @@ A VM no TCE grave deve manter normocapnia (PaCO₂ 35–45 mmHg). Hiperventilar 
 **Elo quebrado:** Habilidade 2 — Não sabia que vômito = critério de observação/TC em ≥ 2 anos pelo PECARN
 **Tipo de erro:** Conhecimento parcial
 
-**Caso:** Pré-escolar de 5 anos, queda de 1 m, 2 episódios de vômitos, Glasgow 15, sem outros sinais de alarme. Conduta?
+**Caso:** Pré-escolar de 5 anos, caída de 1 m, 2 episódios de vômitos, Glasgow 15, sem outros sinais de alarme. Conduta?
 
 **Habilidades sequenciais:**
 1. Identificar critérios PECARN para ≥ 2 anos: vômito = fator de risco intermediário → TC OU observação 6h
@@ -898,7 +958,20 @@ O examinador pode usar o vômito como único sinal em ECG 15 para testar se o ca
 
 ### Hematologia e Oncologia Clínica
 
-<!-- ENTRADAS AQUI -->
+- **[INF]** Indica AZT EV e cesárea para gestante com CV indetectável (indicação é vaginal + TARV oral) — 1x (HIV Q2)
+- **[HEMA]** Trata PTI pediátrica com plaquetas > 20.000 e sem sangramento mucoso (deve ser expectante) — 1x (PTI Q1)
+- **[HEMA]** Ignora sangramento mucoso (púrpura úmida) como critério de gravidade maior que o valor de plaquetas — 1x (PTI Q2)
+
+---
+
+## Distribuição por Tipo de Erro
+
+- Lacuna de conhecimento: **18**
+- Conhecimento parcial: **13**
+- Erro de aplicação: **13**
+- Erro de leitura: **1**
+- Armadilha do examinador: **1**
+- Incerteza sem erro de base: **2**
 
 ### Infectologia
 
@@ -1346,7 +1419,7 @@ CIA é frequentemente assintomática na infância, mas complicações como IC, H
 Não reconheceu o sinal patognomônico (desdobramento fixo de B2). Confundiu com CIV que tem sopro mais rude e em BEE baixo.
 
 **Explicação correta:**
-Desdobramento fixo de B2 é PATOGNOMÔNICO de CIA — a sobrecarga de volume no VD faz a valva pulmonar fechar sempre depois da aórtica, independente da respiração. CIV tem sopro holossistólico rude em BEE BAIXO (3°-4° EIC). O sopro da CIA é suave e em BEE ALTO — é uma "estenose relativa" pelo hiperfluxo.
+Desdobramento fixo de B2 é PATOGNOMÔNICO de CIA — a sobrecarga de volume no VD faz a valva pulmonar fechar sempre depois da aórtica, independente da respiração. CIV tem sopro holossistólico rude em BEE BAIXO (3°-4° EIC). O sopro da CIA é suave e em BEE ALTO — é uma "estenose relativa" pela hiperfluxo.
 
 **Armadilha / nuance:**
 CIA em si não sopra — o sopro é pela estenose relativa da pulmonar. O sinal decisivo é a B2.
@@ -1882,6 +1955,17 @@ A alternativa C (marcada) afirma que E+P tem risco MENOR que E isolado para CA m
 - E isolado pós-menopausa: sem ↑ CA mama (WHI) | ↑ discretamente CA ovário e CA endométrio
 
 ---
+
+---
+
+## Distribuição por Área
+
+- **Clínica Médica** — Cardiologia; Pneumologia; Infectologia; Hematologia: **15 entradas**
+- **Cirurgia** — Trauma: **4 entradas**
+- **Pediatria** — Cardiologia Pediátrica e Cardiopatias Congênitas: **11 entradas**
+- **Ginecologia e Obstetrícia** — Climatério e TH; Sangramentos da Primeira Metade: **13 entradas**
+- **Medicina Preventiva e Saúde Pública** — Epidemiologia e Bioestatística; Vigilância Epidemiológica: **7 entradas**
+- **Total: 50 entradas**
 
 ---
 

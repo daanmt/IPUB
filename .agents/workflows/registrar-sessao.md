@@ -10,7 +10,7 @@ Ao final de qualquer sessão de trabalho significativa (criação de resumo, an�
 ## Passos
 
 ### 1. Identificar o próximo número
-Verificar `history/` e usar o próximo número sequencial: `session_NNN.md`.
+Criar `history/session_NNN.md` seguindo o protocolo de fechamento do `AGENTE.md`.
 
 ### 2. Criar o session log
 Criar `history/session_NNN.md` com o seguinte formato:

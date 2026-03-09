@@ -2,7 +2,7 @@
 
 ## INICIO OBRIGATÓRIO DE SESSÃO
 
-**Leia `ESTADO.md` antes de qualquer ação.** Contém estado atual, mapa de artefatos, sessões anteriores e próximos passos.
+**Leia `AGENTE.md` antes de qualquer ação.** Este arquivo contém o protocolo de boot e a ordem de leitura para garantir a continuidade do projeto.
 
 ## Workflows disponíveis
 

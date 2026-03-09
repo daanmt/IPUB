@@ -4,7 +4,7 @@
 
 - Processo dinâmico → mantém sangue fluido e coibe sangramentos via tampão hemostático.
 
-- **Hemostasia Primária:** Formação do tampão plaquetário.
+- **Hemostasia Primária:** Formação do tampão plaquetário, após lesão endotelial.
     - Depende de **endotélio**, **plaquetas** e **Fator de von Willebrand (FvW)**.
     - Adesão: **FvW** liga colágeno subendotelial à **GP Ib** da plaqueta.
     - Ativação/Secreção: liberação de **ADP** e **Tromboxano A2 (TXA2)**.
@@ -12,8 +12,8 @@
     - ⭐ Clínica típica: **sangramentos cutaneomucosos** (petéquias, equimoses, epistaxe, gengivorragia, menorragia).
 
 - **Hemostasia Secundária:** Formação da rede de fibrina (estabilização do tampão).
-    - Via Intrínseca: contato (Fator XII) → avaliada pelo **TTPA**.
-    - Via Extrínseca: Fator Tecidual/lesão → avaliada pelo **TAP/RNI**.
+    - Via Extrínseca: Fator Tecidual ativa o fator VII, que diretamente ativa o fator X → avaliada pelo **TAP/RNI**.
+    - Via Intrínseca: contato (ativação do Fator XII), que ativa o Fator XI, IX, VIII e ativa o X → avaliada pelo **TTPA**.
     - Via Comum: FX → Protrombina (II) → Trombina (IIa) → Fibrina.
     - ⭐ Clínica típica: **sangramentos profundos** (hemartroses, hematomas musculares) — surgem horas após o trauma.
 
@@ -60,7 +60,7 @@
     - **HIT (Trombocitopenia Induzida por Heparina):** Queda > 50% das plaquetas após 5–10 dias. É **pró-trombótica** (não hemorrágica!). Conduta: suspender heparina + iniciar anticoagulante alternativo (ex: Fondaparinux/argatrobana).
 
 - **DOACs (Anticoagulantes Orais Diretos):**
-    - Inibidores do Xa: **Rivaroxabana**, **Apixabana**, Edoxabana.
+    - Inibidores do Xa: **Rivaroxabana**, **Apixabana**, , **Fondaparinux**, Edoxabana.
     - Inibidor da Trombina: **Dabigatrana**.
     - Vantagens: dose fixa, sem monitoria rotineira, menos sangramento intracraniano.
     - ⚠️ DOACs são **contraindicados** na SAF de alto risco — usar Varfarina.
@@ -107,11 +107,10 @@
     - Dosagem de imunoglobulinas (afastar imunodeficiências primárias).
     - ⚠️ Mielograma **NÃO é indicado** na investigação inicial. Reservar se houver anemia, leucopenia, esplenomegalia, linfadenomegalias ou suspeita de outra doença hematológica.
 
-- **Indicação de tratamento:** Plaquetas < 20–30k/mm³ OU sangramento ativo.
-    - Plaquetas > 30k sem sangramento → apenas observação.
-
-- **Tratamento de 1ª linha:**
-    - **Corticoides** (Prednisona 1 mg/kg/dia → desmame em 4–6 semanas). Taxa de resposta > 75%.
+- **Tratamento:**
+    - **Indicação:** Plaquetas < 30.000 ou sangramento significativo.
+    - **Primeira Linha:** Glucocorticoides (Prednisona) ou Imunoglobulina Humana. (IVIG para resposta rápida).
+    - **Segunda Linha:** Esplenectomia, Rituximabe, Agonistas de TPO.
     - **Imunoglobulina IV humana:** mesma eficácia; mais cara e EV; ação mais rápida → preferida no sangramento ativo (associada ao corticoide).
     - Imunoglobulina anti-D: opção em pacientes Rh positivos.
     - ⚠️ **Transfusão de plaquetas:** **contraindicada** na PTI. Exceção: sangramento ativo ameaçador (associar às demais medidas). Antifibrinolíticos (ácido tranexâmico) úteis apenas em sangramentos mucosos.

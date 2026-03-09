@@ -3,15 +3,13 @@
 
 ---
 
-## O que é este projeto
-
 Ambiente de estudo para residência médica. Processa questões de prova, registra padrões de erro em `caderno_erros.md`, e mantém resumos clínicos organizados por área/tema em `Temas/`. Portável para qualquer LLM via workflows em `.agents/workflows/`.
 
 ---
 
-## Estado atual
+## INICIO OBRIGATÓRIO DE SESSÃO
 
-**Operação contínua** — cada sessão processa questões e/ou cria resumos.
+**Leia `AGENTE.md` antes de qualquer ação.** Este arquivo contém o protocolo de boot e a ordem de leitura para garantir a continuidade do projeto.
 
 - **45 entradas** no caderno de erros (5 áreas)
 - **22 resumos** em `Temas/` — incluindo `Infectologia/TB.md`, `HIV.md` e `Hematologia/Hemostasia.md`
@@ -61,6 +59,8 @@ Ambiente de estudo para residência médica. Processa questões de prova, regist
 
 ## Últimas sessões
 
+**2026-03-08 | Antigravity (sessão 009):** Análise de PTI (limiares e gravidade) e implementação da nova governança do projeto (`AGENTE.md`, `HANDOFF.md`, workflows refatorados).
+
 **2026-03-06 | Antigravity (sessão 008):** Criação do resumo de `Hemostasia.md` a partir das apostilas `Hemost.pdf` e `Hemostasia_I__Co.pdf`. Consolidação de hemostasia normal, plaquetopatias, hemofilias, vW e trombofilias (SAF e hereditárias). Limpeza de arquivos temporários e PDFs da pasta do tema realizada.
 
 **2026-03-06 | Antigravity (sessão 007):** Expansão massiva de Infectologia (`Tuberculose.md` e `HIV.md`) a partir de 6 apostilas/flashcards. Refinamentos baseados em erros de prova (transmissão vertical, neuro-semiologia, rastreio de TB). Deletados PDFs de infectologia após consolidação.
@@ -87,25 +87,21 @@ Ambiente de estudo para residência médica. Processa questões de prova, regist
 
 ## Decisões críticas (não reverter)
 
-- `caderno_erros.md` atualizado a CADA questão — nunca em batch
-- `progresso.md` derivado do caderno — atualizar junto
-- Protocolo de análise (`Tools/comando de analise de questao.md`) carregado ANTES de analisar qualquer questão
-- Resumos seguem spec em `Tools/estilo-resumo.md` — bullets hierárquicos, ⭐/⚠️/🔴; **sem tabelas, sem fluxogramas ASCII**
-- Sessions numeradas globalmente em `history/` — qualquer agente registra
-- Fichas/ e Memorex/ contêm PDFs valiosos — não deletar
-- `extract_pdfs.py` é CLI genérica — não criar scripts de extração ad hoc
-- Pasta `Extracted/` não existe mais — extrações vão para `%TEMP%` e são deletadas ao final do workflow
-- Ao finalizar resumo: executar `--delete-pdfs <pasta_do_tema>` e `--delete-temps <paths_tmp>`
+- **Governança via AGENTE.md**: O boot e o fechamento seguem estritamente o `AGENTE.md`.
+- `caderno_erros.md` atualizado a CADA questão — nunca em batch.
+- `progresso.md` derivado do caderno — atualizar junto.
+- Protocolo de análise (`Tools/comando de analise de questao.md`) carregado ANTES de analisar qualquer questão.
+- Resumos seguem spec em `Tools/estilo-resumo.md` — bullets hierárquicos, ⭐/⚠️/🔴; **sem tabelas, sem fluxogramas ASCII**.
+- Sessions numeradas globalmente em `history/` — qualquer agente registra.
+- `extract_pdfs.py` é CLI genérica para extração para `%TEMP%`.
 
 ---
 
 ## Para retomar: leia nesta ordem
 
-1. **Este arquivo** (`ESTADO.md`) — estado atual
-2. **Workflow relevante** em `.agents/workflows/` — o que fazer agora
-3. `Tools/estilo-resumo.md` — se for criar/editar resumo
-4. `Tools/comando de analise de questao.md` — se for analisar questões
-5. Sessão mais recente: `history/session_007.md`
+1. **`AGENTE.md`** —— Protocolo de boot.
+2. **`HANDOFF.md`** —— Onde o último agente parou.
+3. **`ESTADO.md`** —— Este arquivo (visão geral).
 
 ---
 

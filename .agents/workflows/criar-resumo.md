@@ -10,6 +10,9 @@ description: Criar resumo clínico a partir de PDF de apostila
 
 ## Passos
 
+### 0. Preflight (Obrigatório)
+Seguir o **Boot Sequence** definido em `AGENTE.md`.
+
 // turbo-all
 
 ### 1. Extrair texto do(s) PDF(s)
@@ -50,5 +53,5 @@ python c:\Users\daanm\IPUB\Tools\extract_pdfs.py --delete-pdfs "pasta\do\tema\" 
 - `--delete-pdfs <pasta>`: remove todos os `.pdf`/`.PDF` da pasta indicada
 - `--delete-temps <paths...>`: remove os arquivos `.txt` temporários gerados no passo 1
 
-### 8. Registrar sessão
-Seguir workflow `registrar-sessao.md` ao final.
+### 8. Fechamento (Obrigatório)
+Seguir o **Protocolo de Fechamento** em `AGENTE.md` e executar o workflow `registrar-sessao.md`.

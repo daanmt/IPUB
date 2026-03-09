@@ -12,6 +12,9 @@ Ler `Tools/comando de analise de questao.md` — contém o protocolo detalhado d
 
 ## Passos
 
+### 0. Preflight (Obrigatório)
+Seguir o **Boot Sequence** definido em `AGENTE.md`.
+
 ### 1. Interpretar o input
 O usuário envia questões em qualquer formato. Não exigir formato específico. Extrair:
 - Enunciado e alternativas
@@ -39,8 +42,8 @@ Atualizar contadores em `progresso.md`.
 ### 6. Responder ao usuário
 Apresentar: análise + diagnóstico do erro + confirmação de registros.
 
-### 7. Registrar sessão
-Seguir workflow `registrar-sessao.md` ao final.
+### 7. Fechamento (Obrigatório)
+Seguir o **Protocolo de Fechamento** em `AGENTE.md` e executar o workflow `registrar-sessao.md`.
 
 ## Regras
 - Tom direto e técnico. Sem linguagem motivacional.
