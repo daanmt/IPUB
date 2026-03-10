@@ -961,15 +961,23 @@ O examinador pode usar o vômito como único sinal em ECG 15 para testar se o ca
 - **[INF]** Indica AZT EV e cesárea para gestante com CV indetectável (indicação é vaginal + TARV oral) — 1x (HIV Q2)
 - **[HEMA]** Trata PTI pediátrica com plaquetas > 20.000 e sem sangramento mucoso (deve ser expectante) — 1x (PTI Q1)
 - **[HEMA]** Ignora sangramento mucoso (púrpura úmida) como critério de gravidade maior que o valor de plaquetas — 1x (PTI Q2)
+- **[PREV]** Não identifica ranking de óbito 5-9 anos (Externas > Neoplasia > Neuro) — 1x (Prev Q1)
+- **[PREV]** Não entende que melhoria da notificação desacelera queda estatística da mort. materna — 1x (Prev Q2)
+- **[PREV]** Atribui CGM alto de países desenvolvidos à má saúde em vez de estrutura etária — 1x (Prev Q3)
+- **[PREV]** Desconsidera que redução da MI no Brasil foi universal em todas as 27 UFs — 1x (Prev Q4)
+- **[PREV]** Atribui mortes no trânsito ao tamanho da frota em vez do nível de desenvolvimento — 1x (Prev Q5)
+- **[PREV]** Desconhece que Método Indireto de padronização é para contingentes pequenos — 1x (Prev Q7)
+- **[PREV]** Tenta inferir risco de morte a partir de indicadores proporcionais; falha no APVP — 1x (Prev Q8)
+- **[PREV]** Acredita que puericultura de baixo risco pode ser exclusiva do enfermeiro — 1x (Prev Q9)
 
 ---
 
 ## Distribuição por Tipo de Erro
 
-- Lacuna de conhecimento: **18**
-- Conhecimento parcial: **13**
-- Erro de aplicação: **13**
-- Erro de leitura: **1**
+- Lacuna de conhecimento: **20**
+- Conhecimento parcial: **15**
+- Erro de aplicação: **18**
+- Erro de leitura: **2**
 - Armadilha do examinador: **1**
 - Incerteza sem erro de base: **2**
 
@@ -1490,8 +1498,6 @@ O sopro em foco pulmonar aparece tanto na EP quanto na T4F. A CIANOSE separa as 
 - Cianose = o diferenciador
 - Sopro em foco pulmonar = presente em ambas
 
----
-
 ### Infectologia Pediátrica
 
 <!-- ENTRADAS AQUI -->
@@ -1964,8 +1970,8 @@ A alternativa C (marcada) afirma que E+P tem risco MENOR que E isolado para CA m
 - **Cirurgia** — Trauma: **4 entradas**
 - **Pediatria** — Cardiologia Pediátrica e Cardiopatias Congênitas: **11 entradas**
 - **Ginecologia e Obstetrícia** — Climatério e TH; Sangramentos da Primeira Metade: **13 entradas**
-- **Medicina Preventiva e Saúde Pública** — Epidemiologia e Bioestatística; Vigilância Epidemiológica: **7 entradas**
-- **Total: 50 entradas**
+- **Medicina Preventiva e Saúde Pública** — Epidemiologia e Bioestatística; Vigilância Epidemiológica: **16 entradas**
+- **Total: 59 entradas**
 
 ---
 
@@ -1973,7 +1979,195 @@ A alternativa C (marcada) afirma que E+P tem risco MENOR que E isolado para CA m
 
 ### Epidemiologia e Bioestatística
 
-#### APVP identifica mortes prematuras em jovens — mortalidade proporcional não mede isso
+#### Mortalidade 5-9 anos — Ranking de causas (Externas > Neoplasias > Neuro)
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Decorar o ranking epidemiológico por faixa etária específica
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Questão pede as três causas mais frequentes de mortalidade em escolares (5-9 anos) no Brasil (2015). Marcou respiratório (A), mas o gabarito era Causas Externas, Neoplasias e Sistema Nervoso (C).
+
+**Habilidades sequenciais:**
+1. Identificar a faixa etária específica (5-9 anos).
+2. Lembrar que, após o primeiro ano de vida, as causas externas assumem a liderança.
+3. Conhecer a transição epidemiológica: doenças infecciosas foram superadas por neoplasias e crônicas nesta faixa.
+
+**O que faltou:**
+Faltou o conhecimento factual do ranking do DATASUS para a faixa escolar. Pensou em causas respiratórias/infecciosas que são mais comuns em pré-escolares (<5 anos).
+
+**Explicação correta:**
+No Brasil, para a faixa de 5 a 9 anos, o ranking de mortalidade é: 1º Causas Externas; 2º Neoplasias (tumores); 3º Doenças do sistema nervoso. Doenças respiratórias e infecciosas vêm em seguida, mas não compõem o TOP 3.
+
+**Armadilha / nuance:**
+O examinador testa a diferenciação entre pré-escolar (onde infecciosas ainda têm peso) e escolar (onde externas e neoplasias dominam).
+
+**Informações-chave para revisão:**
+- Mortalidade 5-9 anos: Externas > Neoplasias > Nervoso.
+- Causas externas lideram em TODAS as faixas de 1 a 40 anos no Brasil.
+
+---
+
+#### Mortalidade Materna — Redução do ritmo de queda devido à melhor notificação
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 2 — Interpretar por que um indicador para de cair apesar de melhorias na assistência
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Questão aponta que o ritmo de queda da razão de mortalidade materna desacelerou. Pede a causa. Marcou financiamento (C), mas o gabarito era estratégia de redução de causas mal definidas (melhor notificação).
+
+**Habilidades sequenciais:**
+1. Reconhecer que a mortalidade materna é subnotificada cronicamente.
+2. Entender que políticas para identificar "causas mal definidas" (investigação de óbito de mulheres em idade fértil) aumentam o número absoluto de casos registrados.
+3. Concluir que o aumento da notificação "mascara" a queda real da mortalidade, reduzindo a velocidade de descida do indicador.
+
+**O que faltou:**
+Não associou a melhoria dos sistemas de informação em saúde (notificação) ao paradoxo de indicadores que parecem estabilizar ou piorar.
+
+**Explicação correta:**
+A tendência de redução do ritmo de queda da mortalidade materna no Brasil (2009 adiante) é atribuída à estratégia de redução de óbitos por causa mal definida. Ao investigar melhor as mortes de mulheres, descobrem-se causas maternas que antes eram ignoradas, aumentando o numerador da Razão de Mortalidade Materna e desacelerando a queda estatística.
+
+**Armadilha / nuance:**
+"Melhoria do dado" vs "Piora da saúde". O examinador quer ver se você entende que mais óbitos registrados pode significar uma vigilância melhor, não necessariamente um hospital pior.
+
+---
+
+#### Coeficiente de Mortalidade Geral (CMG) — Influência da Estrutura Etária
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Entender que CMG alto pode significar população envelhecida
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Por que países europeus têm CMG maior que países em desenvolvimento? Marcou erro de notificação (C), mas o gabarito era estrutura etária (D).
+
+**Habilidades sequenciais:**
+1. Definir CMG: Óbitos totais / População total.
+2. Identificar que o risco de morte é inerentemente maior em idosos.
+3. Concluir que países que já passaram pela transição demográfica (Europa) e têm muitos idosos terão, inevitavelmente, um CMG bruto mais alto.
+
+**O que faltou:**
+Tentou justificar a diferença por qualidade de registro, ignorando o fator biológico óbvio: populações mais velhas morrem proporcionalmente mais do que populações jovens, mesmo com melhor saúde.
+
+**Explicação correta:**
+O Coeficiente Geral de Mortalidade (bruto) é fortemente dependente da estrutura etária. Países desenvolvidos têm CMG alto porque sua população é idosa (risco individual de morte maior). Por isso, para comparar saúde entre regiões, deve-se usar a **Taxa Padronizada por Idade**.
+
+---
+
+#### Mortalidade Infantil — Redução universal em todas as UFs
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 1 — Conhecer a abrangência da redução da MI no Brasil
+**Tipo de erro:** Erro de leitura
+
+**Caso:** Questão sobre evolução da MI (1990-2015) pede a INCORRETA. Marcou alternativa E, mas o gabarito era C (afirmava que apenas 20 de 27 estados reduziram a MI).
+
+**Habilidades sequenciais:**
+1. Conhecer o sucesso histórico da redução da mortalidade infantil no Brasil.
+2. Saber que a redução foi um fenômeno **federal e universal**, atingindo todos os estados sem exceção.
+3. Lembrar que o Brasil cumpriu os Objetivos do Milênio (redução de 2/3).
+
+**O que faltou:**
+Desatenção ao ler a alternativa C. A diminuição ocorreu em **TODAS** as 27 unidades federativas, não apenas em uma parcela.
+
+**Explicação correta:**
+Entre 1990 e 2015, a mortalidade infantil no Brasil apresentou tendência decrescente em todas as 27 unidades da federação. O componente pós-neonatal e neonatal precoce foram os que mais caíram.
+
+---
+
+#### Morbi-mortalidade no trânsito — Relação inversa com PIB/Desenvolvimento
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 2 — Interpretar dados de frota vs. mortalidade por renda
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Países de renda média e baixa têm mais mortes no trânsito apesar de frotas menores. Marcou que países de renda média têm mais veículos (B), mas a correta era a relação inversamente proporcional ao desenvolvimento (A).
+
+**Habilidades sequenciais:**
+1. Analisar os pesos relativos: Países ricos têm quase 50% dos carros e apenas 10% das mortes.
+2. Identificar que países pobres, mesmo com poucos carros (~1%), têm alta letalidade (16%).
+3. Concluir que infraestrutura, fiscalização e socorro (desenvolvimento) são os fatores protetores, não a quantidade de veículos.
+
+**O que faltou:**
+Interpretou que o volume de carros explicava as mortes nos países de renda média, ignorando que proporcionalmente à frota, os países de renda baixa/média são muito mais perigosos.
+
+**Explicação correta:**
+A mortalidade por acidentes de trânsito é inversamente proporcional ao nível de desenvolvimento econômico. Países de alta renda conseguem desconectar o tamanho da frota da mortalidade através de via segura, segurança veicular e sistema de trauma eficiente.
+
+---
+
+#### Padronização de Coeficientes — Indicação do Método Indireto
+
+**Complexidade:** Alta
+**Elo quebrado:** Habilidade 1 — Diferenciar critérios para uso de método direto vs. indireto
+**Tipo de erro:** Lacuna de conhecimento
+
+**Caso:** Qual método usar quando a distribuição de óbitos por idade é conhecida mas os contingentes populacionais são pequenos? Marcou Razão de Mortalidade Padronizada (C), mas o gabarito era Método Indireto (D).
+
+**Habilidades sequenciais:**
+1. Lembrar que a Padronização Serve para comparar populações com estruturas etárias diferentes.
+2. **Método Direto**: Populações grandes; aplica taxas locais a uma população padrão.
+3. **Método Indireto**: Populações pequenas (onde taxas locais são instáveis/flutuantes); aplica taxas de uma população padrão à população local observada.
+
+**O que faltou:**
+Não sabia o critério técnico para escolha do método indireto (contingentes populacionais pequenos).
+
+**Explicação correta:**
+Usa-se o **Método Indireto de Padronização** (que gera a Razão de Mortalidade Padronizada) quando os contingentes populacionais em estudo são pequenos, tornando a taxa local de mortalidade instável. Nesse caso, "tomamos emprestada" a taxa de uma população grande e estável para aplicar à nossa população pequena.
+
+---
+
+#### APVP vs. Mortalidade Proporcional — Indicação de Mortes Precoces
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 2 — Diferenciar indicadores de "peso" vs "impacto de mortes jovens"
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Causas circulatórias (30% proporcional / 11% APVP) vs Externas (11% proporcional / 30% APVP). O que isso indica? Marcou risco de morrer (B), mas era óbitos precoces (D).
+
+**Habilidades sequenciais:**
+1. Definir Mortalidade Proporcional: % de mortes em relação ao total (a "fatia da pizza").
+2. Definir APVP: Anos de vida perdidos (valoriza mortes em jovens).
+3. Interpretar o paradoxo: Se uma causa mata "pouco" no total (11%), mas rouba "muito" tempo de vida (30%), ela está matando jovens.
+
+**O que faltou:**
+Tentou ver "risco de morrer" em indicadores proporcionais. Proporcionalidade NÃO indica risco (que precisaria de denominador total da população viva), indica apenas a partilha dos óbitos.
+
+**Explicação correta:**
+Quando o percentual de Anos Potenciais de Vida Perdidos (APVP) é muito superior à Mortalidade Proporcional de uma causa, isso indica que aquela causa atinge preferencialmente jovens (óbitos precoces). Causas externas são o exemplo clássico no Brasil.
+
+**Informações-chave para revisão:**
+- APVP alto + Mortalidade Proporcional baixa = Causa que mata JOVENS (ex: Externas).
+- APVP baixo + Mortalidade Proporcional alta = Causa que mata IDOSOS (ex: Circulatórias).
+
+---
+
+#### Saúde da Criança — Puericultura e Transição Epidemiológica
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 3 — Saber as regras de acompanhamento na APS (médico e enfermeiro)
+**Tipo de erro:** Erro de aplicação (desatenção)
+
+**Caso:** Verdadeiro ou Falso sobre mortalidade infantil e puericultura. Marcou V-V-V-F (B), mas o gabarito era V-V-F-F (C).
+
+**Habilidades sequenciais:**
+1. Evolução da MI: Pós-neonatal foi o componente que mais reduziu (V).
+2. Nutrição: Obesidade/Sobrepeso hoje superam desnutrição no Brasil (V).
+3. Puericultura: Consultas de puericultura na APS devem ser agendadas de forma intercalada entre médico E enfermeiro, não exclusivamente por enfermeiro após a 1ª (F).
+4. Coordenação do Cuidado: Crianças de alto risco DEVEM ser acompanhadas na APS, não apenas em especialidade (F).
+
+**O que faltou:**
+Acreditou que apenas por ser de baixo risco a consulta poderia ser exclusiva do enfermeiro. Pelo protocolo de Puericultura, o acompanhamento é compartilhado e as consultas agendadas para ambos.
+
+**Explicação correta:**
+Na APS, a atenção à criança é multiprofissional. As consultas de rotina (puericultura) devem ser intercaladas entre médico e enfermeiro. Além disso, a APS é a coordenadora do cuidado, portanto, mesmo crianças em acompanhamento especializado de alto risco mantêm vínculo e seguimento na unidade básica.
+
+**Informações-chave para revisão:**
+- Componente MI que mais caiu: Pós-neonatal (ligado a saneamento e vacinas).
+- Puericultura na APS: intercalada entre médico e enfermeiro.
+- APS = coordenadora do cuidado (nunca abandona o paciente para a especialidade).
+
+---
+
+identifica mortes prematuras em jovens — mortalidade proporcional não mede isso
 
 **Complexidade:** Baixa
 **Elo quebrado:** Habilidade 2 — Diferenciar o que cada indicador mede

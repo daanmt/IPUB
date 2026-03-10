@@ -193,9 +193,15 @@
 Indicadores de mortalidade medem a frequência com que ocorrem óbitos em uma população. Diferem dos de morbidade por tratarem do "desfecho final", sendo essenciais para o planejamento de saúde e análise de gravidade.
 
 - **Coeficiente Geral de Mortalidade (CGM):** Mede o risco total de morte na população (`Nº total de óbitos / População residente x 1.000`).
-    - **Nuance:** É influenciado pela **estrutura etária**. Populações mais idosas podem ter CGM alto sem que isso signifique piores condições de saúde. Para comparar regiões, é necessário **padronizar por idade**.
+    - **Nuance:** É influenciado pela **estrutura etária**. Populações mais idosas (ex: Europa) podem ter CGM alto sem que isso signifique piores condições de saúde. Para comparar regiões, é necessário **padronizar por idade**.
 
-> ⚠️ **Padrão de prova — comparação inter-regional:** Para comparar mortalidade entre estados/municípios com estruturas etárias diferentes → usar **taxa padronizada/ajustada por idade**. A taxa bruta é confundida pela estrutura etária (estado mais velho = taxa bruta maior, não necessariamente piores condições de saúde).
+- **Padronização de Coeficientes:**
+    - **Método Direto**: Populações grandes; aplica as taxas de mortalidade da população local a uma população "padrão" (teórica).
+    - **Método Indireto:** Usado para **populações pequenas** (onde as taxas locais são instáveis). Aplica-se a taxa da população "padrão" à população local observada para calcular a Razão de Mortalidade Padronizada (RMP).
+
+> ⚠️ **Padrão de prova — comparação inter-regional:** Para comparar mortalidade entre estados/municípios com estruturas etárias diferentes → usar **taxa padronizada/ajustada por idade**. A taxa bruta é confundida pela estrutura etária (país desenvolvido = taxa bruta maior pela idade avançada).
+
+---
 
 - **Mortalidade Específica:** Mede o risco em subgrupos (por idade, gênero ou causa).
     - **Por Causa:** O denominador é a **população sob risco** de contrair a doença, não a população doente.
@@ -239,13 +245,9 @@ Informa a **contribuição** (peso) de uma característica no total de óbitos. 
 - **No Brasil:** Causas externas (homicídios, acidentes) têm altíssimo APVP por atingirem jovens
 - **Diferença-chave:**
 
-| Indicador | O que mede | Diferencia faixa etária? |
-|---|---|---|
-| Mortalidade proporcional | Peso de uma causa no total de óbitos | ❌ Não |
-| Mortalidade específica | Risco de morrer pela causa na população | ❌ Não (sem estratificação) |
-| **APVP** | **Impacto das mortes prematuras/jovens** | ✅ Sim |
-
-> ⚠️ **Padrão de prova:** APVP = indicador de mortes prematuras em jovens. Mortalidade proporcional mostra o "peso" de uma causa, mas não diferencia se as mortes são em jovens ou idosos. Quando a questão pergunta "qual indicador identifica melhor o impacto de mortes jovens" → APVP.
+> ⚠️ **Padrão de prova — APVP vs Proporcional:**
+> - APVP alto + Mortalidade Proporcional baixa = Causa que atinge **JOVENS** (ex: Causas Externas).
+> - APVP baixo + Mortalidade Proporcional alta = Causa que atinge **IDOSOS** (ex: Doenças Cardiovasculares).
 
 ---
 
@@ -274,17 +276,25 @@ Informa a **contribuição** (peso) de uma característica no total de óbitos. 
 ### Mortalidade Materna - cai muito pouco
 Morte durante a gestação ou até **42 dias** após o parto por causas ligadas à gravidez (exceto causas acidentais).
 - **Razão de Mortalidade Materna (RMM):** `(Óbitos Maternos / Nascidos Vivos) x 100.000`.
+- **Tendência no Brasil:** A queda desacelerou recentemente. **Causa:** Estratégia de redução de óbitos por causa mal definida (investigação ativa de óbitos em mulheres em idade fértil). Melhora na notificação "aumenta" o numerador e mascara a queda real.
 - **Near Miss Materno:** Mulher que quase morreu (teve falência orgânica), mas sobreviveu. É um indicador de qualidade do pré-natal e emergência.
 - **Causas no Brasil:** 1. Hipertensão (Eclâmpsia/Pré-eclâmpsia); 2. Hemorragia; 3. Infecção Puerperal.
 - **Mortalidade Materna Tardia:** Ocorre entre o **43º e 365º dia** pós-parto.
 
 ### Mortalidade Infantil - despenca nas provas
-- **Nascidos Vivos** -> Denominador comum. Nasce vivo: tem FC, FR, movimento e pulso umbilical | óbito infantil: < 1 ano
-- **Óbito fetal** -> > 500g ou > 22 semanas; antes da expulsão ou extração completa.
-- **Período Neonatal (0-27 dias):** Reflete condições biológicas (parto, pré-natal, congênitas). É o componente mais difícil de reduzir.
-    - **Precoce (0-6 dias):** Mais frequente no Brasil.
-    - **Tardia (7-27 dias).**
-- **Período Pós-Neonatal (28 dias a < 1 ano):** Reflete condições socioeconômicas (saneamento, nutrição, vacinação). É o componente que mais caiu no Brasil.
+- **Evolução:** Redução universal em todas as 27 UFs do Brasil (atingiu metas do milênio).
+- **Componentes:**
+    - **Pós-Neonatal (28 dias a < 1 ano):** Foi o componente que apresentou a **maior redução** histórica (melhora de saneamento, vacinas, aleitamento).
+    - **Neonatal Precoce (0-6 dias):** Mais frequente no Brasil atual; reflete causas biológicas e assistência ao parto.
+- **Saúde da Criança na APS:**
+    - Consultas de puericultura: devem ser intercaladas entre médico e enfermeiro (mesmo no baixo risco).
+    - Coordenação do Cuidado: A APS nunca abandona a criança, mesmo se houver acompanhamento especializado de alto risco.
+
+### Mortalidade em Escolares (5-9 anos)
+- **Ranking das causas (ordem decrescente):**
+    1. Causas Externas (líder absoluto após 1 ano de idade).
+    2. Neoplasias (tumores).
+    3. Doenças do Sistema Nervoso.
 
 # Indicadores Demográficos
 
@@ -301,6 +311,9 @@ Mudança de altos coeficientes de natalidade/mortalidade para coeficientes baixo
 - **Fase 2 (Explosão):** Queda da Mortalidade, Natalidade continua alta.
 - **Fase 3 (Envelhecimento):** Queda da Natalidade (Convergência). **Brasil está aqui**.
 - **Fase 4:** Estabilização em níveis baixos.
+
+> 🔴 **Armadilha de Prova — Morbimortalidade no Trânsito:**
+> A morbi-mortalidade por acidentes é **inversamente proporcional ao nível de desenvolvimento econômico**. Países pobres/renda média morrem mais apesar de terem frotas menores (falta de segurança veicular e infraestrutura).
 
 ## Transição Epidemiológica
 Mudança no padrão de doenças: Infecciosas (DIP) dando lugar a Crônicas (DCNT) e Causas Externas.

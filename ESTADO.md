@@ -11,8 +11,8 @@ Ambiente de estudo para residência médica. Processa questões de prova, regist
 
 **Leia `AGENTE.md` antes de qualquer ação.** Este arquivo contém o protocolo de boot e a ordem de leitura para garantir a continuidade do projeto.
 
-- **45 entradas** no caderno de erros (5 áreas)
-- **22 resumos** em `Temas/` — incluindo `Infectologia/TB.md`, `HIV.md` e `Hematologia/Hemostasia.md`
+- **59 entradas** no caderno de erros (5 áreas)
+- **22 resumos** em `Temas/` — incluindo `Infectologia/TB.md`, `HIV.md`, `Hematologia/Hemostasia.md` e `Preventiva/Medidas de Saúde Coletiva.md`
 - **3 workflows** operacionais em `.agents/workflows/`
 
 ---
@@ -58,6 +58,8 @@ Ambiente de estudo para residência médica. Processa questões de prova, regist
 ---
 
 ## Últimas sessões
+
+**2026-03-09 | Antigravity (sessão 010):** Análise de 9 questões de Saúde Coletiva (indicadores de mortalidade). Atualização massiva do resumo de Preventiva e do caderno de erros (Total 59).
 
 **2026-03-08 | Antigravity (sessão 009):** Análise de PTI (limiares e gravidade) e implementação da nova governança do projeto (`AGENTE.md`, `HANDOFF.md`, workflows refatorados).
 
