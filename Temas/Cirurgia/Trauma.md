@@ -204,6 +204,12 @@ O choque é um estado de **má perfusão generalizada**, levando à deprivação
 #### Trauma Esplênico
 - Órgão mais lesado no trauma contuso.
 - **Sinal de Kehr:** Dor referida no ombro esquerdo (irritação do frênico pelo sangue).
+- **Classificação AAST (Tomográfica):**
+  - **Grau I:** Hematoma subcapsular < 10% | Laceração < 1 cm.
+  - **Grau II:** Hematoma 10-50% ou intraparenquimatoso < 5 cm | Laceração 1-3 cm.
+  - **Grau III:** Hematoma > 50% ou roto/expansivo ou intraparenquimatoso ≥ 5 cm | Laceração > 3 cm ou lesão de vaso trabecular.
+  - **Grau IV:** Laceração com lesão vascular segmentar/hilar (> 25% de desvascularização).
+  - **Grau V:** Lesão vascular hilar (desvascularização total) ou baço completamente destruído.
 - **Tratamento:**
   - Estável + Graus I a III: Conservador (UTI, Hb seriada, repouso).
   - Estável + Blush arterial (extravasamento) ou Graus III/IV: **Arteriografia com Embolização**.
@@ -259,11 +265,12 @@ O choque é um estado de **má perfusão generalizada**, levando à deprivação
   - Conduta aguda: **Cistostomia**. O reparo definitivo da uretra é feito tardiamente (3 a 6 meses).
 
 #### Fratura de Pelve
+
 - Mecanismo: Alta energia. Aumento tridimensional da pelve ("livro aberto"). Sangramento por **plexo venoso pré-sacral** e osso esponjoso.
 - Conduta no Choque por Fratura de Pelve:
   1. Estabilização e Amarração com lençol nos trocanteres maiores (fecha a bacia e tampona por aumento da pressão).
   2. Afastar outras causas de choque (FAST). Se FAST Positivo -> Laparotomia.
-  3. FAST Negativo e continua instável -> **Empacotamento Pélvico Pré-Peritoneal** + Fixação Externa.
+  3. FAST Negativo e continua instável -> **Empacotamento Pélume pré-Peritoneal** + Fixação Externa.
   4. Se persistir instabilidade após empacotamento, suspeitar de sangramento arterial → **Arteriografia com Angioembolização**.
 
 ---
@@ -277,5 +284,14 @@ O choque é um estado de **má perfusão generalizada**, levando à deprivação
 - 🔴 **Hematúria e Rim:** O grau de hematúria (micro vs macro) **NÃO** tem correlação com a gravidade anatômica da lesão renal. Hematúria com Choque, porém, indica alta gravidade.
 - 🔴 **Trauma Uretral e SVD:** Na tríade uretral (uretrorragia + retenção urinária + bexigoma) ou fratura pélvica associada, é **proibido** a passagem de Sonda Vesical de Demora cegamente pelo risco de lesão iatrogênica/laceração total. Fazer **uretrocistografia** e, na confirmação, **cistostomia**.
 - 🔴 **Exploração Retroperitoneal:** O Hematoma Pélvico (Zona III) do trauma contuso por fratura de bacia quase nunca é explorado (para garantir o efeito de tamponamento). A conduta é fixar a bacia e o sangramento quase sempre para; se persistir -> angioembolização para hemorragia arterial.
+
+> ⚠️ **Padrão de prova — A Regra de Ouro da Estabilidade vs. Instabilidade (Fluxograma TAF e TAA):** A estabilidade hemodinâmica do paciente dita *absolutamente tudo*.
+> - **Estável:** Pode fazer TC (só vai para cirurgia se houver achados na TC ou falha do manejo conservador).
+> - **Instável:** NÃO vai para TC de jeito nenhum! Exige resposta rápida (FAST / LPD) e, se positivo, Laparotomia Imediata.
+
+> ⚠️ **Padrão de prova — "O que atropela o quê" (Hierarquia Pura no ATLS):**
+> 1. **O "A" atropela o "C" da Laparotomia:** Queimadura > 40-50% exige obtenção de Via Aérea Definitiva (IOT) IMEDIATAMENTE. O paciente pode estar exanguinando com FAST positivo, mas a primeira conduta *sempre* é o ABCDE (garantir a via aérea primeiro).
+> 2. **Peritonite atropela o FAST / TC:** Sinais de peritonite ao exame físico são indicação ABSOLUTA de Laparotomia Exploradora. Não se perde tempo solicitando FAST ou Tomografia nestes casos.
+> 3. **Instabilidade atropela a Tomografia:** Nunca, sob nenhuma hipótese, se coloca paciente chocado na gantry do tomógrafo. O paciente ficará dependente da resposta terapêutica e exames rápidos à beira do leito (Hemácias, FAST, Sala de Trauma).
 
 *📝 Espaço reservado para inclusão de questões erradas*

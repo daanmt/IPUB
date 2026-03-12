@@ -7,11 +7,11 @@
 ## Entradas por Área
 
 - **Clínica Médica** — Cardiologia; Pneumologia; Infectologia (Novo): **10 entradas**
-- **Cirurgia** — Trauma: **4 entradas**
+- **Cirurgia** — Trauma: **15 entradas**
 - **Pediatria** — Cardiologia Pediátrica e Cardiopatias Congênitas: **11 entradas**
 - **Ginecologia e Obstetrícia** — Climatério e TH; Sangramentos da Primeira Metade: **13 entradas**
 - **Medicina Preventiva e Saúde Pública** — Epidemiologia e Bioestatística; Vigilância Epidemiológica: **7 entradas**
-- **Total: 45 entradas**
+- **Total: 56 entradas**
 
 ---
 
@@ -29,6 +29,15 @@
 - **[CIR]** Classificou choque corretamente mas aplicou tratamento do grau errado (II → III) — 1x (Cir Q3)
 - **[CIR]** Sabia a resposta mas duvidou e escolheu errado (controle da fonte) — 1x (Cir Q4)
 - **[CIR]** Confusão velocidade de infusão do TXA com janela temporal + limiar FC borderline — 1x (Cir Q1)
+- **[CIR]** Desconhecia o limite conservador extremo na pediatria mesmo com grau maciço — 1x (Trauma Q5)
+- **[CIR]** Erro na indicação de TC ou cirurgia guiado pelo FAST positivo no paciente estável — 2x (Trauma Q1, Q9)
+- **[CIR]** Não priorizou ou interpretou a Peritonite como ATROPELADORA do FAST — 1x (Trauma Q4)
+- **[CIR]** Solicitou TC em paciente instável — 1x (Trauma Q6)
+- **[CIR]** Indicou cirurgia guiada por Líquido / Blush em paciente Estável ou não viu a adjuvância — 2x (Trauma Q7, Q8)
+- **[CIR]** Desprezou a prioridade do "A" via aérea no ABCD sobre a Laparotomia em queimados — 1x (Trauma Q3)
+- **[CIR]** Erro da conduta de não operatório vs. operatório perante Tríade da Morte Instalada (DC) — 1x (Trauma Q11)
+- **[CIR]** Falhou ao diagnosticar e tratar lesão de uretra (SVD vs Cistostomia) em trama pélvico — 1x (Trauma Q10)
+- **[CIR]** Falhou em indicar vídeolaparoscopia por PNTX ou Hérnia Diafragmática (TC/FAST ruins) — 1x (Trauma Q2)
 - **[GIN]** Confusão entre exame de rotina clínica (FSH) e marcador fisiopatológico (inibina) no climatério — 1x (GIN Clim Q1)
 - **[GIN]** Generalização "TH = risco de CA mama" sem diferenciar E isolado (sem ↑) de E+P (↑ ≥5 anos) — 1x (GIN Clim Q3)
 - **[GIN]** Não conhecia ACO prolongado como fator de risco para CA mama — 1x (GIN Clim Q6)
@@ -56,9 +65,9 @@
 
 ## Distribuição por Tipo de Erro
 
-- Lacuna de conhecimento: **17**
-- Conhecimento parcial: **10**
-- Erro de aplicação: **12**
+- Lacuna de conhecimento: **18**
+- Conhecimento parcial: **11**
+- Erro de aplicação: **21**
 - Erro de leitura: **1**
 - Armadilha do examinador: **1**
 - Incerteza sem erro de base: **2**

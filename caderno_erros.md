@@ -448,9 +448,326 @@ Examinador usa o conhecimento parcial do GINA 2025 (MART substitui SABA) para in
 
 ### Gastroenterologia e Hepatologia
 
+### Gastroenterologia e Hepatologia
+
 <!-- ENTRADAS AQUI -->
 
-### Nefrologia
+---
+
+## Cirurgia
+
+### Trauma
+
+#### FAB Parede Anterior Estável — Laparoscopia / Exploração Digital vs. TC
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 2 — Diferenciar a conduta do FAB Anterior estável do TAF (Trauma Fechado)
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Homem 37a, obeso, FAB periumbilical de 2cm. Estável, FAST negativo. Saturação 96%, apenas dor local. Conduta? Marcou TC de Abdome, gabarito era Laparoscopia Diagnóstica.
+
+**Habilidades sequenciais:**
+1. Identificar paciente estável com Ferimento por Arma Branca (FAB) na parede anterior do abdome.
+2. Saber que a conduta no FAB Anterior estável é **Exploração Digital sob anestesia local**.
+3. Saber que se houver dúvida após exploração (ou inviabilidade, como no obeso) ou se violou peritônio, a **Laparoscopia Diagnóstica** (ou observação seriada) é conduta ouro para descartar PNTX/lesão antes da Laparotomia.
+4. Lembrar que TC de Abdome é exames de eleição para trauma *FECHADO* estável ou trauma penetrante em *Flanco/Dorso*, mas NÃO na parede anterior. 
+
+**O que faltou:**
+Aplicou o fluxograma do Trauma Fechado (TAF), onde paciente estável vai para TC. Em FAB de parede anterior, a via crucis é exploração local -> se peritônio violado: observação com EF/Hb seriada OU Laparoscopia exploratória. TC pode não ver pequenas lesões intestinais (furo de faca).
+
+**Explicação correta:**
+No FAB em região anterior de abdome com paciente estável usa-se a exploração digital da ferida ou laparoscopia. TC de abdome tem baixa sensibilidade para perfurações intestinais incipientes por arma branca. A utilidade da TC no trauma penetrante restringe-se primariamente a ferimentos em Dorso e Flancos (para o retroperitônio). 
+
+**Armadilha / nuance:**
+O FAST negativo aqui confunde quem associa estabilidade + FAST negativo direto para a TC, como seria no trauma contuso.
+
+**Informações-chave para revisão:**
+- FAB Parede Anterior Estável: Exploração Digital Local -> dúvida/violou peritônio -> Observação (24h) OU Laparoscopia.
+- FAB Flanco/Dorso Estável: TC com Triplo Contraste.
+- TAF (Fechado) Estável: TC de Abdome.
+- TC não é padrão-ouro para ferimento de arma branca anterior (pula lesões de vísceras ocas).
+
+---
+
+#### Trauma TTA Estável — Laparoscopia Diagnóstica
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 3 — Indicar Laparoscopia para avaliação diafragmática
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Mulher 19a, FAB no 7º EICD na linha axilar média. SSVV: 110 bpm, 100x70 mmHg (Estável/Borderline). RX normal. Conduta? Marcou FAST, gabarito: Laparoscopia.
+
+**Habilidades sequenciais:**
+1. Identificar o ferimento na Transição Tóraco-Abdominal (TTA) — abaixo do 5º EIC (mamilos) e acima do rebordo costal.
+2. Entender o risco primário: lesão do **diafragma** e escorregamento de conteúdo abdominal.
+3. Saber que paciente com TTA **estável** deve ir para a Laparoscopia (ver e consertar o diafragma). (Instável > Laparotomia).
+4. Saber que FAST e TC de tórax/abdome têm baixa sensibilidade para diafragma.
+
+**O que faltou:**
+Achou que o FAST descartaria as lesões perigosas ou que precederia a conduta. FAST negativo não exclui lesão de cólon e, principalmente, lesão de diafragma na TTA. 
+
+**Explicação correta:**
+Qualquer ferimento penetrante na TTA acarreta o alto risco não detectável de lesão de diafragma (que posteriormente se torna hérnia diafragmática). O melhor exame em pacientes estáveis hemodinamicamente é a videolaparoscopia (visão direta e reparo no ato). Nem TC e nem FAST conseguem atestar a integridade do diafragma isoladamente de forma confiável na fase aguda.
+
+**Informações-chave para revisão:**
+- Ferimento penetrante em Transição Toraco-Abdominal (TTA) = abaixo do 5º EIC.
+- Risco principal oculto: Lesão Diafragmática (à esquerda hernia mais rápido, à direita o fígado "tampona").
+- Estável na TTA: **Laparoscopia**.
+- Instável na TTA: **Laparotomia**.
+- FAST/TC perdem lesão diafragmática.
+
+---
+
+#### O ABCDE e o A (Via Aérea) atropelam a Hemorragia se houver via aérea crítica (Queimaduras)
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 1 — Respeitar cegamente a hierarquia pura do ABCDE mesmo no choque misto
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Homem 57a, vítima de explosão/fogo no espaço fechado, arremessado. Glasgow 14, FR alterada. Choque grave: PA 80x60, 156bpm e má perfusão. FAST positivo!. Queimaduras > 70%. Conduta inicial prioritária? Marcou Laparotomia exploradora (A), gabarito era Intubação Orotraqueal (E).
+
+**Habilidades sequenciais:**
+1. Reconhecer o quadro de instabilidade mista (Choque + Queimadura Grave + Politrauma).
+2. Lembrar o mnemônico do ATLS: **(X) -> A -> B -> C**.
+3. Saber que Queimaduras > 40-50% SCQ ou inalação de fumação (espaço fechado, explosão) são INDICAÇÕES ABSOLUTAS E IMEDIATAS de Via Aérea Definitiva (IOT) no passo **A**.
+4. Concluir que garantir o A e intubar o paciente PRECEDE a cirurgia para o C (Laparotomia), por mais que ele esteja instável pelo C. 
+
+**O que faltou:**
+O raciocínio "Paciente instável + FAST positivo = Laparotomia" ligou no modo automático para o trauma puro, pulando a avaliação da Via Aérea, cuja patência estava em risco iminente pela extensão (70%) e inalação evidentes. O passo C nunca atropela o A. 
+
+**Explicação correta:**
+A regra do ATLS é sequencial estrita. Por mais chocado exanguinando que um paciente no centro cirúrgico precise ir, se sua via aérea estiver com indicação clara de controle (neste caso, por inalação em ambiente fechado e 70% de superfície queimada), a prioridade número 1 será a intubação (A). Em seguida ou simultaneamente o acesso para o choque (C) e Laparotomia.
+
+**Armadilha / nuance:**
+O examinador atira para todo que é lado: dor abdominal, choque grave e FAST positivo com o intuito claro de te fazer ir seco para a Laparotomia Explorer. A ressalva do >70% de áreas queimadas é o detalhe discriminador do "A".
+
+**Informações-chave para revisão:**
+- ABCDE = Ordem irrevogável. Problema não resolvido não passa pra frente.
+- IOT tem primazia se critério fechado (Inalação, Carbonização <40% SCQ, Glasgow <8).
+- No trauma instável, Via Aérea vem antes do bisturi na Laparotomia.
+
+---
+
+#### Peritonite atropela o FAST em paciente instável / trauma abdominal
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 2 — Identificar peritonite como indicação cirúrgica imediata (pulando o FAST)
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Trauma contuso em ocupante de VA. Estável limitadamente (102x70, FC96). Ao EXAME FÍSICO ABDOMINAL: "sensibilidade evidente e DESCOMPRESSÃO DOLOROSA DIFUSA". Conduta? Marcou FAST, gabarito: Laparotomia exploradora de emergência.
+
+**Habilidades sequenciais:**
+1. Perceber o paciente com trauma fechado. 
+2. Realizar análise do exame físico: Descompressão dolorosa difusa = Peritonite = irritação peritoneal franca (lesão de víscera oca ou sangramento massivo).
+3. Entender a regra máxima: Presença de peritonite ao exame físico ou evisceração são indicações absolutas de **Laparotomia!** O FAST/TC perdem o sentido.
+
+**O que faltou:**
+Acreditou que por estar "borderline/estavelmente hemodinâmico" precisava confirmar antes de abrir. Peritonite atropela todos os propedêuticos no trauma abdominal agudo de alta energia. O FAST não importa aqui (FAST negativo na peritonite continua mandando o paciente para o bloco).
+
+**Explicação correta:**
+Indicações absolutas de Laparotomia IMEDIATA independente de exames de imagem no trauma TAA/TAF: 1. Instabilidade hemodinâmica associada à hemorragia intracavitária evidente. 2. Peritonite evidente ao exame físico (descompressão brusca, defesa). 3. Evisceração.
+
+**Informações-chave para revisão:**
+- Sinais Clínicos Absolutos de Laparotomia: Peritonite (Abdome em tábua/DB+), Evisceração.
+- Presença de peritonite exclui a necessidade do FAST/Tomografia. A resposta para a dor é o bisturi.
+
+---
+
+#### Trauma Esplênico Grau III em Criança Estável — Tratamento Conservador
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 3 — Extrapolar conduta de choque adulto na criança e a não indicação cirúrgica em órgãos maciços pediátricos
+**Tipo de erro:** Conhecimento parcial
+
+**Caso:** Menino 8a, atropelado. EF = Descorado, PA normal pra idade (93/65), FC 100, FR 18. FAST + e USG = Trauma Esplênico Grau III. Conduta inicial? Marcou Concentrado Hemácias + Laparotomia (C). Gabarito: Reposição, UTI e observação Hb (B).
+
+**Habilidades sequenciais:**
+1. Avaliar estabilidade em pediatria (FC < 110, PA boa para 8 anos, perfusão OK). Ele está ESTÁVEL.
+2. Trauma esplênico Grau III não indica cirurgia de imediato se a hemodinâmica for mantida.
+3. Saber que, **nas crianças**, o limite para o tratamento conservador de órgãos maciços (baço, fígado) é alongado ao extremo (suportam perdas com preservação prolongada por tônus e são mais responsivas). O Grau anatômico não defere conduta se há estabilidade hemodinâmica (trata-se a fisiologia, não a TC).
+
+**O que faltou:**
+Desconhecia a indicação principal. Focou no Grau Anatômico III e num falso choque ao olhar Hb baixo (9.4) na cena do atropelamento. A criança deve ser observada em UTI com ressuscitamento inicial via cristaloide. Hemácias ou Laparotomia só para os descompensados/instáveis após as doses de cristaloide.
+
+**Explicação correta:**
+Trauma pediátrico em órgãos maciços (baço e fígado) são primariamente avaliados com TC e opta-se pelo Tratamento NÃO operatório. As indicações de cirurgia (Laparotomia) dependem exclusivamente do desenvolvimento de Instabilidade Hemodinâmica ou de peritonite. Se o paciente está estável (FC e PA normais para a infância), a conduta é reposição com cristaloide, suporte em UTI com hemograma seriado.
+
+**Armadilha / nuance:**
+O Grau III induz ao raciocínio gravíssimo, porém o paciente "vence" a lesão anatômica por conta dos sinais vitais íntegros. Tabela da AAST vs. Fisiologia: A Fisiologia (Estabilidade) sempre manda na decisão cirúrgica x conservadora nos órgãos maciços.
+
+**Informações-chave para revisão:**
+- Trauma Esplênico em Crianças é amplamente geracional conservador, mesmo com Grau Anatômico avançado. 
+- Manda a Estabilidade Hemodinâmica, não a dimensão do órgão rasgado na TC.
+- Criança grave repõe 20 ml/kg lactato -> CH. A criança da questão no entanto, está OK e requer conservadorismo agressivo de suporte.
+
+---
+
+#### Choque Grau III Pediátrico: Expansão com Concentrado de Hemácias
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 3 — Lembrar os limiares do ATLS para hemotransfusão precoce (Grau III instável)
+**Tipo de erro:** Lacuna de conhecimento / Erro de aplicação
+
+**Caso:** Criança de 4a. FC 170!, PA 70x40 (hipotensão), pulsos finos, TEC 4s, dor abdominal hipocôndrio E. Estava recebendo sangue. Marcou Laparotomia(A) / Tomografia. Gabarito era Transfusão Inicial Hemácias na pediatria(C).
+
+**Habilidades sequenciais:**
+1. Identificar choque hemorrágico gravíssimo: FC gigante, PA capengando, e hipoperfusão sistêmica.
+2. Saber identificar o **Choque Classe III/IV** do ATLS no trauma.
+3. Reconhecer que, nesse cenário pre-hospitalar/sala de trauma de extrema extremidade (choque Grau III na infância com perda importante de volêmia presumida), a diretriz dita não perder tempo com cristaloide repetidamente, mas expandir/corrigir primeiramente com Hemoderivados (Concentrado de hemácias + Plasma/Plaquetas 1:1:1 ou bolus inicial de CH).
+
+**O que faltou:**
+Acreditou que ia realizar TC de abdome (em doente INSTÁVEL!) para o trauma em baço (hipocôndrio esquerdo). Doente Instável JAMAIS FAZ TC. Por fim, chocou no ATLS e seu novo fluxograma: instabilidade profunda no pediátrico = Hemácias precocemente.
+
+**Explicação correta:**
+Paciente encontra-se francamente instável (choque hemorrágico Grau III: taquicárdico, taquipneico, hipotenso e letárgico). Instabilidade contraindica Tomografia Computadorizada. A prioridade ressuscitativa perante instabilidade flagrante é a reanimação perfusional com Concentrado de Hemácias e acionar suporte p/ FAST ou LPD + bloco cirúrgico. Fluidos cristaloides em choque de Grau III para as crianças/adultos só servem de "ponte momentânea" falha; não revertem perda tecidual de O2.
+
+**Armadilha / nuance:**
+O fato da criança localizar a dor parecia atrativa para a Tomografia de abdômen pela alternativa da Banca, mas a instabilidade mata essa alternativa logo de cara.
+
+**Informações-chave para revisão:**
+- Instável Hemodinamicamente = Proibido deitar na maca do TC. Tomografia mata pac. instável!
+- Estabilização hemodinâmica -> A reanimação via Sangue (Graus III e IV) é muito mais benéfica que afogar paciente em RL. 
+- Protocolo de Transfusão Maciça: FC↑↑↑ e Letargia = Transfusão Rápida.
+
+---
+
+#### Tratamento de Lesões Hepáticas: A Fisiologia "Atropela" O Líquido.
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 2 — Relacionar estabilidade do politraumatizado chocado e inconsciente ao tratamento conservador anatômico 
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Homem 35a, atropelado, intubado inconsciente. Estável (pulso 100 cheio, PA 120x80). Tomografia = Lesão Hepática III com líquido livre na pelve/periepático. Estável sem falência. Conduta? Marcou Laparotomia, gabarito: Tratamento não operatório.
+
+**Habilidades sequenciais:**
+1. Identificar estabilidade clínica mantida (Pressão cheia e 120x80 com FC de 100).
+2. Perceber que a TC achou líquido, mas quem apita o controle do líquido não mudou: Estabilidade hemodinâmica.
+3. Dizer qual procedimento no Fígado (Lesão Maciça): se estável sem outros ferimentos obstrutivos e abdômen tolerante do sangue sem choque → Conservador na UTI.
+
+**O que faltou:**
+Foi enganado pela ressonância de palavra "Líquido livre na Pelve" que assusta, associando à indicação de laparotomia. Líquido na pelve advém do gotegotejo gravitacional do leito hepático sangrante.
+
+**Explicação correta:**
+Tratamento não operatório (conservador) no trauma hepático fechado grau avançado (ex. Grau III) ou líquido cavitário livre é EXCLUSIVAMENTE amparado pela **estabilidade hemodinâmica e a ausência de outras lesões que exijam laparotomia**. Estando esse paciente com perfusão boa e PA de 120x80 (inclusive com pulsos cheios), ele se enquadra num modelo conservador primário em UTI, exigindo Laparotomia se evoluir instável hemodinamicamente nos dias seguintes. A TC permitiu esse estadiamento do manejo.
+
+**Informações-chave para revisão:**
+- Conservador Hepático baseia-se em: ESTABILIDADE HEMODINÂMICA E AUSÊNCIA de Irritação Peritoneal ou outras indicações de corte e costura absolutos.
+- Líquido hepático cai para a pelve (não é mandatório operar apenas pela presença de volume).
+- Cirurgia ocorre se falhar o tratamento conservador ou evoluir o choque com necessidade ressuscitativa.
+
+---
+
+#### Trauma Esplênico Contuso e Angiografia
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 3 — Indicar embolização por Blush na TC
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Qual estratégia recomendada no tx inicial de lesões esplênicas em trauma abdominal fechado que estão Estáveis? Marcou B, gabarito: Tratamento conservador com angiografia para Blush na TC (E). 
+
+**Habilidades sequenciais:**
+1. Raciocínio de Estabilidade: Traumas contusos esplênicos que estão hemodinamicamente Estáveis são classicamente Tratados sem cirurgia (Não Operatórios).
+2. Mas se houver **"Blush" arterial** na TC (extravasamento ativo de contraste)?
+3. A conduta é continuar NÃO-OPERATÓRIO vis-a-vis Laparotomia, contudo usando recurso adjuvante -> Angiografia com Embolização esplênica proximal super-seletiva.
+
+**O que faltou:**
+A hesitação em interagir com o "Blush". Achou errada a embolização como intervenção isolada/conservadora primária, julgando que ia apenas nas instabilidades. Se estiver instável = Cirurgia para esplenectomia + clipagem total.
+
+**Explicação correta:**
+Em virtude de preservar o Baço pela imunidade e evitar OPSI, traumas fechados com estabilidade são manejados conservadoramento. Entretanto, caso a Tomografia mostre contraste vazando na fase arterial ou pseduaneurismas (o famigerado "Blush Arterial") o tratamento continua preservador no seu esqueleto, mas complementado proativamente pela **Angioembolização via Arteriografia**, tamponando o sangramento sem ter que acessar macroscopicamente o ventre e arrancar o baço.
+
+**Informações-chave para revisão:**
+- Trauma Esplênico Estável + Blush ou Pseudoaneurisma na TC = Tratamento não operatório **+ Arteriografia e Embolização**.
+- Instável sempre indica Laparotomia Exploradora e Esplenectomia.
+
+---
+
+#### Fluxograma TAF: Estável com FAST Positivo -> TC de Abdome
+
+**Complexidade:** Baixa
+**Elo quebrado:** Habilidade 3 — Acreditar que a positividade no FAST indica a cirurgia na face da estabilidade.
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Mulher saudável em acidente. Estável e com dor leve QSD. FAST recesso hepatorrenal positivo (líquido). Qual melhor etapa seguinte? Marcou Laparotomia exploradora (D) e gabarito era Tomografia com contraste (B).
+
+**Habilidades sequenciais:**
+1. Mapear Trauma abdominal fechado (TAF).
+2. Constatar a Estabilidade hemodinâmica incontestável do paciente (apenas dor, mas parâmetros normais).
+3. FAST Positivo em instáveis -> O.R! Mas... FAST Positivo em paciente **ESTÁVEL** = Tempo para colocar na Tomografia Multislice, ver de qual órgão é o sangue, graduar e fazer o manejo da clínica.
+
+**O que faltou:**
+Extrapolar o "FAST positivo é Laparotomia" como verdade absoluta. Esse dogma só é real para pacientes INSTÁVEIS. 
+
+**Explicação correta:**
+A decisão de operar ou continuar no algoritmo com Tomografia depende única e exclusivamente da pressão e vitalidade do sangue - hemodinâmica. O paciente que suporta seu politrauma estavelmente é rotulado a ser avaliado via Tomografia caso possua ou FAST Positivo, ou líquido nas janelas e até mesmo trauma abdominal difuso. O objetivo da TC com Contraste é identificar fonte, severidade, e classificar viabilidade conservadora para poupar morbidade cirúrgica. Laparotomia dita cirúrgica exploradora é pra quem choca e não levanta.
+
+**Armadilha / nuance:**
+"O FAST foi positivo de líquido!" = tentador correr pro bisturi. A âncora é segurar no pulso do paciente e dizer "Ele está bem, tem tempo pra deitar no tubo de imagem".
+
+**Informações-chave para revisão:**
+- Estável na sala de Trauma = **Tomografia** (TC pode salvar o paciente da intervenção aberta).
+- Instável na sala de trauma + FAST Positivo = Laparotomia IMEDIATA e Controle.
+
+---
+
+#### Trauma Uretral — Lesão Anterior vs. Posterior e Tratamento
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 1 — Não relacionar o bexigoma / retenção pós-trauma com lesão de uretra 
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Acidente de bicicleta. Dor intensa em baixo ventre + vontade enorme de urinar. Estabilidade HD, sem irritação peritoneal, bexiga palpável (bexigoma). Hipótese e conduta? Marcou lesão da bexiga com Cistostomia/Drenagem, o gabarito era Lesão de uretra + Cistostomia Imediata (C).
+
+**Habilidades sequenciais:**
+1. Ler quadro clínico clássico: trauma pélvico (direto do banco de bicicleta / fratura na queda) gerando vontade intensa de urinar com impossibilidade de mixão (Bexigoma).
+2. Perceber que para não conseguir ejacular ou urinar a tampa do cano partiu ou foi rompida (Lesão Uretral). Trauma direto no períneo = uretra anterior bulbar.
+3. Tratamento Agudo de lesão de Uretra (jamais passar Sonda VD cegamente pelo meato que pode rasgar de vez o caminho transêccionado): O manejo é **Cistostomia Suprapúbica** ou uretrocistografia prévia para confirmar descontinuidade e depois proceder com a punção/cistostomia.
+
+**O que faltou:**
+O raciocínio ficou fixado na bexiga ("está com a bexiga cheia e sofreu lesão nela"), não em sua via de escoamento. O problema obstrutor não permite urinar por isso há o bexigoma. A Cistostomia (e não SVD) é o tratamento de resgate perante as suspeitas da Uretra.
+
+**Explicação correta:**
+Tríade do trauma uretral: uretreorragia (sangue no meato), impossibilidade de urinar + bexigoma, somada frequentemente a trauma pélvico ou períneo (Queda a cavaleiro). Na impossibilidade de urinar por bloqueio traumático infravesical, a conduta imperativa aguda para resgatar os rins e afrouxar a bexiga e CISTOSTOMIA. O reparo oficial da uretra rasgada será tardio. A simples passagem de uma sonda vesical de malha sem visão rasgará a uretra ou ampliará a laceração criando um dano gravíssimo e iatrogênico.
+
+**Armadilha / nuance:**
+O trauma com bexigoma faz sugerir que a bexiga é a ofendida do acidente (podia ser bexiga intraperitoneal ou extra, mas com o bexigoma há enchimento retido preservado nela).
+
+**Informações-chave para revisão:**
+- Tríade Trauma Uretral = Sangue no meato + não mija + Bexigoma e Próstata flutuante -> NUNCA PASSAR SONDA DE DEMORA CEGA!
+- Conduta: Uretrocistografia para checar a fenda e em sequência: Cistostomia (punção vesical percutânea alta).
+- RUPTURA ESFÍNCTERICA = SVD vira a arma do crime no doente de uretra machucada.
+
+---
+
+#### Cirurgia de Controle de Danos — Ressecção com Coto às Cegas e Empacotamento
+
+**Complexidade:** Média
+**Elo quebrado:** Habilidade 2 — Saber em que a Damage Control difere da Laparotomia definitiva  
+**Tipo de erro:** Erro de aplicação
+
+**Caso:** Vítima de arma de fogo na Laparotomia Explorer. Fígado lascado, Ceco lesado e ângulo hepático arrebentado. PACIENTE COM 60x40 mmHg em Droga Vasoativa e sangramento difuso não-coagulante! O que fazer na cirurgia pra sobreviver? Marcou fazer Manobra de Pringle e dar plasma pra coagular (A). Gabarito: Ressecção de cólon sem anastomose, empacotamento com compressas (Damage Control - E).
+
+**Habilidades sequenciais:**
+1. Aferir a situação real catastrófica: O paciente apresenta Tríade Letal estabelecida! Sagra sem formação de coágulos (coagulopatia avassaladora de acidose) perante PA 60x40 irrecuperável que clama um controle que pare o sangue imediatamente.
+2. Ativar o algoritmo "Cirurgia de Controle de Danos": Essa intervenção NUNCA foca no restabelecimento perfeitinho de anatomia. Foca em evitar que o paciente morra na mesa e que ele sobreviva até a UTI reverter a acidose.
+3. Aplicar técnicas Damage Control - Tamponar sangramentos difusos = Empacotamento Hepático/Pélvico (Compressa pra caramba). Perfurações Ocas de cólon fecal = Resseca na raiz com sutura mecânica cortadora (Grampeador e GIA) DEIXA FECHADO NOS COTOS CEGOS (anastomose nas alças soltas vazam e estouram no DC).
+
+**O que faltou:**
+Acreditou que pudesse restaurar perfusões ativamente em 5min e fazer suturas e fechar os ferimentos com calma (usar e tirar pringle/plasma). Quando o doente bate o 60x40 e já não coagula no bisturi... é a Damage Control "TAMPONA E FECHA VAZAMENTO OCOO" sem perder tempo. Tira e embala! Não vai suturar um pingo num Pringle de 45 minutos. Ele afunda em pH 6.9 e morre de PCR.
+
+**Explicação correta:**
+Cirurgia de Controle de Danos objetiva a sobrevivência em doentes in-extremis (choque refratário com distúrbios de coagulação e distermia profunda). Tempo Ouro nas portas: empacotamento das lesões sangrantes e suturas primárias grosseiras ou ligaduras vasculares para bloquear sangue contínuo. Vísceras Ocas rasgadas (delgado, cólon, estômago) sofrem estapleamento / ressecção agrafos (grampeadores) deixando-os fechados e soltos na barriga que receberá a Bolsa de Bogotá (Peritoneostomia - barriga aberta) encaminhando ao reaquecimento da UTI da emergência. Tudo isso pra reabordar 48hr estável. Reparo ou estomia ficam pro 2º tempo cirurgico.
+
+**Armadilha / nuance:**
+Conhecer pringle é ótimo, contudo Pringle interrompe fontes localizadas e não resolve uma Tríade Letal instalada em todas as veias ou em Múltiplos Focos (Ceco e afins). 
+
+**Informações-chave para revisão:**
+- Controle de Danos (Damage Control): Salvar a Vida, Não o Órgão! 
+- Empacota o que escorre e resseca/grampeia a víscera rota sem refazer ligação de trânsito digestivo agora ("coto às cegas").
+- Peritoneostomia fecha o ciclo rumo à UTI. (Barriga aberta para fugir de Síndrome Compartimental Abdominal e permitir nova entrada rápida na UTI e afins).
+
+---
+
 
 <!-- ENTRADAS AQUI -->
 
