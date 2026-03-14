@@ -1,5 +1,5 @@
 # ESTADO — IPUB (Preparação para Residência Médica)
-*Atualizado: 2026-03-14 (sessão 016) | Ferramenta: Antigravity*
+*Atualizado: 2026-03-14 (sessão 017) | Ferramenta: Antigravity*
 
 ---
 
@@ -59,6 +59,7 @@ Ambiente de estudo para residência médica. Processa questões de prova, regist
 
 ## Últimas sessões
 
+**2026-03-14 | Antigravity (sessão 017):** Atuação como Senior PM para estruturação do `roadmap.md` do produto IPUB, dividindo a evolução em 4 Fases (MVP, Flashcards, Streamlit/BD e Simulados).
 **2026-03-14 | Antigravity (sessão 016):** Análise de 4 questões de Sífilis na Gestação. Atualização do caderno de erros, progresso e adição de armadilhas de prova no resumo `[OBS] Sífilis na Gestação e Congênita.md`.
 **2026-03-13 | Antigravity (sessão 015):** Escrita do resumo clínico de Sífilis na Gestação e Congênita. Condensação profunda dos critérios de Sífilis Congênita no neonato de mães do pré-natal (NTT - Notifique, Trie e Trate) e as atualizações do Ministério da Saúde sobre exclusão do fator parceiro no berçário. O arquivo finalizou em `[OBS] Sífilis na Gestação e Congênita.md`.
 **2026-03-12 | Antigravity (sessão 014):** Análise de 11 erros de Trauma (ATLS, FAST, uretra, choque pediátrico) e adição de caixa de Alertas priorizando intervenções ("A atropela C").
@@ -90,9 +91,9 @@ Ambiente de estudo para residência médica. Processa questões de prova, regist
 
 ## Próximos passos
 
-1. Continuar análise de questões por área (Asma é o tema atual)
-2. Criar resumos para as áreas com menos cobertura em `Temas/`
-3. Revisar padrões de erro periodicamente para reforço ativo
+1. Avançar para a **Fase 2 do Roadmap**: Estruturar conversão automatizada do Caderno de Erros em Flashcards.
+2. Criar script de popularização de `SQLite` a partir dos resumos atuais.
+3. Continuar alimentando a Fase 1 (mais questões/resumos de áreas com baixa cobertura).
 
 ---
 
